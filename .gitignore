@@ -7,3 +7,7 @@ dist/
 *.local
 .vite/
 coverage/
+server-dist/
+data/
+test-results/
+playwright-report/
