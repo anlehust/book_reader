@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+
+<html lang="vi">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>ReadFlow - Thư viện</title>
+
+    <style>
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body { font-family: 'Segoe UI', system-ui, sans-serif; background: #141422; color: #e8e8f0; min-height: 100vh; font-size: 16px; }
+
+       
+
+        .container { padding: 32px 48px; width: 100%; }
+
+       
+
+        /* Header */
+
+        .header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 32px; flex-wrap: wrap; gap: 16px; }
+
+        .header h1 { font-size: 28px; color: #6cb4ee; }
+
+        .header-right { display: flex; gap: 12px; }
+
+        .header-right input { padding: 10px 16px; background: #141422; border: 1px solid #2e2e48; border-radius: 8px; color: #e8e8f0; font-size: 15px; width: 240px; }
+
+        .header-right input::placeholder { color: #6b6b85; }
+
+        .header-right select { padding: 10px 14px; background: #141422; border: 1px solid #2e2e48; border-radius: 8px; color: #a0a0b8; font-size: 14px; }
+
+
+
+        /* Stats */
+
+        .stats { display: flex; gap: 24px; margin-bottom: 32px; flex-wrap: wrap; }
+
+        .stat { display: flex; align-items: center; gap: 8px; }
+
+        .stat-num { font-size: 22px; font-weight: 700; color: #6cb4ee; }
+
+        .stat-label { font-size: 13px; color: #a0a0b8; }
+
+
+
+        /* Section */
+
+        .section { margin-bottom: 40px; }
+
+        .section-title { font-size: 14px; font-weight: 600; color: #a0a0b8; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 16px; }
+
+
+
+        /* Book Grid */
+
+        .book-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 20px; }
+
+        .book-card { background: #1c1c32; border: 1px solid #2e2e48; border-radius: 12px; overflow: hidden; cursor: pointer; transition: all 0.2s; }
+
+        .book-card:hover { transform: translateY(-4px); border-color: #6cb4ee; box-shadow: 0 8px 24px rgba(108,180,238,0.1); }
+
+        .book-cover { height: 170px; display: flex; align-items: center; justify-content: center; font-size: 40px; position: relative; }
+
+        .book-cover .badge { position: absolute; top: 8px; font-size: 10px; font-weight: 600; padding: 3px 8px; border-radius: 12px; }
+
+        .badge-reading { left: 8px; background: #6cb4ee; color: #141422; }
+
+        .badge-done { left: 8px; background: #4caf50; color: #fff; }
+
+        .badge-percent { right: 8px; background: rgba(0,0,0,0.5); color: #fff; }
+
+        .book-info { padding: 16px; }
+
+        .book-title { font-size: 15px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-bottom: 6px; }
+
+        .book-meta { font-size: 13px; color: #6b6b85; margin-bottom: 12px; }
+
+        .progress-bar { height: 4px; background: #2a2a45; border-radius: 2px; overflow: hidden; }
+
+        .progress-fill { height: 100%; background: #6cb4ee; border-radius: 2px; }
+
+
+
+        /* Upload card */
+
+        .upload-card { background: #1c1c32; border: 2px dashed #2e2e48; border-radius: 12px; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 250px; cursor: pointer; transition: all 0.2s; }
+
+        .upload-card:hover { border-color: #6cb4ee; background: rgba(108,180,238,0.05); }
+
+        .upload-card .icon { font-size: 28px; margin-bottom: 8px; }
+
+        .upload-card .text { font-size: 14px; color: #6b6b85; }
+
+
+
+        /* Footer */
+
+        .footer { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px; padding: 20px 0; border-top: 1px solid #2e2e48; font-size: 14px; color: #6b6b85; margin-top: 20px; }
+
+
+
+        /* Empty state */
+
+        .empty-state { min-height: 80vh; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 40px; }
+
+        .empty-logo { font-size: 64px; margin-bottom: 16px; }
+
+        .empty-title { font-size: 40px; font-weight: 700; color: #6cb4ee; margin-bottom: 12px; }
+
+        .empty-sub { font-size: 16px; color: #a0a0b8; margin-bottom: 40px; }
+
+        .empty-upload { width: 100%; max-width: 480px; border: 2px dashed #2e2e48; border-radius: 16px; padding: 48px 24px; cursor: pointer; transition: all 0.2s; }
+
+        .empty-upload:hover { border-color: #6cb4ee; background: rgba(108,180,238,0.05); }
+
+        .empty-upload .icon { font-size: 48px; margin-bottom: 16px; }
+
+        .empty-upload p { font-size: 16px; color: #e8e8f0; margin-bottom: 8px; }
+
+        .empty-upload .hint { font-size: 14px; color: #6b6b85; margin-bottom: 20px; }
+
+        .empty-upload .btn { padding: 12px 24px; background: #6cb4ee; color: #141422; border: none; border-radius: 8px; font-size: 15px; font-weight: 600; cursor: pointer; }
+
+        .features { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 40px; max-width: 480px; width: 100%; }
+
+        .feature { display: flex; align-items: center; gap: 10px; background: #1c1c32; border: 1px solid #2e2e48; border-radius: 8px; padding: 10px 14px; }
+
+        .feature span:first-child { font-size: 18px; }
+
+        .feature span:last-child { font-size: 14px; color: #a0a0b8; }
+
+    </style>
+
+</head>
+
+<body>
+
+    <!-- ============ EMPTY STATE ============ -->
+
+    <!-- Uncomment this section and comment out "HAS BOOKS" to see empty state -->
+
+    <!--
+
+    <div class="empty-state">
+
+        <div class="empty-logo">📖</div>
+
+        <div class="empty-title">ReadFlow</div>
+
+        <div class="empty-sub">Đọc sách PDF thông minh hơn</div>
+
+        <div class="empty-upload">
+
+            <div class="icon">📄</div>
+
+            <p>Kéo thả PDF hoặc click để chọn</p>
+
+            <div class="hint">Hỗ trợ file .pdf</div>
+
+            <button class="btn">📁 Chọn file</button>
+
+        </div>
+
+        <div class="features">
+
+            <div class="feature"><span>🔖</span><span>Bookmark</span></div>
+
+            <div class="feature"><span>🖍️</span><span>Highlight</span></div>
+
+            <div class="feature"><span>📝</span><span>Từ mới</span></div>
+
+            <div class="feature"><span>📴</span><span>Offline</span></div>
+
+            <div class="feature"><span>📍</span><span>Lưu vị trí</span></div>
+
+            <div class="feature"><span>📜</span><span>Cuộn mượt</span></div>
+
+        </div>
+
+    </div>
+
+    -->
+
+
+
+    <!-- ============ HAS BOOKS ============ -->
+
+    <div class="container">
+
+        <!-- Header -->
+
+        <div class="header">
+
+            <h1>📖 ReadFlow</h1>
+
+            <div class="header-right">
+
+                <input type="text" placeholder="🔍 Tìm kiếm...">
+
+                <select>
+
+                    <option>Gần đây</option>
+
+                    <option>Tên A-Z</option>
+
+                    <option>Ngày thêm</option>
+
+                </select>
+
+            </div>
+
+        </div>
+
+
+
+        <!-- Stats -->
+
+        <div class="stats">
+
+            <div class="stat"><span class="stat-num">5</span><span class="stat-label">Sách</span></div>
+
+            <div class="stat"><span class="stat-num">2</span><span class="stat-label">Đang đọc</span></div>
+
+            <div class="stat"><span class="stat-num">24</span><span class="stat-label">Từ mới</span></div>
+
+            <div class="stat"><span class="stat-num">12</span><span class="stat-label">Bookmark</span></div>
+
+        </div>
+
+
+
+        <!-- Đang đọc -->
+
+        <div class="section">
+
+            <div class="section-title">▸ Đang đọc (2)</div>
+
+            <div class="book-grid">
+
+                <div class="book-card">
+
+                    <div class="book-cover" style="background: linear-gradient(135deg, #2d5a8e, #1a3a5c);">
+
+                        📄
+
+                        <span class="badge badge-reading">Đang đọc</span>
+
+                        <span class="badge badge-percent">35%</span>
+
+                    </div>
+
+                    <div class="book-info">
+
+                        <div class="book-title">The Art of Learning</div>
+
+                        <div class="book-meta">Trang 42/120</div>
+
+                        <div class="progress-bar"><div class="progress-fill" style="width:35%"></div></div>
+
+                    </div>
+
+                </div>
+
+                <div class="book-card">
+
+                    <div class="book-cover" style="background: linear-gradient(135deg, #5c3a8e, #3a1f5c);">
+
+                        📄
+
+                        <span class="badge badge-reading">Đang đọc</span>
+
+                        <span class="badge badge-percent">68%</span>
+
+                    </div>
+
+                    <div class="book-info">
+
+                        <div class="book-title">Atomic Habits</div>
+
+                        <div class="book-meta">Trang 184/271</div>
+
+                        <div class="progress-bar"><div class="progress-fill" style="width:68%"></div></div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+        <!-- Tất cả -->
+
+        <div class="section">
+
+            <div class="section-title">▸ Tất cả (5)</div>
+
+            <div class="book-grid">
+
+                <div class="book-card">
+
+                    <div class="book-cover" style="background: linear-gradient(135deg, #2d5a8e, #1a3a5c);">📄<span class="badge badge-percent">35%</span></div>
+
+                    <div class="book-info"><div class="book-title">The Art of Learning</div><div class="book-meta">Trang 42/120</div><div class="progress-bar"><div class="progress-fill" style="width:35%"></div></div></div>
+
+                </div>
+
+                <div class="book-card">
+
+                    <div class="book-cover" style="background: linear-gradient(135deg, #5c3a8e, #3a1f5c);">📄<span class="badge badge-percent">68%</span></div>
+
+                    <div class="book-info"><div class="book-title">Atomic Habits</div><div class="book-meta">Trang 184/271</div><div class="progress-bar"><div class="progress-fill" style="width:68%"></div></div></div>
+
+                </div>
+
+                <div class="book-card">
+
+                    <div class="book-cover" style="background: linear-gradient(135deg, #8e5a2d, #5c3a1a);">📄<span class="badge badge-done">✓ Xong</span><span class="badge badge-percent">100%</span></div>
+
+                    <div class="book-info"><div class="book-title">Deep Work</div><div class="book-meta">Hoàn thành ✓</div><div class="progress-bar"><div class="progress-fill" style="width:100%"></div></div></div>
+
+                </div>
+
+                <div class="book-card">
+
+                    <div class="book-cover" style="background: linear-gradient(135deg, #2d8e5a, #1a5c3a);">📄<span class="badge badge-percent">12%</span></div>
+
+                    <div class="book-info"><div class="book-title">Thinking, Fast and Slow</div><div class="book-meta">Trang 48/402</div><div class="progress-bar"><div class="progress-fill" style="width:12%"></div></div></div>
+
+                </div>
+
+                <div class="book-card">
+
+                    <div class="book-cover" style="background: linear-gradient(135deg, #8e2d5a, #5c1a3a);">📄<span class="badge badge-percent">0%</span></div>
+
+                    <div class="book-info"><div class="book-title">The Pragmatic Programmer</div><div class="book-meta">Chưa đọc</div><div class="progress-bar"><div class="progress-fill" style="width:0%"></div></div></div>
+
+                </div>
+
+                <div class="upload-card">
+
+                    <div class="icon">➕</div>
+
+                    <div class="text">Thêm sách</div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+        <!-- Footer -->
+
+        <div class="footer">
+
+            <span>📚 5 sách</span>
+
+            <span>📝 24 từ mới</span>
+
+            <span>🔖 12 bookmark</span>
+
+            <span>· Dữ liệu offline · không cần đăng nhập</span>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
+</html>

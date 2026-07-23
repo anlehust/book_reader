@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.pdf
+.env
+.env.*
+!.env.example
+*.local
+.vite/
+coverage/

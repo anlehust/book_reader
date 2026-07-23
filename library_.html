@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+
+<html lang="vi">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>ReadFlow - Đọc sách</title>
+
+    <style>
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body { font-family: 'Segoe UI', system-ui, sans-serif; background: #141422; color: #e8e8f0; height: 100vh; display: flex; flex-direction: column; font-size: 16px; }
+
+
+
+        /* Header */
+
+        .header { display: flex; align-items: center; justify-content: space-between; padding: 8px 20px; background: #1c1c32; border-bottom: 1px solid #2e2e48; }
+
+        .header-left { display: flex; align-items: center; gap: 12px; }
+
+        .header-left .back { font-size: 20px; color: #a0a0b8; cursor: pointer; text-decoration: none; }
+
+        .header-left .title { font-size: 16px; font-weight: 500; }
+
+        .header-right { font-size: 14px; color: #6b6b85; }
+
+
+
+        /* Main layout */
+
+        .main { flex: 1; display: flex; overflow: hidden; }
+
+
+
+        /* Sidebar */
+
+        .sidebar { width: 260px; background: #1c1c32; border-right: 1px solid #2e2e48; display: flex; flex-direction: column; flex-shrink: 0; }
+
+        .sidebar-bookmark-btn { padding: 12px; text-align: center; font-size: 14px; border-bottom: 1px solid #2e2e48; cursor: pointer; color: #6cb4ee; background: #2a2a45; }
+
+        .sidebar-tabs { display: flex; border-bottom: 1px solid #2e2e48; }
+
+        .sidebar-tab { flex: 1; padding: 12px; text-align: center; font-size: 13px; cursor: pointer; border-bottom: 2px solid transparent; color: #6b6b85; }
+
+        .sidebar-tab.active { color: #6cb4ee; border-bottom-color: #6cb4ee; }
+
+        .sidebar-content { flex: 1; overflow-y: auto; padding: 12px; }
+
+        .sidebar-item { padding: 10px 12px; margin-bottom: 8px; background: #141422; border-radius: 8px; border-left: 3px solid #6cb4ee; cursor: pointer; }
+
+        .sidebar-item:hover { background: #2a2a45; }
+
+        .sidebar-item .page { font-size: 11px; color: #6cb4ee; font-weight: 500; }
+
+        .sidebar-item .text { font-size: 13px; color: #a0a0b8; margin-top: 4px; }
+
+        .sidebar-item-hl { border-left-color: #ffd54f; }
+
+        .sidebar-item-hl.green { border-left-color: #81c784; }
+
+        .sidebar-item-hl.pink { border-left-color: #f48fb1; }
+
+
+
+        /* PDF Viewer */
+
+        .pdf-viewer { flex: 1; background: #1e1e30; display: flex; align-items: flex-start; justify-content: center; padding: 32px; overflow: auto; }
+
+        .pdf-page { background: #fff; width: 620px; min-height: 800px; border-radius: 4px; box-shadow: 0 4px 32px rgba(0,0,0,0.5); padding: 56px 48px; color: #333; font-size: 15px; line-height: 1.9; position: relative; }
+
+        .pdf-page h2 { font-size: 22px; margin-bottom: 16px; color: #222; }
+
+        .pdf-page p { margin-bottom: 14px; text-align: justify; }
+
+        .hl-yellow { background: rgba(255,213,79,0.4); padding: 1px 3px; border-radius: 2px; }
+
+        .hl-green { background: rgba(129,199,132,0.4); padding: 1px 3px; border-radius: 2px; }
+
+
+
+        /* Selection popup */
+
+        .sel-popup { position: absolute; top: 140px; left: 180px; background: #1c1c32; border: 1px solid #2e2e48; border-radius: 12px; padding: 8px 12px; display: flex; align-items: center; gap: 8px; box-shadow: 0 4px 24px rgba(0,0,0,0.5); }
+
+        .sel-popup .color { width: 28px; height: 28px; border-radius: 50%; border: 1px solid rgba(0,0,0,0.2); cursor: pointer; }
+
+        .sel-popup .divider { width: 1px; height: 22px; background: #2e2e48; margin: 0 4px; }
+
+        .sel-popup .btn-vocab { padding: 6px 12px; border-radius: 8px; font-size: 14px; color: #a0a0b8; cursor: pointer; border: none; background: transparent; }
+
+        .sel-popup .btn-vocab:hover { background: #2a2a45; color: #6cb4ee; }
+
+        .sel-popup .warn { color: #faad14; font-size: 14px; }
+
+
+
+        /* Vocab Panel */
+
+        .vocab-panel { width: 300px; background: #1c1c32; border-left: 1px solid #2e2e48; display: flex; flex-direction: column; flex-shrink: 0; position: relative; }
+
+        .vocab-resize { position: absolute; left: -3px; top: 0; bottom: 0; width: 6px; cursor: col-resize; }
+
+        .vocab-resize::after { content: ''; position: absolute; left: 2px; top: 50%; transform: translateY(-50%); width: 3px; height: 40px; border-radius: 2px; background: #2e2e48; }
+
+        .vocab-header { padding: 10px 12px; border-bottom: 1px solid #2e2e48; display: flex; align-items: center; justify-content: space-between; }
+
+        .vocab-header h3 { font-size: 14px; color: #6cb4ee; font-weight: 600; }
+
+        .vocab-header .count { background: #1565c0; color: #fff; font-size: 11px; padding: 2px 8px; border-radius: 10px; }
+
+        .vocab-filter { padding: 6px 12px; border-bottom: 1px solid #2e2e48; font-size: 12px; color: #a0a0b8; }
+
+        .vocab-table { flex: 1; overflow-y: auto; }
+
+        .vocab-row { display: flex; padding: 8px 10px; cursor: pointer; border-bottom: 1px solid #2e2e48; }
+
+        .vocab-row:hover { background: #2a2a45; }
+
+        .vocab-row.even { background: #1e1e35; }
+
+        .vocab-row .word { flex: 1; font-size: 13px; font-weight: 600; color: #e8e8f0; }
+
+        .vocab-row .meaning { flex: 1; font-size: 12px; color: #a0a0b8; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+       
+
+        /* Expanded row */
+
+        .vocab-expanded { padding: 12px 16px; background: #1c1c32; border-bottom: 1px solid #2e2e48; }
+
+        .vocab-expanded .full-word { font-size: 15px; font-weight: 600; margin-bottom: 6px; }
+
+        .vocab-expanded .full-meaning { font-size: 14px; color: #a0a0b8; margin-bottom: 6px; }
+
+        .vocab-expanded .example { font-size: 13px; color: #6b6b85; font-style: italic; margin-bottom: 10px; }
+
+        .vocab-expanded .actions { display: flex; gap: 8px; }
+
+        .vocab-expanded .actions button { padding: 4px 12px; border-radius: 6px; font-size: 12px; cursor: pointer; border: 1px solid #2e2e48; background: #2a2a45; color: #a0a0b8; }
+
+        .vocab-expanded .actions button:hover { border-color: #6cb4ee; color: #6cb4ee; }
+
+        .vocab-expanded .actions .del { color: #ff4d4f; border-color: #ff4d4f; }
+
+
+
+        .vocab-add { padding: 10px 12px; border-top: 1px solid #2e2e48; }
+
+        .vocab-add input { width: 100%; padding: 6px 10px; margin-bottom: 6px; background: #141422; border: 1px solid #2e2e48; border-radius: 6px; color: #e8e8f0; font-size: 13px; }
+
+        .vocab-add input::placeholder { color: #6b6b85; }
+
+        .vocab-add button { width: 100%; padding: 7px; background: #6cb4ee; color: #141422; border: none; border-radius: 6px; font-size: 13px; font-weight: 600; cursor: pointer; }
+
+
+
+        /* Footer */
+
+        .footer { display: flex; align-items: center; gap: 16px; padding: 8px 16px; background: #1c1c32; border-top: 1px solid #2e2e48; }
+
+        .footer-left { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
+
+        .zoom-ctrl { display: flex; align-items: center; background: #141422; border-radius: 8px; }
+
+        .zoom-ctrl button { padding: 8px 14px; border: none; background: transparent; color: #a0a0b8; font-size: 20px; cursor: pointer; font-weight: 500; }
+
+        .zoom-ctrl button:hover { color: #6cb4ee; }
+
+        .zoom-ctrl .value { font-size: 16px; font-weight: 600; color: #e8e8f0; width: 56px; text-align: center; }
+
+        .footer-btn { padding: 8px 10px; border: none; background: transparent; font-size: 18px; cursor: pointer; border-radius: 8px; }
+
+        .footer-btn.active { color: #6cb4ee; background: #2a2a45; }
+
+        .footer-btn:not(.active) { color: #6b6b85; }
+
+        .progress-wrap { flex: 1; display: flex; align-items: center; gap: 10px; }
+
+        .progress-bar { flex: 1; height: 6px; background: #2a2a45; border-radius: 3px; overflow: hidden; }
+
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #6cb4ee, #4a9de0); border-radius: 3px; }
+
+        .progress-pct { font-size: 14px; color: #6b6b85; }
+
+        .page-nav { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
+
+        .page-nav button { width: 32px; height: 32px; background: #2a2a45; border: none; color: #a0a0b8; border-radius: 6px; cursor: pointer; font-size: 14px; }
+
+        .page-nav button:hover { background: #6cb4ee; color: #141422; }
+
+        .page-nav input { width: 48px; text-align: center; padding: 4px; background: #141422; border: 1px solid #2e2e48; border-radius: 4px; color: #e8e8f0; font-size: 14px; }
+
+        .page-nav span { font-size: 14px; color: #6b6b85; }
+
+    </style>
+
+</head>
+
+<body>
+
+    <!-- Header -->
+
+    <div class="header">
+
+        <div class="header-left">
+
+            <a href="library.html" class="back">←</a>
+
+            <span class="title">The Art of Learning</span>
+
+        </div>
+
+        <div class="header-right">Trang 42/120</div>
+
+    </div>
+
+
+
+    <!-- Main -->
+
+    <div class="main">
+
+        <!-- Sidebar -->
+
+        <div class="sidebar">
+
+            <div class="sidebar-bookmark-btn">🔖 Đã đánh dấu trang này</div>
+
+            <div class="sidebar-tabs">
+
+                <div class="sidebar-tab active">📑 Bookmark (4)</div>
+
+                <div class="sidebar-tab">🖍️ Highlight (3)</div>
+
+            </div>
+
+            <div class="sidebar-content">
+
+                <div class="sidebar-item"><div class="page">Trang 12</div><div class="text">Chapter 2: Foundation</div></div>
+
+                <div class="sidebar-item"><div class="page">Trang 28</div><div class="text">Growth mindset</div></div>
+
+                <div class="sidebar-item"><div class="page">Trang 35</div><div class="text">Chess principles</div></div>
+
+                <div class="sidebar-item" style="background:#2a2a45"><div class="page">Trang 42</div><div class="text">Trang hiện tại</div></div>
+
+            </div>
+
+        </div>
+
+
+
+        <!-- PDF Viewer -->
+
+        <div class="pdf-viewer">
+
+            <div class="pdf-page">
+
+                <h2>Chapter 5: The Soft Zone</h2>
+
+                <p>My whole life I have worked on building a <span class="hl-yellow">resilient</span> approach to the learning process. When I think about creativity, it is always in relation to a <span class="hl-green">foundation</span>.</p>
+
+                <p>The learning principle is to plunge into the detailed mystery of the micro in order to understand what makes the macro tick. We are <span class="hl-yellow">bombarded</span> with more and more information on television, radio, and the internet.</p>
+
+                <p>In my experience, successful people shoot for the stars, put their hearts on the line in every battle, and ultimately discover that the lessons learned from the pursuit of excellence mean much more than the immediate trophies and glory.</p>
+
+
+
+                <!-- Selection popup -->
+
+                <div class="sel-popup">
+
+                    <div class="color" style="background:#ffd54f" title="Vàng"></div>
+
+                    <div class="color" style="background:#81c784" title="Xanh"></div>
+
+                    <div class="color" style="background:#f48fb1" title="Hồng"></div>
+
+                    <div class="color" style="background:#ffb74d" title="Cam"></div>
+
+                    <div class="divider"></div>
+
+                    <button class="btn-vocab">📝 Từ mới</button>
+
+                    <span class="warn" title="Từ đã có">⚠</span>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+        <!-- Vocab Panel -->
+
+        <div class="vocab-panel">
+
+            <div class="vocab-resize"></div>
+
+            <div class="vocab-header">
+
+                <h3>📝 Từ mới</h3>
+
+                <span class="count">6</span>
+
+            </div>
+
+            <div class="vocab-filter">☐ Chỉ trang này</div>
+
+            <div class="vocab-table">
+
+                <div class="vocab-row even"><span class="word">fundamental</span><span class="meaning">nguyên tắc cơ bản</span></div>
+
+                <div class="vocab-row"><span class="word">condense</span><span class="meaning">ngưng, cô đọng</span></div>
+
+                <!-- Expanded row example -->
+
+                <div class="vocab-row even" style="background:#2a2a45"><span class="word">sprawling topic</span><span class="meaning">chủ đề tổng qu…</span></div>
+
+                <div class="vocab-expanded">
+
+                    <div class="full-word">sprawling topic</div>
+
+                    <div class="full-meaning">chủ đề tổng quan, lan rộng nhiều hướng</div>
+
+                    <div class="example">"a sprawling topic that covers..."</div>
+
+                    <div class="actions">
+
+                        <button>✎ Sửa</button>
+
+                        <button class="del">🗑 Xoá</button>
+
+                    </div>
+
+                </div>
+
+                <div class="vocab-row"><span class="word">concise work</span><span class="meaning">công việc ngắn gọn</span></div>
+
+                <div class="vocab-row even"><span class="word">trademark</span><span class="meaning">thương hiệu</span></div>
+
+                <div class="vocab-row"><span class="word">invalidating</span><span class="meaning">vô hiệu hoá</span></div>
+
+            </div>
+
+            <div class="vocab-add">
+
+                <input type="text" placeholder="Từ mới...">
+
+                <input type="text" placeholder="Nghĩa...">
+
+                <button>+ Thêm</button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+    <!-- Footer -->
+
+    <div class="footer">
+
+        <div class="footer-left">
+
+            <div class="zoom-ctrl">
+
+                <button>−</button>
+
+                <span class="value">110%</span>
+
+                <button>+</button>
+
+            </div>
+
+            <button class="footer-btn" title="Chế độ đọc">📜</button>
+
+            <button class="footer-btn active" title="Bookmark">🔖</button>
+
+            <button class="footer-btn active" title="Sidebar">☰</button>
+
+            <button class="footer-btn active" title="Từ mới">📝</button>
+
+        </div>
+
+        <div class="progress-wrap">
+
+            <div class="progress-bar"><div class="progress-fill" style="width:35%"></div></div>
+
+            <span class="progress-pct">35%</span>
+
+        </div>
+
+        <div class="page-nav">
+
+            <button>◀</button>
+
+            <input value="42">
+
+            <span>/ 120</span>
+
+            <button>▶</button>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
