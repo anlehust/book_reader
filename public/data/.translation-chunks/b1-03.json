@@ -1,0 +1,722 @@
+[
+  {
+    "word": "killing",
+    "pos": "n"
+  },
+  {
+    "word": "kind (caring)",
+    "pos": "adj"
+  },
+  {
+    "word": "kiss",
+    "pos": "v., n"
+  },
+  {
+    "word": "knock",
+    "pos": "n, v"
+  },
+  {
+    "word": "label",
+    "pos": "n., v"
+  },
+  {
+    "word": "laboratory",
+    "pos": "n"
+  },
+  {
+    "word": "lack",
+    "pos": "n., v"
+  },
+  {
+    "word": "lay",
+    "pos": "v"
+  },
+  {
+    "word": "layer",
+    "pos": "n"
+  },
+  {
+    "word": "lead",
+    "pos": "n, v"
+  },
+  {
+    "word": "leading",
+    "pos": "adj"
+  },
+  {
+    "word": "leaf",
+    "pos": "n"
+  },
+  {
+    "word": "leather",
+    "pos": "n"
+  },
+  {
+    "word": "legal",
+    "pos": "adj"
+  },
+  {
+    "word": "leisure",
+    "pos": "n"
+  },
+  {
+    "word": "length",
+    "pos": "n"
+  },
+  {
+    "word": "lie (tell a lie)",
+    "pos": "v., n"
+  },
+  {
+    "word": "like (find sb/sth pleasant)",
+    "pos": "n, v"
+  },
+  {
+    "word": "limit",
+    "pos": "n., v"
+  },
+  {
+    "word": "lip",
+    "pos": "n"
+  },
+  {
+    "word": "liquid",
+    "pos": "n., adj"
+  },
+  {
+    "word": "literature",
+    "pos": "n"
+  },
+  {
+    "word": "live",
+    "pos": "adj., adv, v"
+  },
+  {
+    "word": "living",
+    "pos": "adj., n"
+  },
+  {
+    "word": "local",
+    "pos": "adj, n"
+  },
+  {
+    "word": "locate",
+    "pos": "v"
+  },
+  {
+    "word": "located",
+    "pos": "adj"
+  },
+  {
+    "word": "location",
+    "pos": "n"
+  },
+  {
+    "word": "lonely",
+    "pos": "adj"
+  },
+  {
+    "word": "loss",
+    "pos": "n"
+  },
+  {
+    "word": "luxury",
+    "pos": "n"
+  },
+  {
+    "word": "mad",
+    "pos": "adj"
+  },
+  {
+    "word": "magic",
+    "pos": "n., adj"
+  },
+  {
+    "word": "mainly",
+    "pos": "adv"
+  },
+  {
+    "word": "mall",
+    "pos": "n"
+  },
+  {
+    "word": "management",
+    "pos": "n"
+  },
+  {
+    "word": "market",
+    "pos": "n, v"
+  },
+  {
+    "word": "marketing",
+    "pos": "n"
+  },
+  {
+    "word": "marriage",
+    "pos": "n"
+  },
+  {
+    "word": "meanwhile",
+    "pos": "adv"
+  },
+  {
+    "word": "measure",
+    "pos": "v., n"
+  },
+  {
+    "word": "mental",
+    "pos": "adj"
+  },
+  {
+    "word": "mention",
+    "pos": "n, v"
+  },
+  {
+    "word": "mess",
+    "pos": "n"
+  },
+  {
+    "word": "mild",
+    "pos": "adj"
+  },
+  {
+    "word": "mine (hole in the ground)",
+    "pos": "n"
+  },
+  {
+    "word": "mix",
+    "pos": "v., n"
+  },
+  {
+    "word": "mixture",
+    "pos": "n"
+  },
+  {
+    "word": "mood",
+    "pos": "n"
+  },
+  {
+    "word": "move",
+    "pos": "n, v"
+  },
+  {
+    "word": "mud",
+    "pos": "n"
+  },
+  {
+    "word": "murder",
+    "pos": "n., v"
+  },
+  {
+    "word": "muscle",
+    "pos": "n"
+  },
+  {
+    "word": "musical",
+    "pos": "adj, n"
+  },
+  {
+    "word": "mystery",
+    "pos": "n"
+  },
+  {
+    "word": "nail",
+    "pos": "n"
+  },
+  {
+    "word": "narrative",
+    "pos": "n., adj"
+  },
+  {
+    "word": "nation",
+    "pos": "n"
+  },
+  {
+    "word": "native",
+    "pos": "adj., n"
+  },
+  {
+    "word": "naturally",
+    "pos": "adv"
+  },
+  {
+    "word": "necessarily",
+    "pos": "adv"
+  },
+  {
+    "word": "need",
+    "pos": "modal v, n, v"
+  },
+  {
+    "word": "needle",
+    "pos": "n"
+  },
+  {
+    "word": "neighbourhood",
+    "pos": "n"
+  },
+  {
+    "word": "neither",
+    "pos": "adv, det./pron"
+  },
+  {
+    "word": "next",
+    "pos": "adj., adv, n"
+  },
+  {
+    "word": "nor",
+    "pos": "conj./adv"
+  },
+  {
+    "word": "normal",
+    "pos": "adj, n"
+  },
+  {
+    "word": "northern",
+    "pos": "adj"
+  },
+  {
+    "word": "note",
+    "pos": "n, v"
+  },
+  {
+    "word": "now",
+    "pos": "adv, conj"
+  },
+  {
+    "word": "nuclear",
+    "pos": "adj"
+  },
+  {
+    "word": "obvious",
+    "pos": "adj"
+  },
+  {
+    "word": "obviously",
+    "pos": "adv"
+  },
+  {
+    "word": "occasion",
+    "pos": "n"
+  },
+  {
+    "word": "occur",
+    "pos": "v"
+  },
+  {
+    "word": "odd",
+    "pos": "adj"
+  },
+  {
+    "word": "old-fashioned",
+    "pos": "adj"
+  },
+  {
+    "word": "once",
+    "pos": "adv, conj"
+  },
+  {
+    "word": "operation",
+    "pos": "n"
+  },
+  {
+    "word": "organized",
+    "pos": "adj"
+  },
+  {
+    "word": "organizer",
+    "pos": "n"
+  },
+  {
+    "word": "original",
+    "pos": "adj, n"
+  },
+  {
+    "word": "originally",
+    "pos": "adv"
+  },
+  {
+    "word": "ought",
+    "pos": "modal v"
+  },
+  {
+    "word": "ours",
+    "pos": "pron"
+  },
+  {
+    "word": "outdoor",
+    "pos": "adj"
+  },
+  {
+    "word": "outdoors",
+    "pos": "adv"
+  },
+  {
+    "word": "pack",
+    "pos": "n, v"
+  },
+  {
+    "word": "painful",
+    "pos": "adj"
+  },
+  {
+    "word": "pale",
+    "pos": "adj"
+  },
+  {
+    "word": "pan",
+    "pos": "n"
+  },
+  {
+    "word": "participate",
+    "pos": "v"
+  },
+  {
+    "word": "particularly",
+    "pos": "adv"
+  },
+  {
+    "word": "pass",
+    "pos": "n, v"
+  },
+  {
+    "word": "passion",
+    "pos": "n"
+  },
+  {
+    "word": "path",
+    "pos": "n"
+  },
+  {
+    "word": "payment",
+    "pos": "n"
+  },
+  {
+    "word": "peaceful",
+    "pos": "adj"
+  },
+  {
+    "word": "percentage",
+    "pos": "n"
+  },
+  {
+    "word": "perfectly",
+    "pos": "adv"
+  },
+  {
+    "word": "performance",
+    "pos": "n"
+  },
+  {
+    "word": "personally",
+    "pos": "adv"
+  },
+  {
+    "word": "persuade",
+    "pos": "v"
+  },
+  {
+    "word": "photographer",
+    "pos": "n"
+  },
+  {
+    "word": "photography",
+    "pos": "n"
+  },
+  {
+    "word": "pin",
+    "pos": "n., v"
+  },
+  {
+    "word": "pipe",
+    "pos": "n"
+  },
+  {
+    "word": "place",
+    "pos": "n, v"
+  },
+  {
+    "word": "planning",
+    "pos": "n"
+  },
+  {
+    "word": "pleasant",
+    "pos": "adj"
+  },
+  {
+    "word": "pleasure",
+    "pos": "n"
+  },
+  {
+    "word": "plenty",
+    "pos": "pron"
+  },
+  {
+    "word": "poem",
+    "pos": "n"
+  },
+  {
+    "word": "poet",
+    "pos": "n"
+  },
+  {
+    "word": "poetry",
+    "pos": "n"
+  },
+  {
+    "word": "point",
+    "pos": "n, v"
+  },
+  {
+    "word": "poison",
+    "pos": "n., v"
+  },
+  {
+    "word": "poisonous",
+    "pos": "adj"
+  },
+  {
+    "word": "policy",
+    "pos": "n"
+  },
+  {
+    "word": "political",
+    "pos": "adj"
+  },
+  {
+    "word": "politician",
+    "pos": "n"
+  },
+  {
+    "word": "politics",
+    "pos": "n"
+  },
+  {
+    "word": "port",
+    "pos": "n"
+  },
+  {
+    "word": "portrait",
+    "pos": "n"
+  },
+  {
+    "word": "possibly",
+    "pos": "adv"
+  },
+  {
+    "word": "pot",
+    "pos": "n"
+  },
+  {
+    "word": "pour",
+    "pos": "v"
+  },
+  {
+    "word": "poverty",
+    "pos": "n"
+  },
+  {
+    "word": "powder",
+    "pos": "n"
+  },
+  {
+    "word": "powerful",
+    "pos": "adj"
+  },
+  {
+    "word": "practical",
+    "pos": "adj"
+  },
+  {
+    "word": "pray",
+    "pos": "v"
+  },
+  {
+    "word": "prayer",
+    "pos": "n"
+  },
+  {
+    "word": "prediction",
+    "pos": "n"
+  },
+  {
+    "word": "prepared",
+    "pos": "adj"
+  },
+  {
+    "word": "presentation",
+    "pos": "n"
+  },
+  {
+    "word": "press",
+    "pos": "n., v"
+  },
+  {
+    "word": "pressure",
+    "pos": "n"
+  },
+  {
+    "word": "pretend",
+    "pos": "v"
+  },
+  {
+    "word": "previous",
+    "pos": "adj"
+  },
+  {
+    "word": "previously",
+    "pos": "adv"
+  },
+  {
+    "word": "priest",
+    "pos": "n"
+  },
+  {
+    "word": "primary",
+    "pos": "adj"
+  },
+  {
+    "word": "prince",
+    "pos": "n"
+  },
+  {
+    "word": "princess",
+    "pos": "n"
+  },
+  {
+    "word": "printing",
+    "pos": "n"
+  },
+  {
+    "word": "prisoner",
+    "pos": "n"
+  },
+  {
+    "word": "private",
+    "pos": "adj"
+  },
+  {
+    "word": "producer",
+    "pos": "n"
+  },
+  {
+    "word": "production",
+    "pos": "n"
+  },
+  {
+    "word": "profession",
+    "pos": "n"
+  },
+  {
+    "word": "profit",
+    "pos": "n"
+  },
+  {
+    "word": "program",
+    "pos": "n, v"
+  },
+  {
+    "word": "promote",
+    "pos": "v"
+  },
+  {
+    "word": "proper",
+    "pos": "adj"
+  },
+  {
+    "word": "properly",
+    "pos": "adv"
+  },
+  {
+    "word": "property",
+    "pos": "n"
+  },
+  {
+    "word": "protest",
+    "pos": "n., v"
+  },
+  {
+    "word": "proud",
+    "pos": "adj"
+  },
+  {
+    "word": "prove",
+    "pos": "v"
+  },
+  {
+    "word": "pull",
+    "pos": "n, v"
+  },
+  {
+    "word": "punish",
+    "pos": "v"
+  },
+  {
+    "word": "punishment",
+    "pos": "n"
+  },
+  {
+    "word": "push",
+    "pos": "n, v"
+  },
+  {
+    "word": "qualification",
+    "pos": "n"
+  },
+  {
+    "word": "qualified",
+    "pos": "adj"
+  },
+  {
+    "word": "qualify",
+    "pos": "v"
+  },
+  {
+    "word": "queue",
+    "pos": "n., v"
+  },
+  {
+    "word": "quit",
+    "pos": "v"
+  },
+  {
+    "word": "quotation",
+    "pos": "n"
+  },
+  {
+    "word": "quote",
+    "pos": "v., n"
+  },
+  {
+    "word": "race (people)",
+    "pos": "n"
+  },
+  {
+    "word": "racing",
+    "pos": "n"
+  },
+  {
+    "word": "rare",
+    "pos": "adj"
+  },
+  {
+    "word": "rarely",
+    "pos": "adv"
+  },
+  {
+    "word": "reaction",
+    "pos": "n"
+  },
+  {
+    "word": "reality",
+    "pos": "n"
+  },
+  {
+    "word": "receipt",
+    "pos": "n"
+  },
+  {
+    "word": "recommendation",
+    "pos": "n"
+  }
+]

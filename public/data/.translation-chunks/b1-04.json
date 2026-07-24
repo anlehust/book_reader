@@ -1,0 +1,722 @@
+[
+  {
+    "word": "reference",
+    "pos": "n"
+  },
+  {
+    "word": "reflect",
+    "pos": "v"
+  },
+  {
+    "word": "regularly",
+    "pos": "adv"
+  },
+  {
+    "word": "reject",
+    "pos": "v"
+  },
+  {
+    "word": "relate",
+    "pos": "v"
+  },
+  {
+    "word": "related",
+    "pos": "adj"
+  },
+  {
+    "word": "relation",
+    "pos": "n"
+  },
+  {
+    "word": "relative",
+    "pos": "adj., n"
+  },
+  {
+    "word": "relaxed",
+    "pos": "adj"
+  },
+  {
+    "word": "relaxing",
+    "pos": "adj"
+  },
+  {
+    "word": "release",
+    "pos": "v., n"
+  },
+  {
+    "word": "reliable",
+    "pos": "adj"
+  },
+  {
+    "word": "religion",
+    "pos": "n"
+  },
+  {
+    "word": "religious",
+    "pos": "adj"
+  },
+  {
+    "word": "remain",
+    "pos": "v"
+  },
+  {
+    "word": "remind",
+    "pos": "v"
+  },
+  {
+    "word": "remote",
+    "pos": "adj"
+  },
+  {
+    "word": "rent",
+    "pos": "n., v"
+  },
+  {
+    "word": "repair",
+    "pos": "n, v"
+  },
+  {
+    "word": "repeat",
+    "pos": "n, v"
+  },
+  {
+    "word": "repeated",
+    "pos": "adj"
+  },
+  {
+    "word": "represent",
+    "pos": "v"
+  },
+  {
+    "word": "request",
+    "pos": "n, v"
+  },
+  {
+    "word": "require",
+    "pos": "v"
+  },
+  {
+    "word": "reservation",
+    "pos": "n"
+  },
+  {
+    "word": "resource",
+    "pos": "n"
+  },
+  {
+    "word": "respect",
+    "pos": "n., v"
+  },
+  {
+    "word": "responsibility",
+    "pos": "n"
+  },
+  {
+    "word": "responsible",
+    "pos": "adj"
+  },
+  {
+    "word": "result",
+    "pos": "n, v"
+  },
+  {
+    "word": "retire",
+    "pos": "v"
+  },
+  {
+    "word": "retired",
+    "pos": "adj"
+  },
+  {
+    "word": "revise",
+    "pos": "v"
+  },
+  {
+    "word": "ring",
+    "pos": "n, v"
+  },
+  {
+    "word": "rise",
+    "pos": "n, v"
+  },
+  {
+    "word": "risk",
+    "pos": "n., v"
+  },
+  {
+    "word": "robot",
+    "pos": "n"
+  },
+  {
+    "word": "roll",
+    "pos": "v., n"
+  },
+  {
+    "word": "romantic",
+    "pos": "adj"
+  },
+  {
+    "word": "rope",
+    "pos": "n"
+  },
+  {
+    "word": "rough",
+    "pos": "adj"
+  },
+  {
+    "word": "row",
+    "pos": "n"
+  },
+  {
+    "word": "royal",
+    "pos": "adj"
+  },
+  {
+    "word": "rugby",
+    "pos": "n"
+  },
+  {
+    "word": "rule",
+    "pos": "n, v"
+  },
+  {
+    "word": "safety",
+    "pos": "n"
+  },
+  {
+    "word": "sail",
+    "pos": "n, v"
+  },
+  {
+    "word": "sailor",
+    "pos": "n"
+  },
+  {
+    "word": "sand",
+    "pos": "n"
+  },
+  {
+    "word": "scan",
+    "pos": "v"
+  },
+  {
+    "word": "scientific",
+    "pos": "adj"
+  },
+  {
+    "word": "script",
+    "pos": "n"
+  },
+  {
+    "word": "sculpture",
+    "pos": "n"
+  },
+  {
+    "word": "secondary",
+    "pos": "adj"
+  },
+  {
+    "word": "security",
+    "pos": "n"
+  },
+  {
+    "word": "seed",
+    "pos": "n"
+  },
+  {
+    "word": "sensible",
+    "pos": "adj"
+  },
+  {
+    "word": "separate",
+    "pos": "adj, v"
+  },
+  {
+    "word": "seriously",
+    "pos": "adv"
+  },
+  {
+    "word": "servant",
+    "pos": "n"
+  },
+  {
+    "word": "set (group)",
+    "pos": "n"
+  },
+  {
+    "word": "set (put)",
+    "pos": "v"
+  },
+  {
+    "word": "setting",
+    "pos": "n"
+  },
+  {
+    "word": "sex",
+    "pos": "n"
+  },
+  {
+    "word": "sexual",
+    "pos": "adj"
+  },
+  {
+    "word": "shake",
+    "pos": "n, v"
+  },
+  {
+    "word": "share",
+    "pos": "n, v"
+  },
+  {
+    "word": "sharp",
+    "pos": "adj"
+  },
+  {
+    "word": "shelf",
+    "pos": "n"
+  },
+  {
+    "word": "shell",
+    "pos": "n"
+  },
+  {
+    "word": "shine",
+    "pos": "v"
+  },
+  {
+    "word": "shiny",
+    "pos": "adj"
+  },
+  {
+    "word": "shy",
+    "pos": "adj"
+  },
+  {
+    "word": "sight",
+    "pos": "n"
+  },
+  {
+    "word": "signal",
+    "pos": "n., v"
+  },
+  {
+    "word": "silent",
+    "pos": "adj"
+  },
+  {
+    "word": "silly",
+    "pos": "adj"
+  },
+  {
+    "word": "similarity",
+    "pos": "n"
+  },
+  {
+    "word": "similarly",
+    "pos": "adv"
+  },
+  {
+    "word": "simply",
+    "pos": "adv"
+  },
+  {
+    "word": "since",
+    "pos": "adv, conj, prep."
+  },
+  {
+    "word": "sink",
+    "pos": "v"
+  },
+  {
+    "word": "slice",
+    "pos": "n., v"
+  },
+  {
+    "word": "slightly",
+    "pos": "adv"
+  },
+  {
+    "word": "slow",
+    "pos": "adj, v"
+  },
+  {
+    "word": "smart",
+    "pos": "adj"
+  },
+  {
+    "word": "smooth",
+    "pos": "adj"
+  },
+  {
+    "word": "software",
+    "pos": "n"
+  },
+  {
+    "word": "soil",
+    "pos": "n"
+  },
+  {
+    "word": "solid",
+    "pos": "adj., n"
+  },
+  {
+    "word": "sort",
+    "pos": "n, v"
+  },
+  {
+    "word": "southern",
+    "pos": "adj"
+  },
+  {
+    "word": "specifically",
+    "pos": "adv"
+  },
+  {
+    "word": "spending",
+    "pos": "n"
+  },
+  {
+    "word": "spicy",
+    "pos": "adj"
+  },
+  {
+    "word": "spirit",
+    "pos": "n"
+  },
+  {
+    "word": "spoken",
+    "pos": "adj"
+  },
+  {
+    "word": "spring",
+    "pos": "n, v"
+  },
+  {
+    "word": "stadium",
+    "pos": "n"
+  },
+  {
+    "word": "staff",
+    "pos": "n"
+  },
+  {
+    "word": "standard",
+    "pos": "n., adj"
+  },
+  {
+    "word": "state",
+    "pos": "adj., n, v"
+  },
+  {
+    "word": "statistic",
+    "pos": "n"
+  },
+  {
+    "word": "statue",
+    "pos": "n"
+  },
+  {
+    "word": "stick (piece of wood)",
+    "pos": "n"
+  },
+  {
+    "word": "stick (push into/attach)",
+    "pos": "v"
+  },
+  {
+    "word": "still",
+    "pos": "adj, adv"
+  },
+  {
+    "word": "store",
+    "pos": "n, v"
+  },
+  {
+    "word": "stranger",
+    "pos": "n"
+  },
+  {
+    "word": "strength",
+    "pos": "n"
+  },
+  {
+    "word": "string",
+    "pos": "n"
+  },
+  {
+    "word": "strongly",
+    "pos": "adv"
+  },
+  {
+    "word": "studio",
+    "pos": "n"
+  },
+  {
+    "word": "substance",
+    "pos": "n"
+  },
+  {
+    "word": "successfully",
+    "pos": "adv"
+  },
+  {
+    "word": "sudden",
+    "pos": "adj"
+  },
+  {
+    "word": "suffer",
+    "pos": "v"
+  },
+  {
+    "word": "suit",
+    "pos": "n, v"
+  },
+  {
+    "word": "suitable",
+    "pos": "adj"
+  },
+  {
+    "word": "summarize",
+    "pos": "v"
+  },
+  {
+    "word": "summary",
+    "pos": "n"
+  },
+  {
+    "word": "supply",
+    "pos": "n., v"
+  },
+  {
+    "word": "supporter",
+    "pos": "n"
+  },
+  {
+    "word": "surely",
+    "pos": "adv"
+  },
+  {
+    "word": "surface",
+    "pos": "n"
+  },
+  {
+    "word": "survive",
+    "pos": "v"
+  },
+  {
+    "word": "swim",
+    "pos": "n, v"
+  },
+  {
+    "word": "symptom",
+    "pos": "n"
+  },
+  {
+    "word": "tail",
+    "pos": "n"
+  },
+  {
+    "word": "talent",
+    "pos": "n"
+  },
+  {
+    "word": "talented",
+    "pos": "adj"
+  },
+  {
+    "word": "tape",
+    "pos": "n"
+  },
+  {
+    "word": "tax",
+    "pos": "n., v"
+  },
+  {
+    "word": "technical",
+    "pos": "adj"
+  },
+  {
+    "word": "technique",
+    "pos": "n"
+  },
+  {
+    "word": "tend",
+    "pos": "v"
+  },
+  {
+    "word": "tent",
+    "pos": "n"
+  },
+  {
+    "word": "that",
+    "pos": "adv, conj, det., pron."
+  },
+  {
+    "word": "theirs",
+    "pos": "pron"
+  },
+  {
+    "word": "theme",
+    "pos": "n"
+  },
+  {
+    "word": "theory",
+    "pos": "n"
+  },
+  {
+    "word": "therefore",
+    "pos": "adv"
+  },
+  {
+    "word": "this",
+    "pos": "adv, det./pron"
+  },
+  {
+    "word": "though",
+    "pos": "conj., adv"
+  },
+  {
+    "word": "throat",
+    "pos": "n"
+  },
+  {
+    "word": "throughout",
+    "pos": "prep./adv"
+  },
+  {
+    "word": "tight",
+    "pos": "adj"
+  },
+  {
+    "word": "till",
+    "pos": "conj./prep"
+  },
+  {
+    "word": "tin",
+    "pos": "n"
+  },
+  {
+    "word": "tiny",
+    "pos": "adj"
+  },
+  {
+    "word": "tip",
+    "pos": "n, v"
+  },
+  {
+    "word": "toe",
+    "pos": "n"
+  },
+  {
+    "word": "tongue",
+    "pos": "n"
+  },
+  {
+    "word": "totally",
+    "pos": "adv"
+  },
+  {
+    "word": "touch",
+    "pos": "n, v"
+  },
+  {
+    "word": "tour",
+    "pos": "n, v"
+  },
+  {
+    "word": "trade",
+    "pos": "n., v"
+  },
+  {
+    "word": "translate",
+    "pos": "v"
+  },
+  {
+    "word": "translation",
+    "pos": "n"
+  },
+  {
+    "word": "transport",
+    "pos": "n, v"
+  },
+  {
+    "word": "treat",
+    "pos": "v"
+  },
+  {
+    "word": "treatment",
+    "pos": "n"
+  },
+  {
+    "word": "trend",
+    "pos": "n"
+  },
+  {
+    "word": "trick",
+    "pos": "n., v"
+  },
+  {
+    "word": "truth",
+    "pos": "n"
+  },
+  {
+    "word": "tube",
+    "pos": "n"
+  },
+  {
+    "word": "type",
+    "pos": "n, v"
+  },
+  {
+    "word": "typically",
+    "pos": "adv"
+  },
+  {
+    "word": "tyre",
+    "pos": "n"
+  },
+  {
+    "word": "ugly",
+    "pos": "adj"
+  },
+  {
+    "word": "unable",
+    "pos": "adj"
+  },
+  {
+    "word": "uncomfortable",
+    "pos": "adj"
+  },
+  {
+    "word": "underwear",
+    "pos": "n"
+  },
+  {
+    "word": "unemployed",
+    "pos": "adj"
+  },
+  {
+    "word": "unemployment",
+    "pos": "n"
+  },
+  {
+    "word": "unfair",
+    "pos": "adj"
+  },
+  {
+    "word": "union",
+    "pos": "n"
+  },
+  {
+    "word": "unless",
+    "pos": "conj"
+  },
+  {
+    "word": "unlike",
+    "pos": "prep"
+  },
+  {
+    "word": "unlikely",
+    "pos": "adj"
+  }
+]

@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Lazy Reader — UI States Mockup</title>
+  <style>
+    :root {
+      --bg-primary: #141422;
+      --bg-secondary: #1c1c32;
+      --bg-tertiary: #242440;
+      --bg-viewer: #0f0f1a;
+      --border: #2e2e48;
+      --accent: #6cb4ee;
+      --text-primary: #e8e8f0;
+      --text-secondary: #a0a0b8;
+      --text-muted: #6a6a82;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0a0a14; color: var(--text-primary); padding: 40px; }
+    h1 { color: var(--accent); margin-bottom: 10px; font-size: 24px; }
+    h2 { color: var(--text-secondary); margin: 40px 0 16px; font-size: 18px; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+    .desc { color: var(--text-muted); font-size: 13px; margin-bottom: 20px; }
+    .state-container { border: 1px solid var(--border); border-radius: 12px; overflow: hidden; margin-bottom: 40px; }
+    .panel { width: 320px; background: var(--bg-secondary); border-left: 1px solid var(--border); display: flex; flex-direction: column; }
+    .reader-layout { display: flex; height: 600px; }
+    .pdf-area { flex: 1; background: var(--bg-viewer); display: flex; align-items: center; justify-content: center; color: var(--text-muted); font-size: 14px; }
+    .section-header { padding: 10px 12px; border-bottom: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; flex-shrink: 0; }
+    .section-title { font-weight: 600; font-size: 14px; color: var(--accent); }
+    .badge { background: #1d4ed8; color: #fff; font-size: 11px; padding: 1px 7px; border-radius: 10px; margin-left: 8px; }
+    .switch { width: 32px; height: 18px; border-radius: 9px; background: #52c41a; position: relative; cursor: pointer; }
+    .switch.off { background: #4a4a6a; }
+    .switch::after { content: ''; position: absolute; width: 14px; height: 14px; border-radius: 50%; background: #fff; top: 2px; left: 16px; transition: left 0.2s; }
+    .switch.off::after { left: 2px; }
+    .collapse-btn { background: none; border: none; color: var(--text-muted); cursor: pointer; font-size: 12px; }
+    .word-row { display: flex; align-items: center; padding: 6px 12px; border-bottom: 1px solid var(--border); gap: 8px; font-size: 13px; }
+    .word-row.saved { background: var(--bg-tertiary); }
+    .word-col { flex: 0 0 40%; font-weight: 600; color: var(--text-primary); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .meaning-col { flex: 1; color: var(--text-secondary); font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .btn-plus { color: var(--accent); background: none; border: none; cursor: pointer; font-size: 14px; padding: 2px 4px; }
+    .btn-x { color: #ff4d4f; background: none; border: none; cursor: pointer; font-size: 14px; padding: 2px 4px; }
+    .btn-undo { color: var(--accent); background: none; border: none; cursor: pointer; font-size: 12px; padding: 2px 4px; }
+    .green-dot { color: #52c41a; font-size: 10px; margin-right: 2px; }
+    .drag-handle { height: 6px; background: var(--border); display: flex; align-items: center; justify-content: center; cursor: row-resize; flex-shrink: 0; }
+    .drag-handle-bar { width: 30px; height: 2px; border-radius: 1px; background: var(--text-muted); }
+    .quick-add { padding: 8px 10px; border-top: 1px solid var(--border); flex-shrink: 0; }
+    .quick-add input { width: 100%; padding: 6px 10px; border: 1px solid var(--border); border-radius: 6px; background: var(--bg-primary); color: var(--text-primary); font-size: 13px; margin-bottom: 6px; }
+    .quick-add button { width: 100%; padding: 6px; border: none; border-radius: 6px; background: var(--accent); color: var(--bg-primary); font-weight: 600; cursor: pointer; font-size: 13px; }
+    .filter-row { padding: 6px 12px; border-bottom: 1px solid var(--border); font-size: 12px; color: var(--text-secondary); flex-shrink: 0; }
+    .vocab-list { flex: 1; overflow-y: auto; min-height: 0; }
+    .footer { display: flex; align-items: center; gap: 8px; padding: 8px 16px; background: var(--bg-secondary); border-top: 1px solid var(--border); }
+    .footer-btn { background: none; border: none; color: var(--text-muted); cursor: pointer; font-size: 18px; padding: 4px 8px; border-radius: 6px; }
+    .footer-btn.active { color: var(--accent); background: var(--bg-tertiary); }
+    .progress-bar { flex: 1; height: 6px; background: var(--bg-tertiary); border-radius: 3px; overflow: hidden; }
+    .progress-fill { height: 100%; background: var(--accent); border-radius: 3px; width: 18%; }
+    .popover { position: absolute; bottom: 50px; left: 16px; width: 280px; background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 12px; padding: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.5); z-index: 10; }
+    .popover-title { font-weight: 600; font-size: 14px; margin-bottom: 8px; }
+    .popover input { width: 100%; padding: 5px 8px; border: 1px solid var(--border); border-radius: 6px; background: var(--bg-primary); color: var(--text-primary); font-size: 12px; margin-bottom: 8px; }
+    .known-word-row { display: flex; align-items: center; justify-content: space-between; padding: 5px 0; border-bottom: 1px solid var(--border); font-size: 13px; }
+    .popconfirm { position: absolute; right: 40px; top: 100px; background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 8px; padding: 12px 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.4); font-size: 13px; z-index: 20; }
+    .popconfirm-title { font-weight: 600; margin-bottom: 4px; }
+    .popconfirm-desc { color: var(--text-secondary); font-size: 12px; margin-bottom: 10px; }
+    .popconfirm-btns { display: flex; gap: 8px; }
+    .popconfirm-btns button { padding: 4px 12px; border-radius: 4px; border: none; cursor: pointer; font-size: 12px; }
+    .popconfirm-btns .confirm { background: #ff4d4f; color: #fff; }
+    .popconfirm-btns .cancel { background: var(--bg-tertiary); color: var(--text-secondary); }
+    .empty-msg { text-align: center; color: var(--text-muted); font-size: 12px; padding: 30px 12px; }
+  </style>
+</head>
+<body>
+
+<h1>AI Lazy Reader — UI States</h1>
+<p class="desc">Mockup HTML mô tả các trạng thái giao diện của tính năng AI Lazy Reader trong PDF Reader app.</p>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2>State 1: Default — AI bật, có từ gợi ý + từ đã lưu</h2>
+<p class="desc">Trạng thái mặc định khi mở reader với AI bật. Phần gợi ý hiển thị từ mới (chưa lưu) + từ đã lưu xuất hiện trên trang (🟢). Phần dưới hiện danh sách từ đã lưu.</p>
+
+<div class="state-container">
+  <div class="reader-layout">
+    <div class="pdf-area">📄 PDF Viewer — Trang 27</div>
+    <div class="panel">
+      <!-- AI Suggestion -->
+      <div style="flex-shrink:0; overflow:hidden; height:250px; display:flex; flex-direction:column;">
+        <div class="section-header">
+          <div><span class="section-title">🤖 Gợi ý</span><span class="badge">5</span></div>
+          <div style="display:flex; align-items:center; gap:8px;">
+            <div class="switch"></div>
+            <button class="collapse-btn">▼</button>
+          </div>
+        </div>
+        <div style="flex:1; overflow-y:auto;">
+          <div class="word-row"><span class="word-col">proprietary</span><span class="meaning-col">sở hữu riêng</span><button class="btn-plus">+</button><button class="btn-x">✕</button></div>
+          <div class="word-row"><span class="word-col">concurrent</span><span class="meaning-col">đồng thời</span><button class="btn-plus">+</button><button class="btn-x">✕</button></div>
+          <div class="word-row"><span class="word-col">leverage</span><span class="meaning-col">tận dụng</span><button class="btn-plus">+</button><button class="btn-x">✕</button></div>
+          <div class="word-row saved"><span class="green-dot">●</span><span class="word-col">deploy</span><span class="meaning-col">triển khai</span></div>
+          <div class="word-row saved"><span class="green-dot">●</span><span class="word-col">mitigate</span><span class="meaning-col">giảm nhẹ</span></div>
+        </div>
+      </div>
+      <!-- Drag handle -->
+      <div class="drag-handle"><div class="drag-handle-bar"></div></div>
+      <!-- Vocab section -->
+      <div class="section-header">
+        <div><span class="section-title">📝 Từ đã lưu</span><span class="badge">10</span></div>
+        <button class="collapse-btn">▼</button>
+      </div>
+      <div class="filter-row">☑ Chỉ trang này</div>
+      <div class="vocab-list">
+        <div class="word-row"><span class="word-col">ubiquitous</span><span class="meaning-col">khắp nơi</span></div>
+        <div class="word-row"><span class="word-col">deploy</span><span class="meaning-col">triển khai</span></div>
+        <div class="word-row"><span class="word-col">mitigate</span><span class="meaning-col">giảm nhẹ</span></div>
+        <div class="word-row"><span class="word-col">paradigm</span><span class="meaning-col">mô hình</span></div>
+      </div>
+      <!-- Quick add -->
+      <div class="quick-add">
+        <input placeholder="Từ mới...">
+        <input placeholder="Nghĩa...">
+        <button>+ Thêm</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2>State 2: Từ đã lưu collapsed — Gợi ý chiếm full</h2>
+<p class="desc">User collapse phần "Từ đã lưu" → phần gợi ý tự mở rộng chiếm toàn bộ không gian (flex:1). Drag handle ẩn. Quick add vẫn cố định dưới cùng.</p>
+
+<div class="state-container">
+  <div class="reader-layout">
+    <div class="pdf-area">📄 PDF Viewer — Trang 27</div>
+    <div class="panel">
+      <!-- AI Suggestion - expanded -->
+      <div style="flex:1; overflow:hidden; display:flex; flex-direction:column; min-height:80px;">
+        <div class="section-header">
+          <div><span class="section-title">🤖 Gợi ý</span><span class="badge">5</span></div>
+          <div style="display:flex; align-items:center; gap:8px;">
+            <div class="switch"></div>
+            <button class="collapse-btn">▼</button>
+          </div>
+        </div>
+        <div style="flex:1; overflow-y:auto;">
+          <div class="word-row"><span class="word-col">proprietary</span><span class="meaning-col">sở hữu riêng</span><button class="btn-plus">+</button><button class="btn-x">✕</button></div>
+          <div class="word-row"><span class="word-col">concurrent</span><span class="meaning-col">đồng thời</span><button class="btn-plus">+</button><button class="btn-x">✕</button></div>
+          <div class="word-row"><span class="word-col">leverage</span><span class="meaning-col">tận dụng</span><button class="btn-plus">+</button><button class="btn-x">✕</button></div>
+          <div class="word-row saved"><span class="green-dot">●</span><span class="word-col">deploy</span><span class="meaning-col">triển khai</span></div>
+          <div class="word-row saved"><span class="green-dot">●</span><span class="word-col">mitigate</span><span class="meaning-col">giảm nhẹ</span></div>
+        </div>
+      </div>
+      <!-- No drag handle when collapsed -->
+      <!-- Vocab header only (collapsed) -->
+      <div class="section-header">
+        <div><span class="section-title">📝 Từ đã lưu</span><span class="badge">10</span></div>
+        <button class="collapse-btn">▶</button>
+      </div>
+      <!-- Quick add -->
+      <div class="quick-add">
+        <input placeholder="Từ mới...">
+        <input placeholder="Nghĩa...">
+        <button>+ Thêm</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2>State 3: AI tắt — Chỉ hiện phần từ đã lưu</h2>
+<p class="desc">User tắt switch AI → không fetch, không phân tích, không render gợi ý. Panel chỉ còn phần từ đã lưu (giống trước khi có feature).</p>
+
+<div class="state-container">
+  <div class="reader-layout">
+    <div class="pdf-area">📄 PDF Viewer — Trang 27</div>
+    <div class="panel">
+      <!-- AI off -->
+      <div style="flex-shrink:0; height:44px; display:flex; flex-direction:column;">
+        <div class="section-header">
+          <div><span class="section-title">🤖 Gợi ý</span></div>
+          <div class="switch off"></div>
+        </div>
+      </div>
+      <div class="drag-handle"><div class="drag-handle-bar"></div></div>
+      <!-- Vocab full -->
+      <div class="section-header">
+        <div><span class="section-title">📝 Từ đã lưu</span><span class="badge">10</span></div>
+        <button class="collapse-btn">▼</button>
+      </div>
+      <div class="filter-row">☑ Chỉ trang này</div>
+      <div class="vocab-list">
+        <div class="word-row"><span class="word-col">ubiquitous</span><span class="meaning-col">khắp nơi</span></div>
+        <div class="word-row"><span class="word-col">deploy</span><span class="meaning-col">triển khai</span></div>
+        <div class="word-row"><span class="word-col">mitigate</span><span class="meaning-col">giảm nhẹ</span></div>
+        <div class="word-row"><span class="word-col">paradigm</span><span class="meaning-col">mô hình</span></div>
+        <div class="word-row"><span class="word-col">infrastructure</span><span class="meaning-col">cơ sở hạ tầng</span></div>
+      </div>
+      <div class="quick-add">
+        <input placeholder="Từ mới...">
+        <input placeholder="Nghĩa...">
+        <button>+ Thêm</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2>State 4: Popover "Từ đã biết" (từ footer 🧠)</h2>
+<p class="desc">User click nút 🧠 ở footer → Popover hiện lên cho phép xem, search, và rollback từ đã biết (nút ↩ để gợi ý lại).</p>
+
+<div class="state-container">
+  <div style="position:relative;">
+    <div class="reader-layout">
+      <div class="pdf-area">📄 PDF Viewer</div>
+      <div class="panel">
+        <div class="empty-msg">Panel content...</div>
+      </div>
+    </div>
+    <div class="footer">
+      <button class="footer-btn">📄</button>
+      <button class="footer-btn">☆</button>
+      <button class="footer-btn active">☰</button>
+      <button class="footer-btn active">📝</button>
+      <button class="footer-btn active" style="color:var(--accent)">🧠</button>
+      <div class="progress-bar"><div class="progress-fill"></div></div>
+      <span style="font-size:12px; color:var(--text-muted)">18%</span>
+    </div>
+    <!-- Popover -->
+    <div class="popover">
+      <div class="popover-title">🧠 Từ đã biết <span class="badge">12</span></div>
+      <input placeholder="Tìm từ...">
+      <div style="max-height:180px; overflow-y:auto;">
+        <div class="known-word-row"><span>accommodate</span><button class="btn-undo">↩</button></div>
+        <div class="known-word-row"><span>comprehensive</span><button class="btn-undo">↩</button></div>
+        <div class="known-word-row"><span>facilitate</span><button class="btn-undo">↩</button></div>
+        <div class="known-word-row"><span>infrastructure</span><button class="btn-undo">↩</button></div>
+        <div class="known-word-row"><span>paradigm</span><button class="btn-undo">↩</button></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2>State 5: Popconfirm khi click ✕ (single click)</h2>
+<p class="desc">Single click nút ✕ → hiện Popconfirm xác nhận. Double click ✕ → bỏ qua ngay (không confirm). Tránh bấm nhầm.</p>
+
+<div class="state-container">
+  <div style="position:relative;">
+    <div class="reader-layout">
+      <div class="pdf-area">📄 PDF Viewer</div>
+      <div class="panel">
+        <div class="section-header">
+          <div><span class="section-title">🤖 Gợi ý</span><span class="badge">3</span></div>
+          <div style="display:flex; align-items:center; gap:8px;">
+            <div class="switch"></div>
+            <button class="collapse-btn">▼</button>
+          </div>
+        </div>
+        <div>
+          <div class="word-row"><span class="word-col">proprietary</span><span class="meaning-col">sở hữu riêng</span><button class="btn-plus">+</button><button class="btn-x">✕</button></div>
+          <div class="word-row" style="background:#1a1a35;"><span class="word-col">concurrent</span><span class="meaning-col">đồng thời</span><button class="btn-plus">+</button><button class="btn-x" style="color:#ff7875;">✕</button></div>
+          <div class="word-row"><span class="word-col">leverage</span><span class="meaning-col">tận dụng</span><button class="btn-plus">+</button><button class="btn-x">✕</button></div>
+        </div>
+        <!-- Popconfirm -->
+        <div class="popconfirm">
+          <div class="popconfirm-title">Bỏ qua từ này?</div>
+          <div class="popconfirm-desc">Từ này sẽ không được gợi ý nữa</div>
+          <div class="popconfirm-btns">
+            <button class="confirm">Bỏ qua</button>
+            <button class="cancel">Huỷ</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2>State 6: Expanded row trong "Từ đã lưu" — có nút "Đã biết"</h2>
+<p class="desc">Click vào 1 từ trong danh sách "Từ đã lưu" → expand ra chi tiết + 3 nút: Sửa, Đã biết (chuyển sang knownWords), Xoá.</p>
+
+<div class="state-container">
+  <div class="reader-layout">
+    <div class="pdf-area">📄 PDF Viewer</div>
+    <div class="panel">
+      <div class="section-header">
+        <div><span class="section-title">📝 Từ đã lưu</span><span class="badge">10</span></div>
+        <button class="collapse-btn">▼</button>
+      </div>
+      <div class="vocab-list">
+        <div class="word-row"><span class="word-col">ubiquitous</span><span class="meaning-col">khắp nơi</span></div>
+        <!-- Expanded row -->
+        <div style="padding:12px; background:var(--bg-tertiary); border-bottom:1px solid var(--border);">
+          <div style="font-weight:600; font-size:14px; margin-bottom:4px;">deploy</div>
+          <div style="font-size:13px; color:var(--text-secondary); margin-bottom:4px;">triển khai</div>
+          <div style="font-size:12px; color:var(--text-muted); font-style:italic; margin-bottom:8px;">"We need to deploy the application"</div>
+          <div style="display:flex; gap:8px;">
+            <button style="padding:4px 10px; border-radius:4px; border:1px solid var(--border); background:var(--bg-secondary); color:var(--text-primary); cursor:pointer; font-size:12px;">✏️ Sửa</button>
+            <button style="padding:4px 10px; border-radius:4px; border:none; background:#52c41a22; color:#52c41a; cursor:pointer; font-size:12px;">✓ Đã biết</button>
+            <button style="padding:4px 10px; border-radius:4px; border:none; background:#ff4d4f22; color:#ff4d4f; cursor:pointer; font-size:12px;">🗑 Xoá</button>
+          </div>
+        </div>
+        <div class="word-row"><span class="word-col">mitigate</span><span class="meaning-col">giảm nhẹ</span></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,722 @@
+[
+  {
+    "word": "dollar",
+    "pos": "n"
+  },
+  {
+    "word": "door",
+    "pos": "n"
+  },
+  {
+    "word": "down",
+    "pos": "adv., prep"
+  },
+  {
+    "word": "draw",
+    "pos": "v"
+  },
+  {
+    "word": "dress",
+    "pos": "n., v"
+  },
+  {
+    "word": "drink",
+    "pos": "n., v"
+  },
+  {
+    "word": "driver",
+    "pos": "n"
+  },
+  {
+    "word": "during",
+    "pos": "prep"
+  },
+  {
+    "word": "dvd",
+    "pos": "n"
+  },
+  {
+    "word": "each",
+    "pos": "det./pron./adv"
+  },
+  {
+    "word": "ear",
+    "pos": "n"
+  },
+  {
+    "word": "early",
+    "pos": "adj., adv"
+  },
+  {
+    "word": "east",
+    "pos": "n., adj., adv"
+  },
+  {
+    "word": "easy",
+    "pos": "adj"
+  },
+  {
+    "word": "eat",
+    "pos": "v"
+  },
+  {
+    "word": "egg",
+    "pos": "n"
+  },
+  {
+    "word": "eight",
+    "pos": "number"
+  },
+  {
+    "word": "eighteen",
+    "pos": "number"
+  },
+  {
+    "word": "eighty",
+    "pos": "number"
+  },
+  {
+    "word": "elephant",
+    "pos": "n"
+  },
+  {
+    "word": "eleven",
+    "pos": "number"
+  },
+  {
+    "word": "else",
+    "pos": "adv"
+  },
+  {
+    "word": "email",
+    "pos": "n., v"
+  },
+  {
+    "word": "end",
+    "pos": "n., v"
+  },
+  {
+    "word": "enjoy",
+    "pos": "v"
+  },
+  {
+    "word": "enough",
+    "pos": "det., pron., adv"
+  },
+  {
+    "word": "euro",
+    "pos": "n"
+  },
+  {
+    "word": "evening",
+    "pos": "n"
+  },
+  {
+    "word": "event",
+    "pos": "n"
+  },
+  {
+    "word": "ever",
+    "pos": "adv"
+  },
+  {
+    "word": "every",
+    "pos": "det"
+  },
+  {
+    "word": "everybody",
+    "pos": "pron"
+  },
+  {
+    "word": "everyone",
+    "pos": "pron"
+  },
+  {
+    "word": "everything",
+    "pos": "pron"
+  },
+  {
+    "word": "exam",
+    "pos": "n"
+  },
+  {
+    "word": "example",
+    "pos": "n"
+  },
+  {
+    "word": "excited",
+    "pos": "adj"
+  },
+  {
+    "word": "exciting",
+    "pos": "adj"
+  },
+  {
+    "word": "exercise",
+    "pos": "n., v"
+  },
+  {
+    "word": "expensive",
+    "pos": "adj"
+  },
+  {
+    "word": "explain",
+    "pos": "v"
+  },
+  {
+    "word": "eye",
+    "pos": "n"
+  },
+  {
+    "word": "fact",
+    "pos": "n"
+  },
+  {
+    "word": "false",
+    "pos": "adj"
+  },
+  {
+    "word": "family",
+    "pos": "n., adj"
+  },
+  {
+    "word": "famous",
+    "pos": "adj"
+  },
+  {
+    "word": "fantastic",
+    "pos": "adj"
+  },
+  {
+    "word": "farmer",
+    "pos": "n"
+  },
+  {
+    "word": "fast",
+    "pos": "adj., adv"
+  },
+  {
+    "word": "father",
+    "pos": "n"
+  },
+  {
+    "word": "favourite",
+    "pos": "adj., n"
+  },
+  {
+    "word": "february",
+    "pos": "n"
+  },
+  {
+    "word": "feeling",
+    "pos": "n"
+  },
+  {
+    "word": "festival",
+    "pos": "n"
+  },
+  {
+    "word": "few",
+    "pos": "det./adj., pron"
+  },
+  {
+    "word": "fifteen",
+    "pos": "number"
+  },
+  {
+    "word": "fifth",
+    "pos": "number"
+  },
+  {
+    "word": "fifty",
+    "pos": "number"
+  },
+  {
+    "word": "fill",
+    "pos": "v"
+  },
+  {
+    "word": "find",
+    "pos": "v"
+  },
+  {
+    "word": "five",
+    "pos": "number"
+  },
+  {
+    "word": "flight",
+    "pos": "n"
+  },
+  {
+    "word": "floor",
+    "pos": "n"
+  },
+  {
+    "word": "flower",
+    "pos": "n"
+  },
+  {
+    "word": "follow",
+    "pos": "v"
+  },
+  {
+    "word": "food",
+    "pos": "n"
+  },
+  {
+    "word": "foot",
+    "pos": "n"
+  },
+  {
+    "word": "football",
+    "pos": "n"
+  },
+  {
+    "word": "for",
+    "pos": "prep"
+  },
+  {
+    "word": "forget",
+    "pos": "v"
+  },
+  {
+    "word": "form",
+    "pos": "n., v"
+  },
+  {
+    "word": "forty",
+    "pos": "number"
+  },
+  {
+    "word": "four",
+    "pos": "number"
+  },
+  {
+    "word": "fourteen",
+    "pos": "number"
+  },
+  {
+    "word": "fourth",
+    "pos": "number"
+  },
+  {
+    "word": "friday",
+    "pos": "n"
+  },
+  {
+    "word": "friend",
+    "pos": "n"
+  },
+  {
+    "word": "friendly",
+    "pos": "adj"
+  },
+  {
+    "word": "from",
+    "pos": "prep"
+  },
+  {
+    "word": "front",
+    "pos": "n., adj"
+  },
+  {
+    "word": "fruit",
+    "pos": "n"
+  },
+  {
+    "word": "full",
+    "pos": "adj"
+  },
+  {
+    "word": "funny",
+    "pos": "adj"
+  },
+  {
+    "word": "game",
+    "pos": "n"
+  },
+  {
+    "word": "garden",
+    "pos": "n"
+  },
+  {
+    "word": "geography",
+    "pos": "n"
+  },
+  {
+    "word": "get",
+    "pos": "v"
+  },
+  {
+    "word": "girl",
+    "pos": "n"
+  },
+  {
+    "word": "girlfriend",
+    "pos": "n"
+  },
+  {
+    "word": "give",
+    "pos": "v"
+  },
+  {
+    "word": "glass",
+    "pos": "n"
+  },
+  {
+    "word": "goodbye",
+    "pos": "exclam./n"
+  },
+  {
+    "word": "grandfather",
+    "pos": "n"
+  },
+  {
+    "word": "grandmother",
+    "pos": "n"
+  },
+  {
+    "word": "grandparent",
+    "pos": "n"
+  },
+  {
+    "word": "great",
+    "pos": "adj"
+  },
+  {
+    "word": "green",
+    "pos": "adj., n"
+  },
+  {
+    "word": "grey",
+    "pos": "adj., n"
+  },
+  {
+    "word": "group",
+    "pos": "n"
+  },
+  {
+    "word": "grow",
+    "pos": "v"
+  },
+  {
+    "word": "guess",
+    "pos": "v., n"
+  },
+  {
+    "word": "guitar",
+    "pos": "n"
+  },
+  {
+    "word": "gym",
+    "pos": "n"
+  },
+  {
+    "word": "hair",
+    "pos": "n"
+  },
+  {
+    "word": "happen",
+    "pos": "v"
+  },
+  {
+    "word": "happy",
+    "pos": "adj"
+  },
+  {
+    "word": "hard",
+    "pos": "adj., adv"
+  },
+  {
+    "word": "hat",
+    "pos": "n"
+  },
+  {
+    "word": "have to",
+    "pos": "modal v"
+  },
+  {
+    "word": "he",
+    "pos": "pron"
+  },
+  {
+    "word": "health",
+    "pos": "n"
+  },
+  {
+    "word": "healthy",
+    "pos": "adj"
+  },
+  {
+    "word": "hear",
+    "pos": "v"
+  },
+  {
+    "word": "hello",
+    "pos": "exclam./n"
+  },
+  {
+    "word": "help",
+    "pos": "v., n"
+  },
+  {
+    "word": "her",
+    "pos": "pron., det"
+  },
+  {
+    "word": "here",
+    "pos": "adv"
+  },
+  {
+    "word": "hey",
+    "pos": "exclam"
+  },
+  {
+    "word": "hi",
+    "pos": "exclam"
+  },
+  {
+    "word": "him",
+    "pos": "pron"
+  },
+  {
+    "word": "history",
+    "pos": "n"
+  },
+  {
+    "word": "hobby",
+    "pos": "n"
+  },
+  {
+    "word": "holiday",
+    "pos": "n"
+  },
+  {
+    "word": "homework",
+    "pos": "n"
+  },
+  {
+    "word": "horse",
+    "pos": "n"
+  },
+  {
+    "word": "hospital",
+    "pos": "n"
+  },
+  {
+    "word": "hot",
+    "pos": "adj"
+  },
+  {
+    "word": "hotel",
+    "pos": "n"
+  },
+  {
+    "word": "hour",
+    "pos": "n"
+  },
+  {
+    "word": "how",
+    "pos": "adv"
+  },
+  {
+    "word": "however",
+    "pos": "adv"
+  },
+  {
+    "word": "hundred",
+    "pos": "number"
+  },
+  {
+    "word": "hungry",
+    "pos": "adj"
+  },
+  {
+    "word": "husband",
+    "pos": "n"
+  },
+  {
+    "word": "i",
+    "pos": "pron"
+  },
+  {
+    "word": "ice",
+    "pos": "n"
+  },
+  {
+    "word": "ice cream",
+    "pos": "n"
+  },
+  {
+    "word": "idea",
+    "pos": "n"
+  },
+  {
+    "word": "if",
+    "pos": "conj"
+  },
+  {
+    "word": "imagine",
+    "pos": "v"
+  },
+  {
+    "word": "important",
+    "pos": "adj"
+  },
+  {
+    "word": "improve",
+    "pos": "v"
+  },
+  {
+    "word": "in",
+    "pos": "prep., adv"
+  },
+  {
+    "word": "include",
+    "pos": "v"
+  },
+  {
+    "word": "information",
+    "pos": "n"
+  },
+  {
+    "word": "interest",
+    "pos": "n., v"
+  },
+  {
+    "word": "interested",
+    "pos": "adj"
+  },
+  {
+    "word": "interesting",
+    "pos": "adj"
+  },
+  {
+    "word": "internet",
+    "pos": "n"
+  },
+  {
+    "word": "interview",
+    "pos": "n., v"
+  },
+  {
+    "word": "into",
+    "pos": "prep"
+  },
+  {
+    "word": "introduce",
+    "pos": "v"
+  },
+  {
+    "word": "island",
+    "pos": "n"
+  },
+  {
+    "word": "its",
+    "pos": "det"
+  },
+  {
+    "word": "jacket",
+    "pos": "n"
+  },
+  {
+    "word": "january",
+    "pos": "n"
+  },
+  {
+    "word": "jeans",
+    "pos": "n"
+  },
+  {
+    "word": "job",
+    "pos": "n"
+  },
+  {
+    "word": "join",
+    "pos": "v"
+  },
+  {
+    "word": "journey",
+    "pos": "n"
+  },
+  {
+    "word": "juice",
+    "pos": "n"
+  },
+  {
+    "word": "july",
+    "pos": "n"
+  },
+  {
+    "word": "june",
+    "pos": "n"
+  },
+  {
+    "word": "keep",
+    "pos": "v"
+  },
+  {
+    "word": "kilometre",
+    "pos": "n"
+  },
+  {
+    "word": "kind (type)",
+    "pos": "n"
+  },
+  {
+    "word": "kitchen",
+    "pos": "n"
+  },
+  {
+    "word": "know",
+    "pos": "v"
+  },
+  {
+    "word": "language",
+    "pos": "n"
+  },
+  {
+    "word": "large",
+    "pos": "adj"
+  },
+  {
+    "word": "late",
+    "pos": "adj., adv"
+  },
+  {
+    "word": "laugh",
+    "pos": "v., n"
+  },
+  {
+    "word": "learn",
+    "pos": "v"
+  },
+  {
+    "word": "left",
+    "pos": "adj., adv., n"
+  },
+  {
+    "word": "leg",
+    "pos": "n"
+  },
+  {
+    "word": "lesson",
+    "pos": "n"
+  },
+  {
+    "word": "let",
+    "pos": "v"
+  },
+  {
+    "word": "letter",
+    "pos": "n"
+  },
+  {
+    "word": "library",
+    "pos": "n"
+  },
+  {
+    "word": "lie",
+    "pos": "v"
+  }
+]

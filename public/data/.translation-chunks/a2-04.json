@@ -1,0 +1,722 @@
+[
+  {
+    "word": "recently",
+    "pos": "adv"
+  },
+  {
+    "word": "reception",
+    "pos": "n"
+  },
+  {
+    "word": "recipe",
+    "pos": "n"
+  },
+  {
+    "word": "recognize",
+    "pos": "v"
+  },
+  {
+    "word": "recommend",
+    "pos": "v"
+  },
+  {
+    "word": "record",
+    "pos": "n., v"
+  },
+  {
+    "word": "recording",
+    "pos": "n"
+  },
+  {
+    "word": "recycle",
+    "pos": "v"
+  },
+  {
+    "word": "reduce",
+    "pos": "v"
+  },
+  {
+    "word": "refer",
+    "pos": "v"
+  },
+  {
+    "word": "refuse",
+    "pos": "v"
+  },
+  {
+    "word": "region",
+    "pos": "n"
+  },
+  {
+    "word": "regular",
+    "pos": "adj"
+  },
+  {
+    "word": "relationship",
+    "pos": "n"
+  },
+  {
+    "word": "remove",
+    "pos": "v"
+  },
+  {
+    "word": "replace",
+    "pos": "v"
+  },
+  {
+    "word": "reply",
+    "pos": "v., n"
+  },
+  {
+    "word": "report",
+    "pos": "n, v"
+  },
+  {
+    "word": "reporter",
+    "pos": "n"
+  },
+  {
+    "word": "research",
+    "pos": "n., v"
+  },
+  {
+    "word": "researcher",
+    "pos": "n"
+  },
+  {
+    "word": "respond",
+    "pos": "v"
+  },
+  {
+    "word": "response",
+    "pos": "n"
+  },
+  {
+    "word": "rest (remaining part)",
+    "pos": "n"
+  },
+  {
+    "word": "rest (sleep/relax)",
+    "pos": "n., v"
+  },
+  {
+    "word": "review",
+    "pos": "n., v"
+  },
+  {
+    "word": "ride",
+    "pos": "n, v"
+  },
+  {
+    "word": "rock (music)",
+    "pos": "n"
+  },
+  {
+    "word": "rock (stone)",
+    "pos": "n"
+  },
+  {
+    "word": "role",
+    "pos": "n"
+  },
+  {
+    "word": "roof",
+    "pos": "n"
+  },
+  {
+    "word": "route",
+    "pos": "n"
+  },
+  {
+    "word": "rubbish",
+    "pos": "n"
+  },
+  {
+    "word": "rude",
+    "pos": "adj"
+  },
+  {
+    "word": "run",
+    "pos": "n, v"
+  },
+  {
+    "word": "runner",
+    "pos": "n"
+  },
+  {
+    "word": "running",
+    "pos": "n"
+  },
+  {
+    "word": "sadly",
+    "pos": "adv"
+  },
+  {
+    "word": "safe",
+    "pos": "adj"
+  },
+  {
+    "word": "sailing",
+    "pos": "n"
+  },
+  {
+    "word": "salary",
+    "pos": "n"
+  },
+  {
+    "word": "sale",
+    "pos": "n"
+  },
+  {
+    "word": "sauce",
+    "pos": "n"
+  },
+  {
+    "word": "save",
+    "pos": "v"
+  },
+  {
+    "word": "scared",
+    "pos": "adj"
+  },
+  {
+    "word": "scary",
+    "pos": "adj"
+  },
+  {
+    "word": "scene",
+    "pos": "n"
+  },
+  {
+    "word": "score",
+    "pos": "v., n"
+  },
+  {
+    "word": "search",
+    "pos": "n., v"
+  },
+  {
+    "word": "season",
+    "pos": "n"
+  },
+  {
+    "word": "second (next after the first)",
+    "pos": "adv, det"
+  },
+  {
+    "word": "secondly",
+    "pos": "adv"
+  },
+  {
+    "word": "secret",
+    "pos": "adj., n"
+  },
+  {
+    "word": "secretary",
+    "pos": "n"
+  },
+  {
+    "word": "seem",
+    "pos": "v"
+  },
+  {
+    "word": "series",
+    "pos": "n"
+  },
+  {
+    "word": "serious",
+    "pos": "adj"
+  },
+  {
+    "word": "serve",
+    "pos": "v"
+  },
+  {
+    "word": "service",
+    "pos": "n"
+  },
+  {
+    "word": "several",
+    "pos": "det./pron"
+  },
+  {
+    "word": "shall",
+    "pos": "modal v"
+  },
+  {
+    "word": "sheet",
+    "pos": "n"
+  },
+  {
+    "word": "shoulder",
+    "pos": "n"
+  },
+  {
+    "word": "shout",
+    "pos": "v., n"
+  },
+  {
+    "word": "shut",
+    "pos": "v., adj"
+  },
+  {
+    "word": "side",
+    "pos": "n"
+  },
+  {
+    "word": "sign",
+    "pos": "n., v"
+  },
+  {
+    "word": "silver",
+    "pos": "n., adj"
+  },
+  {
+    "word": "simple",
+    "pos": "adj"
+  },
+  {
+    "word": "singing",
+    "pos": "n"
+  },
+  {
+    "word": "single",
+    "pos": "adj., n"
+  },
+  {
+    "word": "sir",
+    "pos": "n"
+  },
+  {
+    "word": "site",
+    "pos": "n"
+  },
+  {
+    "word": "size",
+    "pos": "n"
+  },
+  {
+    "word": "ski",
+    "pos": "v., adj., n"
+  },
+  {
+    "word": "skiing",
+    "pos": "n"
+  },
+  {
+    "word": "skin",
+    "pos": "n"
+  },
+  {
+    "word": "sky",
+    "pos": "n"
+  },
+  {
+    "word": "sleep",
+    "pos": "n, v"
+  },
+  {
+    "word": "slowly",
+    "pos": "adv"
+  },
+  {
+    "word": "smartphone",
+    "pos": "n"
+  },
+  {
+    "word": "smell",
+    "pos": "v., n"
+  },
+  {
+    "word": "smile",
+    "pos": "v., n"
+  },
+  {
+    "word": "smoke",
+    "pos": "n., v"
+  },
+  {
+    "word": "smoking",
+    "pos": "n"
+  },
+  {
+    "word": "soap",
+    "pos": "n"
+  },
+  {
+    "word": "soccer",
+    "pos": "n"
+  },
+  {
+    "word": "social",
+    "pos": "adj"
+  },
+  {
+    "word": "society",
+    "pos": "n"
+  },
+  {
+    "word": "sock",
+    "pos": "n"
+  },
+  {
+    "word": "soft",
+    "pos": "adj"
+  },
+  {
+    "word": "soldier",
+    "pos": "n"
+  },
+  {
+    "word": "solution",
+    "pos": "n"
+  },
+  {
+    "word": "solve",
+    "pos": "v"
+  },
+  {
+    "word": "somewhere",
+    "pos": "adv., pron"
+  },
+  {
+    "word": "source",
+    "pos": "n"
+  },
+  {
+    "word": "speaker",
+    "pos": "n"
+  },
+  {
+    "word": "specific",
+    "pos": "adj"
+  },
+  {
+    "word": "speech",
+    "pos": "n"
+  },
+  {
+    "word": "spider",
+    "pos": "n"
+  },
+  {
+    "word": "spoon",
+    "pos": "n"
+  },
+  {
+    "word": "square",
+    "pos": "adj., n"
+  },
+  {
+    "word": "stair",
+    "pos": "n"
+  },
+  {
+    "word": "stamp",
+    "pos": "n"
+  },
+  {
+    "word": "star",
+    "pos": "n, v"
+  },
+  {
+    "word": "start",
+    "pos": "n, v"
+  },
+  {
+    "word": "stay",
+    "pos": "n, v"
+  },
+  {
+    "word": "steal",
+    "pos": "v"
+  },
+  {
+    "word": "stomach",
+    "pos": "n"
+  },
+  {
+    "word": "stone",
+    "pos": "n"
+  },
+  {
+    "word": "storm",
+    "pos": "n"
+  },
+  {
+    "word": "straight",
+    "pos": "adv., adj"
+  },
+  {
+    "word": "strange",
+    "pos": "adj"
+  },
+  {
+    "word": "strategy",
+    "pos": "n"
+  },
+  {
+    "word": "stress",
+    "pos": "n., v"
+  },
+  {
+    "word": "stupid",
+    "pos": "adj"
+  },
+  {
+    "word": "succeed",
+    "pos": "v"
+  },
+  {
+    "word": "successful",
+    "pos": "adj"
+  },
+  {
+    "word": "such",
+    "pos": "det./pron"
+  },
+  {
+    "word": "suddenly",
+    "pos": "adv"
+  },
+  {
+    "word": "suggest",
+    "pos": "v"
+  },
+  {
+    "word": "suggestion",
+    "pos": "n"
+  },
+  {
+    "word": "support",
+    "pos": "v., n"
+  },
+  {
+    "word": "suppose",
+    "pos": "v"
+  },
+  {
+    "word": "sure",
+    "pos": "adj, adv"
+  },
+  {
+    "word": "surprise",
+    "pos": "n., v"
+  },
+  {
+    "word": "surprised",
+    "pos": "adj"
+  },
+  {
+    "word": "surprising",
+    "pos": "adj"
+  },
+  {
+    "word": "sweet",
+    "pos": "adj., n"
+  },
+  {
+    "word": "symbol",
+    "pos": "n"
+  },
+  {
+    "word": "system",
+    "pos": "n"
+  },
+  {
+    "word": "tablet",
+    "pos": "n"
+  },
+  {
+    "word": "talk",
+    "pos": "n, v"
+  },
+  {
+    "word": "task",
+    "pos": "n"
+  },
+  {
+    "word": "taste",
+    "pos": "n., v"
+  },
+  {
+    "word": "teaching",
+    "pos": "n"
+  },
+  {
+    "word": "technology",
+    "pos": "n"
+  },
+  {
+    "word": "teenage",
+    "pos": "adj"
+  },
+  {
+    "word": "temperature",
+    "pos": "n"
+  },
+  {
+    "word": "text",
+    "pos": "n, v"
+  },
+  {
+    "word": "themselves",
+    "pos": "pron"
+  },
+  {
+    "word": "thick",
+    "pos": "adj"
+  },
+  {
+    "word": "thief",
+    "pos": "n"
+  },
+  {
+    "word": "thin",
+    "pos": "adj"
+  },
+  {
+    "word": "thinking",
+    "pos": "n"
+  },
+  {
+    "word": "third",
+    "pos": "n, number"
+  },
+  {
+    "word": "thought",
+    "pos": "n"
+  },
+  {
+    "word": "throw",
+    "pos": "v"
+  },
+  {
+    "word": "tidy",
+    "pos": "adj., v"
+  },
+  {
+    "word": "tie",
+    "pos": "v., n"
+  },
+  {
+    "word": "tool",
+    "pos": "n"
+  },
+  {
+    "word": "tourism",
+    "pos": "n"
+  },
+  {
+    "word": "towards",
+    "pos": "prep"
+  },
+  {
+    "word": "towel",
+    "pos": "n"
+  },
+  {
+    "word": "tower",
+    "pos": "n"
+  },
+  {
+    "word": "toy",
+    "pos": "n., adj"
+  },
+  {
+    "word": "tradition",
+    "pos": "n"
+  },
+  {
+    "word": "traditional",
+    "pos": "adj"
+  },
+  {
+    "word": "train",
+    "pos": "n, v"
+  },
+  {
+    "word": "trainer",
+    "pos": "n"
+  },
+  {
+    "word": "training",
+    "pos": "n"
+  },
+  {
+    "word": "traveller",
+    "pos": "n"
+  },
+  {
+    "word": "truck",
+    "pos": "n"
+  },
+  {
+    "word": "twin",
+    "pos": "n., adj"
+  },
+  {
+    "word": "typical",
+    "pos": "adj"
+  },
+  {
+    "word": "underground",
+    "pos": "adj., adv"
+  },
+  {
+    "word": "understanding",
+    "pos": "n"
+  },
+  {
+    "word": "unfortunately",
+    "pos": "adv"
+  },
+  {
+    "word": "unhappy",
+    "pos": "adj"
+  },
+  {
+    "word": "uniform",
+    "pos": "n"
+  },
+  {
+    "word": "unit",
+    "pos": "n"
+  },
+  {
+    "word": "united",
+    "pos": "adj"
+  },
+  {
+    "word": "unusual",
+    "pos": "adj"
+  },
+  {
+    "word": "upstairs",
+    "pos": "adj, adv"
+  },
+  {
+    "word": "use",
+    "pos": "n, v"
+  },
+  {
+    "word": "used to",
+    "pos": "modal v"
+  },
+  {
+    "word": "user",
+    "pos": "n"
+  },
+  {
+    "word": "usual",
+    "pos": "adj"
+  },
+  {
+    "word": "valley",
+    "pos": "n"
+  },
+  {
+    "word": "van",
+    "pos": "n"
+  }
+]

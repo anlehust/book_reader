@@ -1,0 +1,722 @@
+[
+  {
+    "word": "ability",
+    "pos": "n"
+  },
+  {
+    "word": "able",
+    "pos": "adj"
+  },
+  {
+    "word": "abroad",
+    "pos": "adv"
+  },
+  {
+    "word": "accept",
+    "pos": "v"
+  },
+  {
+    "word": "accident",
+    "pos": "n"
+  },
+  {
+    "word": "according to",
+    "pos": "prep"
+  },
+  {
+    "word": "achieve",
+    "pos": "v"
+  },
+  {
+    "word": "active",
+    "pos": "adj"
+  },
+  {
+    "word": "actually",
+    "pos": "adv"
+  },
+  {
+    "word": "adult",
+    "pos": "adj, n"
+  },
+  {
+    "word": "advantage",
+    "pos": "n"
+  },
+  {
+    "word": "adventure",
+    "pos": "n"
+  },
+  {
+    "word": "advertise",
+    "pos": "v"
+  },
+  {
+    "word": "advertisement",
+    "pos": "n"
+  },
+  {
+    "word": "advertising",
+    "pos": "n"
+  },
+  {
+    "word": "affect",
+    "pos": "v"
+  },
+  {
+    "word": "after",
+    "pos": "adv, conj., prep"
+  },
+  {
+    "word": "against",
+    "pos": "prep"
+  },
+  {
+    "word": "ah",
+    "pos": "exclam"
+  },
+  {
+    "word": "airline",
+    "pos": "n"
+  },
+  {
+    "word": "alive",
+    "pos": "adj"
+  },
+  {
+    "word": "all",
+    "pos": "adv, det., pron"
+  },
+  {
+    "word": "all right",
+    "pos": "adj./adv., exclam"
+  },
+  {
+    "word": "allow",
+    "pos": "v"
+  },
+  {
+    "word": "almost",
+    "pos": "adv"
+  },
+  {
+    "word": "alone",
+    "pos": "adj./adv"
+  },
+  {
+    "word": "along",
+    "pos": "prep., adv"
+  },
+  {
+    "word": "already",
+    "pos": "adv"
+  },
+  {
+    "word": "although",
+    "pos": "conj"
+  },
+  {
+    "word": "among",
+    "pos": "prep"
+  },
+  {
+    "word": "ancient",
+    "pos": "adj"
+  },
+  {
+    "word": "ankle",
+    "pos": "n"
+  },
+  {
+    "word": "any",
+    "pos": "adv, det., pron"
+  },
+  {
+    "word": "any more",
+    "pos": "adv"
+  },
+  {
+    "word": "anybody",
+    "pos": "pron"
+  },
+  {
+    "word": "anyway",
+    "pos": "adv"
+  },
+  {
+    "word": "anywhere",
+    "pos": "adv., pron"
+  },
+  {
+    "word": "app",
+    "pos": "n"
+  },
+  {
+    "word": "appear",
+    "pos": "v"
+  },
+  {
+    "word": "appearance",
+    "pos": "n"
+  },
+  {
+    "word": "apply",
+    "pos": "v"
+  },
+  {
+    "word": "architect",
+    "pos": "n"
+  },
+  {
+    "word": "architecture",
+    "pos": "n"
+  },
+  {
+    "word": "argue",
+    "pos": "v"
+  },
+  {
+    "word": "argument",
+    "pos": "n"
+  },
+  {
+    "word": "army",
+    "pos": "n"
+  },
+  {
+    "word": "arrange",
+    "pos": "v"
+  },
+  {
+    "word": "arrangement",
+    "pos": "n"
+  },
+  {
+    "word": "as",
+    "pos": "adv., conj, prep"
+  },
+  {
+    "word": "asleep",
+    "pos": "adj"
+  },
+  {
+    "word": "assistant",
+    "pos": "n., adj"
+  },
+  {
+    "word": "athlete",
+    "pos": "n"
+  },
+  {
+    "word": "attack",
+    "pos": "n., v"
+  },
+  {
+    "word": "attend",
+    "pos": "v"
+  },
+  {
+    "word": "attention",
+    "pos": "n., exclam"
+  },
+  {
+    "word": "attractive",
+    "pos": "adj"
+  },
+  {
+    "word": "audience",
+    "pos": "n"
+  },
+  {
+    "word": "author",
+    "pos": "n"
+  },
+  {
+    "word": "available",
+    "pos": "adj"
+  },
+  {
+    "word": "avoid",
+    "pos": "v"
+  },
+  {
+    "word": "awful",
+    "pos": "adj"
+  },
+  {
+    "word": "background",
+    "pos": "n"
+  },
+  {
+    "word": "badly",
+    "pos": "adv"
+  },
+  {
+    "word": "baseball",
+    "pos": "n"
+  },
+  {
+    "word": "based",
+    "pos": "adj"
+  },
+  {
+    "word": "basketball",
+    "pos": "n"
+  },
+  {
+    "word": "bean",
+    "pos": "n"
+  },
+  {
+    "word": "bear (animal)",
+    "pos": "n"
+  },
+  {
+    "word": "beef",
+    "pos": "n"
+  },
+  {
+    "word": "before",
+    "pos": "adv, conj., prep"
+  },
+  {
+    "word": "behave",
+    "pos": "v"
+  },
+  {
+    "word": "behaviour",
+    "pos": "n"
+  },
+  {
+    "word": "belong",
+    "pos": "v"
+  },
+  {
+    "word": "belt",
+    "pos": "n"
+  },
+  {
+    "word": "best",
+    "pos": "adj, adv., n"
+  },
+  {
+    "word": "between",
+    "pos": "adv, prep"
+  },
+  {
+    "word": "billion",
+    "pos": "number"
+  },
+  {
+    "word": "bin",
+    "pos": "n"
+  },
+  {
+    "word": "biology",
+    "pos": "n"
+  },
+  {
+    "word": "birth",
+    "pos": "n"
+  },
+  {
+    "word": "biscuit",
+    "pos": "n"
+  },
+  {
+    "word": "bit",
+    "pos": "n"
+  },
+  {
+    "word": "blank",
+    "pos": "adj., n"
+  },
+  {
+    "word": "blood",
+    "pos": "n"
+  },
+  {
+    "word": "boil",
+    "pos": "v"
+  },
+  {
+    "word": "bone",
+    "pos": "n"
+  },
+  {
+    "word": "book",
+    "pos": "n, v"
+  },
+  {
+    "word": "borrow",
+    "pos": "v"
+  },
+  {
+    "word": "boss",
+    "pos": "n"
+  },
+  {
+    "word": "bottom",
+    "pos": "n., adj"
+  },
+  {
+    "word": "bowl",
+    "pos": "n"
+  },
+  {
+    "word": "brain",
+    "pos": "n"
+  },
+  {
+    "word": "bridge",
+    "pos": "n"
+  },
+  {
+    "word": "bright",
+    "pos": "adj"
+  },
+  {
+    "word": "brilliant",
+    "pos": "adj"
+  },
+  {
+    "word": "broken",
+    "pos": "adj"
+  },
+  {
+    "word": "brush",
+    "pos": "v., n"
+  },
+  {
+    "word": "businessman",
+    "pos": "n"
+  },
+  {
+    "word": "button",
+    "pos": "n"
+  },
+  {
+    "word": "camp",
+    "pos": "n., v"
+  },
+  {
+    "word": "camping",
+    "pos": "n"
+  },
+  {
+    "word": "can",
+    "pos": "modal v, n"
+  },
+  {
+    "word": "care",
+    "pos": "n., v"
+  },
+  {
+    "word": "careful",
+    "pos": "adj"
+  },
+  {
+    "word": "carefully",
+    "pos": "adv"
+  },
+  {
+    "word": "carpet",
+    "pos": "n"
+  },
+  {
+    "word": "cartoon",
+    "pos": "n"
+  },
+  {
+    "word": "case",
+    "pos": "n"
+  },
+  {
+    "word": "cash",
+    "pos": "n"
+  },
+  {
+    "word": "castle",
+    "pos": "n"
+  },
+  {
+    "word": "cause",
+    "pos": "n., v"
+  },
+  {
+    "word": "celebrate",
+    "pos": "v"
+  },
+  {
+    "word": "celebrity",
+    "pos": "n"
+  },
+  {
+    "word": "certain",
+    "pos": "adj"
+  },
+  {
+    "word": "certainly",
+    "pos": "adv"
+  },
+  {
+    "word": "chance",
+    "pos": "n"
+  },
+  {
+    "word": "character",
+    "pos": "n"
+  },
+  {
+    "word": "charity",
+    "pos": "n"
+  },
+  {
+    "word": "chat",
+    "pos": "v., n"
+  },
+  {
+    "word": "check",
+    "pos": "n, v"
+  },
+  {
+    "word": "chef",
+    "pos": "n"
+  },
+  {
+    "word": "chemistry",
+    "pos": "n"
+  },
+  {
+    "word": "chip",
+    "pos": "n"
+  },
+  {
+    "word": "choice",
+    "pos": "n"
+  },
+  {
+    "word": "church",
+    "pos": "n"
+  },
+  {
+    "word": "cigarette",
+    "pos": "n"
+  },
+  {
+    "word": "circle",
+    "pos": "n., v"
+  },
+  {
+    "word": "classical",
+    "pos": "adj"
+  },
+  {
+    "word": "clearly",
+    "pos": "adv"
+  },
+  {
+    "word": "clever",
+    "pos": "adj"
+  },
+  {
+    "word": "climate",
+    "pos": "n"
+  },
+  {
+    "word": "closed",
+    "pos": "adj"
+  },
+  {
+    "word": "clothing",
+    "pos": "n"
+  },
+  {
+    "word": "cloud",
+    "pos": "n"
+  },
+  {
+    "word": "coast",
+    "pos": "n"
+  },
+  {
+    "word": "code",
+    "pos": "n"
+  },
+  {
+    "word": "colleague",
+    "pos": "n"
+  },
+  {
+    "word": "collect",
+    "pos": "v"
+  },
+  {
+    "word": "column",
+    "pos": "n"
+  },
+  {
+    "word": "comedy",
+    "pos": "n"
+  },
+  {
+    "word": "comfortable",
+    "pos": "adj"
+  },
+  {
+    "word": "communicate",
+    "pos": "v"
+  },
+  {
+    "word": "community",
+    "pos": "n"
+  },
+  {
+    "word": "compete",
+    "pos": "v"
+  },
+  {
+    "word": "competition",
+    "pos": "n"
+  },
+  {
+    "word": "complain",
+    "pos": "v"
+  },
+  {
+    "word": "completely",
+    "pos": "adv"
+  },
+  {
+    "word": "condition",
+    "pos": "n"
+  },
+  {
+    "word": "conference",
+    "pos": "n"
+  },
+  {
+    "word": "connect",
+    "pos": "v"
+  },
+  {
+    "word": "connected",
+    "pos": "adj"
+  },
+  {
+    "word": "consider",
+    "pos": "v"
+  },
+  {
+    "word": "contain",
+    "pos": "v"
+  },
+  {
+    "word": "context",
+    "pos": "n"
+  },
+  {
+    "word": "continent",
+    "pos": "n"
+  },
+  {
+    "word": "continue",
+    "pos": "v"
+  },
+  {
+    "word": "control",
+    "pos": "n., v"
+  },
+  {
+    "word": "cook",
+    "pos": "n, v"
+  },
+  {
+    "word": "cooker",
+    "pos": "n"
+  },
+  {
+    "word": "copy",
+    "pos": "n., v"
+  },
+  {
+    "word": "corner",
+    "pos": "n"
+  },
+  {
+    "word": "correctly",
+    "pos": "adv"
+  },
+  {
+    "word": "couple",
+    "pos": "n"
+  },
+  {
+    "word": "crazy",
+    "pos": "adj"
+  },
+  {
+    "word": "creative",
+    "pos": "adj"
+  },
+  {
+    "word": "crime",
+    "pos": "n"
+  },
+  {
+    "word": "cross",
+    "pos": "v., n"
+  },
+  {
+    "word": "crowd",
+    "pos": "n"
+  },
+  {
+    "word": "crowded",
+    "pos": "adj"
+  },
+  {
+    "word": "cupboard",
+    "pos": "n"
+  },
+  {
+    "word": "curly",
+    "pos": "adj"
+  },
+  {
+    "word": "cycle",
+    "pos": "n., v"
+  },
+  {
+    "word": "danger",
+    "pos": "n"
+  },
+  {
+    "word": "dark",
+    "pos": "adj, n"
+  },
+  {
+    "word": "data",
+    "pos": "n"
+  },
+  {
+    "word": "dead",
+    "pos": "adj"
+  },
+  {
+    "word": "dear",
+    "pos": "adj, exclam"
+  },
+  {
+    "word": "death",
+    "pos": "n"
+  },
+  {
+    "word": "decision",
+    "pos": "n"
+  },
+  {
+    "word": "definitely",
+    "pos": "adv"
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "word": "slavery",
+    "pos": "n"
+  },
+  {
+    "word": "slot",
+    "pos": "n"
+  },
+  {
+    "word": "smash",
+    "pos": "v"
+  },
+  {
+    "word": "snap",
+    "pos": "v"
+  },
+  {
+    "word": "soak",
+    "pos": "v"
+  },
+  {
+    "word": "soar",
+    "pos": "v"
+  },
+  {
+    "word": "socialist",
+    "pos": "adj"
+  },
+  {
+    "word": "sole",
+    "pos": "adj"
+  },
+  {
+    "word": "solely",
+    "pos": "adv"
+  },
+  {
+    "word": "solicitor",
+    "pos": "n"
+  },
+  {
+    "word": "solidarity",
+    "pos": "n"
+  },
+  {
+    "word": "solo",
+    "pos": "adj., n"
+  },
+  {
+    "word": "sound",
+    "pos": "adj, n., v"
+  },
+  {
+    "word": "sovereignty",
+    "pos": "n"
+  },
+  {
+    "word": "spam",
+    "pos": "n"
+  },
+  {
+    "word": "span",
+    "pos": "v., n"
+  },
+  {
+    "word": "spare",
+    "pos": "adj, v"
+  },
+  {
+    "word": "spark",
+    "pos": "v"
+  },
+  {
+    "word": "specialized",
+    "pos": "adj"
+  },
+  {
+    "word": "specification",
+    "pos": "n"
+  },
+  {
+    "word": "specimen",
+    "pos": "n"
+  },
+  {
+    "word": "spectacle",
+    "pos": "n"
+  },
+  {
+    "word": "spectrum",
+    "pos": "n"
+  },
+  {
+    "word": "spell",
+    "pos": "n, v"
+  },
+  {
+    "word": "sphere",
+    "pos": "n"
+  },
+  {
+    "word": "spin",
+    "pos": "v., n"
+  },
+  {
+    "word": "spine",
+    "pos": "n"
+  },
+  {
+    "word": "spotlight",
+    "pos": "n"
+  },
+  {
+    "word": "spouse",
+    "pos": "n"
+  },
+  {
+    "word": "spy",
+    "pos": "n., v"
+  },
+  {
+    "word": "squad",
+    "pos": "n"
+  },
+  {
+    "word": "squeeze",
+    "pos": "v"
+  },
+  {
+    "word": "stab",
+    "pos": "v"
+  },
+  {
+    "word": "stability",
+    "pos": "n"
+  },
+  {
+    "word": "stabilize",
+    "pos": "v"
+  },
+  {
+    "word": "stake",
+    "pos": "n"
+  },
+  {
+    "word": "standing",
+    "pos": "adj"
+  },
+  {
+    "word": "stark",
+    "pos": "adj"
+  },
+  {
+    "word": "statistical",
+    "pos": "adj"
+  },
+  {
+    "word": "steer",
+    "pos": "v"
+  },
+  {
+    "word": "stem",
+    "pos": "n., v"
+  },
+  {
+    "word": "stereotype",
+    "pos": "n"
+  },
+  {
+    "word": "stimulus",
+    "pos": "n"
+  },
+  {
+    "word": "stir",
+    "pos": "v"
+  },
+  {
+    "word": "storage",
+    "pos": "n"
+  },
+  {
+    "word": "straightforward",
+    "pos": "adj"
+  },
+  {
+    "word": "strain",
+    "pos": "n"
+  },
+  {
+    "word": "strand",
+    "pos": "n"
+  },
+  {
+    "word": "strategic",
+    "pos": "adj"
+  },
+  {
+    "word": "striking",
+    "pos": "adj"
+  },
+  {
+    "word": "strip (long narrow piece)",
+    "pos": "n"
+  },
+  {
+    "word": "strip (remove clothes/a layer)",
+    "pos": "v"
+  },
+  {
+    "word": "strive",
+    "pos": "v"
+  },
+  {
+    "word": "structural",
+    "pos": "adj"
+  },
+  {
+    "word": "stumble",
+    "pos": "v"
+  },
+  {
+    "word": "stun",
+    "pos": "v"
+  },
+  {
+    "word": "submission",
+    "pos": "n"
+  },
+  {
+    "word": "subscriber",
+    "pos": "n"
+  },
+  {
+    "word": "subscription",
+    "pos": "n"
+  },
+  {
+    "word": "subsidy",
+    "pos": "n"
+  },
+  {
+    "word": "substantial",
+    "pos": "adj"
+  },
+  {
+    "word": "substantially",
+    "pos": "adv"
+  },
+  {
+    "word": "substitute",
+    "pos": "n., v"
+  },
+  {
+    "word": "substitution",
+    "pos": "n"
+  },
+  {
+    "word": "subtle",
+    "pos": "adj"
+  },
+  {
+    "word": "suburban",
+    "pos": "adj"
+  },
+  {
+    "word": "succession",
+    "pos": "n"
+  },
+  {
+    "word": "successive",
+    "pos": "adj"
+  },
+  {
+    "word": "successor",
+    "pos": "n"
+  },
+  {
+    "word": "suck",
+    "pos": "v"
+  },
+  {
+    "word": "sue",
+    "pos": "v"
+  },
+  {
+    "word": "suicide",
+    "pos": "n"
+  },
+  {
+    "word": "suite",
+    "pos": "n"
+  },
+  {
+    "word": "summit",
+    "pos": "n"
+  },
+  {
+    "word": "superb",
+    "pos": "adj"
+  },
+  {
+    "word": "superior",
+    "pos": "adj"
+  },
+  {
+    "word": "supervise",
+    "pos": "v"
+  },
+  {
+    "word": "supervision",
+    "pos": "n"
+  },
+  {
+    "word": "supervisor",
+    "pos": "n"
+  },
+  {
+    "word": "supplement",
+    "pos": "n., v"
+  },
+  {
+    "word": "supportive",
+    "pos": "adj"
+  },
+  {
+    "word": "supposedly",
+    "pos": "adv"
+  },
+  {
+    "word": "suppress",
+    "pos": "v"
+  },
+  {
+    "word": "supreme",
+    "pos": "adj"
+  },
+  {
+    "word": "surge",
+    "pos": "n., v"
+  },
+  {
+    "word": "surgical",
+    "pos": "adj"
+  },
+  {
+    "word": "surplus",
+    "pos": "n"
+  },
+  {
+    "word": "surrender",
+    "pos": "v"
+  },
+  {
+    "word": "surveillance",
+    "pos": "n"
+  },
+  {
+    "word": "suspension",
+    "pos": "n"
+  },
+  {
+    "word": "suspicion",
+    "pos": "n"
+  },
+  {
+    "word": "suspicious",
+    "pos": "adj"
+  },
+  {
+    "word": "sustain",
+    "pos": "v"
+  },
+  {
+    "word": "swing",
+    "pos": "v., n"
+  },
+  {
+    "word": "sword",
+    "pos": "n"
+  },
+  {
+    "word": "symbolic",
+    "pos": "adj"
+  },
+  {
+    "word": "syndrome",
+    "pos": "n"
+  },
+  {
+    "word": "synthesis",
+    "pos": "n"
+  },
+  {
+    "word": "systematic",
+    "pos": "adj"
+  },
+  {
+    "word": "tackle",
+    "pos": "n, v"
+  },
+  {
+    "word": "tactic",
+    "pos": "n"
+  },
+  {
+    "word": "tactical",
+    "pos": "adj"
+  },
+  {
+    "word": "taxpayer",
+    "pos": "n"
+  },
+  {
+    "word": "tempt",
+    "pos": "v"
+  },
+  {
+    "word": "tenant",
+    "pos": "n"
+  },
+  {
+    "word": "tender",
+    "pos": "adj"
+  },
+  {
+    "word": "tenure",
+    "pos": "n"
+  },
+  {
+    "word": "terminal",
+    "pos": "adj, n"
+  },
+  {
+    "word": "terminate",
+    "pos": "v"
+  },
+  {
+    "word": "terrain",
+    "pos": "n"
+  },
+  {
+    "word": "terrific",
+    "pos": "adj"
+  },
+  {
+    "word": "testify",
+    "pos": "v"
+  },
+  {
+    "word": "testimony",
+    "pos": "n"
+  },
+  {
+    "word": "texture",
+    "pos": "n"
+  },
+  {
+    "word": "thankfully",
+    "pos": "adv"
+  },
+  {
+    "word": "theatrical",
+    "pos": "adj"
+  },
+  {
+    "word": "theology",
+    "pos": "n"
+  },
+  {
+    "word": "theoretical",
+    "pos": "adj"
+  },
+  {
+    "word": "thereafter",
+    "pos": "adv"
+  },
+  {
+    "word": "thereby",
+    "pos": "adv"
+  },
+  {
+    "word": "thought-provoking",
+    "pos": "adj"
+  },
+  {
+    "word": "thoughtful",
+    "pos": "adj"
+  },
+  {
+    "word": "thread",
+    "pos": "n"
+  },
+  {
+    "word": "threshold",
+    "pos": "n"
+  },
+  {
+    "word": "thrilled",
+    "pos": "adj"
+  },
+  {
+    "word": "thrive",
+    "pos": "v"
+  },
+  {
+    "word": "tide",
+    "pos": "n"
+  },
+  {
+    "word": "tighten",
+    "pos": "v"
+  },
+  {
+    "word": "timber",
+    "pos": "n"
+  },
+  {
+    "word": "timely",
+    "pos": "adj"
+  },
+  {
+    "word": "tobacco",
+    "pos": "n"
+  },
+  {
+    "word": "tolerance",
+    "pos": "n"
+  },
+  {
+    "word": "tolerate",
+    "pos": "v"
+  },
+  {
+    "word": "toll",
+    "pos": "n"
+  },
+  {
+    "word": "top",
+    "pos": "adj, n., v"
+  },
+  {
+    "word": "torture",
+    "pos": "n., v"
+  },
+  {
+    "word": "toss",
+    "pos": "v"
+  },
+  {
+    "word": "total",
+    "pos": "adj., n, v"
+  },
+  {
+    "word": "toxic",
+    "pos": "adj"
+  },
+  {
+    "word": "trace",
+    "pos": "n, v"
+  },
+  {
+    "word": "trademark",
+    "pos": "n"
+  },
+  {
+    "word": "trail",
+    "pos": "n., v"
+  },
+  {
+    "word": "trailer",
+    "pos": "n"
+  },
+  {
+    "word": "transaction",
+    "pos": "n"
+  },
+  {
+    "word": "transcript",
+    "pos": "n"
+  },
+  {
+    "word": "transformation",
+    "pos": "n"
+  },
+  {
+    "word": "transit",
+    "pos": "n"
+  },
+  {
+    "word": "transmission",
+    "pos": "n"
+  },
+  {
+    "word": "transparency",
+    "pos": "n"
+  },
+  {
+    "word": "transparent",
+    "pos": "adj"
+  },
+  {
+    "word": "trauma",
+    "pos": "n"
+  },
+  {
+    "word": "treaty",
+    "pos": "n"
+  },
+  {
+    "word": "tremendous",
+    "pos": "adj"
+  },
+  {
+    "word": "tribal",
+    "pos": "adj"
+  },
+  {
+    "word": "tribunal",
+    "pos": "n"
+  },
+  {
+    "word": "tribute",
+    "pos": "n"
+  },
+  {
+    "word": "trigger",
+    "pos": "n, v"
+  },
+  {
+    "word": "trio",
+    "pos": "n"
+  },
+  {
+    "word": "triumph",
+    "pos": "n"
+  },
+  {
+    "word": "trophy",
+    "pos": "n"
+  },
+  {
+    "word": "troubled",
+    "pos": "adj"
+  },
+  {
+    "word": "trustee",
+    "pos": "n"
+  },
+  {
+    "word": "tuition",
+    "pos": "n"
+  },
+  {
+    "word": "turnout",
+    "pos": "n"
+  },
+  {
+    "word": "turnover",
+    "pos": "n"
+  },
+  {
+    "word": "twist",
+    "pos": "v., n"
+  },
+  {
+    "word": "undergraduate",
+    "pos": "n"
+  },
+  {
+    "word": "underlying",
+    "pos": "adj"
+  },
+  {
+    "word": "undermine",
+    "pos": "v"
+  },
+  {
+    "word": "undoubtedly",
+    "pos": "adv"
+  },
+  {
+    "word": "unify",
+    "pos": "v"
+  },
+  {
+    "word": "unprecedented",
+    "pos": "adj"
+  },
+  {
+    "word": "unveil",
+    "pos": "v"
+  },
+  {
+    "word": "upcoming",
+    "pos": "adj"
+  },
+  {
+    "word": "upgrade",
+    "pos": "v., n"
+  },
+  {
+    "word": "uphold",
+    "pos": "v"
+  },
+  {
+    "word": "utility",
+    "pos": "n"
+  },
+  {
+    "word": "utilize",
+    "pos": "v"
+  },
+  {
+    "word": "utterly",
+    "pos": "adv"
+  },
+  {
+    "word": "vacuum",
+    "pos": "n"
+  }
+]

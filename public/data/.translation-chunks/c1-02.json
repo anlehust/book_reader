@@ -1,0 +1,722 @@
+[
+  {
+    "word": "charter",
+    "pos": "n"
+  },
+  {
+    "word": "chronic",
+    "pos": "adj"
+  },
+  {
+    "word": "chunk",
+    "pos": "n"
+  },
+  {
+    "word": "circulate",
+    "pos": "v"
+  },
+  {
+    "word": "circulation",
+    "pos": "n"
+  },
+  {
+    "word": "citizenship",
+    "pos": "n"
+  },
+  {
+    "word": "civic",
+    "pos": "adj"
+  },
+  {
+    "word": "civilian",
+    "pos": "n., adj"
+  },
+  {
+    "word": "clarity",
+    "pos": "n"
+  },
+  {
+    "word": "clash",
+    "pos": "n"
+  },
+  {
+    "word": "classification",
+    "pos": "n"
+  },
+  {
+    "word": "cling",
+    "pos": "v"
+  },
+  {
+    "word": "clinical",
+    "pos": "adj"
+  },
+  {
+    "word": "closure",
+    "pos": "n"
+  },
+  {
+    "word": "cluster",
+    "pos": "n"
+  },
+  {
+    "word": "coalition",
+    "pos": "n"
+  },
+  {
+    "word": "coastal",
+    "pos": "adj"
+  },
+  {
+    "word": "cocktail",
+    "pos": "n"
+  },
+  {
+    "word": "cognitive",
+    "pos": "adj"
+  },
+  {
+    "word": "coincide",
+    "pos": "v"
+  },
+  {
+    "word": "collaborate",
+    "pos": "v"
+  },
+  {
+    "word": "collaboration",
+    "pos": "n"
+  },
+  {
+    "word": "collective",
+    "pos": "adj"
+  },
+  {
+    "word": "collision",
+    "pos": "n"
+  },
+  {
+    "word": "colonial",
+    "pos": "adj"
+  },
+  {
+    "word": "columnist",
+    "pos": "n"
+  },
+  {
+    "word": "combat",
+    "pos": "n., v"
+  },
+  {
+    "word": "commence",
+    "pos": "v"
+  },
+  {
+    "word": "commentary",
+    "pos": "n"
+  },
+  {
+    "word": "commentator",
+    "pos": "n"
+  },
+  {
+    "word": "commerce",
+    "pos": "n"
+  },
+  {
+    "word": "commissioner",
+    "pos": "n"
+  },
+  {
+    "word": "commodity",
+    "pos": "n"
+  },
+  {
+    "word": "communist",
+    "pos": "adj"
+  },
+  {
+    "word": "companion",
+    "pos": "n"
+  },
+  {
+    "word": "comparable",
+    "pos": "adj"
+  },
+  {
+    "word": "compassion",
+    "pos": "n"
+  },
+  {
+    "word": "compel",
+    "pos": "v"
+  },
+  {
+    "word": "compelling",
+    "pos": "adj"
+  },
+  {
+    "word": "compensate",
+    "pos": "v"
+  },
+  {
+    "word": "compensation",
+    "pos": "n"
+  },
+  {
+    "word": "competence",
+    "pos": "n"
+  },
+  {
+    "word": "competent",
+    "pos": "adj"
+  },
+  {
+    "word": "compile",
+    "pos": "v"
+  },
+  {
+    "word": "complement",
+    "pos": "v"
+  },
+  {
+    "word": "complexity",
+    "pos": "n"
+  },
+  {
+    "word": "compliance",
+    "pos": "n"
+  },
+  {
+    "word": "complication",
+    "pos": "n"
+  },
+  {
+    "word": "comply",
+    "pos": "v"
+  },
+  {
+    "word": "composition",
+    "pos": "n"
+  },
+  {
+    "word": "compromise",
+    "pos": "n., v"
+  },
+  {
+    "word": "compute",
+    "pos": "v"
+  },
+  {
+    "word": "conceal",
+    "pos": "v"
+  },
+  {
+    "word": "concede",
+    "pos": "v"
+  },
+  {
+    "word": "conceive",
+    "pos": "v"
+  },
+  {
+    "word": "conception",
+    "pos": "n"
+  },
+  {
+    "word": "concession",
+    "pos": "n"
+  },
+  {
+    "word": "condemn",
+    "pos": "v"
+  },
+  {
+    "word": "confer",
+    "pos": "v"
+  },
+  {
+    "word": "confession",
+    "pos": "n"
+  },
+  {
+    "word": "configuration",
+    "pos": "n"
+  },
+  {
+    "word": "confine",
+    "pos": "v"
+  },
+  {
+    "word": "confirmation",
+    "pos": "n"
+  },
+  {
+    "word": "confront",
+    "pos": "v"
+  },
+  {
+    "word": "confrontation",
+    "pos": "n"
+  },
+  {
+    "word": "congratulate",
+    "pos": "v"
+  },
+  {
+    "word": "congregation",
+    "pos": "n"
+  },
+  {
+    "word": "congressional",
+    "pos": "adj"
+  },
+  {
+    "word": "conquer",
+    "pos": "v"
+  },
+  {
+    "word": "conscience",
+    "pos": "n"
+  },
+  {
+    "word": "consciousness",
+    "pos": "n"
+  },
+  {
+    "word": "consecutive",
+    "pos": "adj"
+  },
+  {
+    "word": "consensus",
+    "pos": "n"
+  },
+  {
+    "word": "consent",
+    "pos": "n., v"
+  },
+  {
+    "word": "conserve",
+    "pos": "v"
+  },
+  {
+    "word": "consistency",
+    "pos": "n"
+  },
+  {
+    "word": "consolidate",
+    "pos": "v"
+  },
+  {
+    "word": "constituency",
+    "pos": "n"
+  },
+  {
+    "word": "constitute",
+    "pos": "v"
+  },
+  {
+    "word": "constitution",
+    "pos": "n"
+  },
+  {
+    "word": "constitutional",
+    "pos": "adj"
+  },
+  {
+    "word": "constraint",
+    "pos": "n"
+  },
+  {
+    "word": "consultation",
+    "pos": "n"
+  },
+  {
+    "word": "contemplate",
+    "pos": "v"
+  },
+  {
+    "word": "contempt",
+    "pos": "n"
+  },
+  {
+    "word": "contend",
+    "pos": "v"
+  },
+  {
+    "word": "contender",
+    "pos": "n"
+  },
+  {
+    "word": "content",
+    "pos": "adj, n"
+  },
+  {
+    "word": "contention",
+    "pos": "n"
+  },
+  {
+    "word": "continually",
+    "pos": "adv"
+  },
+  {
+    "word": "contractor",
+    "pos": "n"
+  },
+  {
+    "word": "contradiction",
+    "pos": "n"
+  },
+  {
+    "word": "contrary",
+    "pos": "adj., n"
+  },
+  {
+    "word": "contributor",
+    "pos": "n"
+  },
+  {
+    "word": "conversion",
+    "pos": "n"
+  },
+  {
+    "word": "convict",
+    "pos": "v"
+  },
+  {
+    "word": "conviction",
+    "pos": "n"
+  },
+  {
+    "word": "cooperate",
+    "pos": "v"
+  },
+  {
+    "word": "cooperative",
+    "pos": "adj"
+  },
+  {
+    "word": "coordinate",
+    "pos": "v"
+  },
+  {
+    "word": "coordination",
+    "pos": "n"
+  },
+  {
+    "word": "coordinator",
+    "pos": "n"
+  },
+  {
+    "word": "cop",
+    "pos": "n"
+  },
+  {
+    "word": "copper",
+    "pos": "n"
+  },
+  {
+    "word": "copyright",
+    "pos": "n"
+  },
+  {
+    "word": "correction",
+    "pos": "n"
+  },
+  {
+    "word": "correlate",
+    "pos": "v"
+  },
+  {
+    "word": "correlation",
+    "pos": "n"
+  },
+  {
+    "word": "correspond",
+    "pos": "v"
+  },
+  {
+    "word": "correspondence",
+    "pos": "n"
+  },
+  {
+    "word": "correspondent",
+    "pos": "n"
+  },
+  {
+    "word": "corresponding",
+    "pos": "adj"
+  },
+  {
+    "word": "corrupt",
+    "pos": "adj"
+  },
+  {
+    "word": "corruption",
+    "pos": "n"
+  },
+  {
+    "word": "costly",
+    "pos": "adj"
+  },
+  {
+    "word": "councillor",
+    "pos": "n"
+  },
+  {
+    "word": "counselling",
+    "pos": "n"
+  },
+  {
+    "word": "counsellor",
+    "pos": "n"
+  },
+  {
+    "word": "counter (argue against)",
+    "pos": "v"
+  },
+  {
+    "word": "counterpart",
+    "pos": "n"
+  },
+  {
+    "word": "countless",
+    "pos": "adj"
+  },
+  {
+    "word": "coup",
+    "pos": "n"
+  },
+  {
+    "word": "courtesy",
+    "pos": "n"
+  },
+  {
+    "word": "craft",
+    "pos": "n, v"
+  },
+  {
+    "word": "crawl",
+    "pos": "v"
+  },
+  {
+    "word": "creator",
+    "pos": "n"
+  },
+  {
+    "word": "credibility",
+    "pos": "n"
+  },
+  {
+    "word": "credible",
+    "pos": "adj"
+  },
+  {
+    "word": "creep",
+    "pos": "v"
+  },
+  {
+    "word": "critique",
+    "pos": "n"
+  },
+  {
+    "word": "crown",
+    "pos": "n"
+  },
+  {
+    "word": "crude",
+    "pos": "adj"
+  },
+  {
+    "word": "crush",
+    "pos": "v"
+  },
+  {
+    "word": "crystal",
+    "pos": "n"
+  },
+  {
+    "word": "cult",
+    "pos": "n., adj"
+  },
+  {
+    "word": "cultivate",
+    "pos": "v"
+  },
+  {
+    "word": "curiosity",
+    "pos": "n"
+  },
+  {
+    "word": "custody",
+    "pos": "n"
+  },
+  {
+    "word": "cutting",
+    "pos": "n"
+  },
+  {
+    "word": "cynical",
+    "pos": "adj"
+  },
+  {
+    "word": "dam",
+    "pos": "n"
+  },
+  {
+    "word": "damaging",
+    "pos": "adj"
+  },
+  {
+    "word": "dawn",
+    "pos": "n"
+  },
+  {
+    "word": "debris",
+    "pos": "n"
+  },
+  {
+    "word": "debut",
+    "pos": "n"
+  },
+  {
+    "word": "decision-making",
+    "pos": "n"
+  },
+  {
+    "word": "decisive",
+    "pos": "adj"
+  },
+  {
+    "word": "declaration",
+    "pos": "n"
+  },
+  {
+    "word": "dedicated",
+    "pos": "adj"
+  },
+  {
+    "word": "dedication",
+    "pos": "n"
+  },
+  {
+    "word": "deed",
+    "pos": "n"
+  },
+  {
+    "word": "deem",
+    "pos": "v"
+  },
+  {
+    "word": "default",
+    "pos": "n"
+  },
+  {
+    "word": "defect",
+    "pos": "n"
+  },
+  {
+    "word": "defensive",
+    "pos": "adj"
+  },
+  {
+    "word": "deficiency",
+    "pos": "n"
+  },
+  {
+    "word": "deficit",
+    "pos": "n"
+  },
+  {
+    "word": "defy",
+    "pos": "v"
+  },
+  {
+    "word": "delegate",
+    "pos": "n"
+  },
+  {
+    "word": "delegation",
+    "pos": "n"
+  },
+  {
+    "word": "delicate",
+    "pos": "adj"
+  },
+  {
+    "word": "demon",
+    "pos": "n"
+  },
+  {
+    "word": "denial",
+    "pos": "n"
+  },
+  {
+    "word": "denounce",
+    "pos": "v"
+  },
+  {
+    "word": "dense",
+    "pos": "adj"
+  },
+  {
+    "word": "density",
+    "pos": "n"
+  },
+  {
+    "word": "dependence",
+    "pos": "n"
+  },
+  {
+    "word": "depict",
+    "pos": "v"
+  },
+  {
+    "word": "deploy",
+    "pos": "v"
+  },
+  {
+    "word": "deployment",
+    "pos": "n"
+  },
+  {
+    "word": "deposit",
+    "pos": "n, v"
+  },
+  {
+    "word": "deprive",
+    "pos": "v"
+  },
+  {
+    "word": "deputy",
+    "pos": "n"
+  },
+  {
+    "word": "descend",
+    "pos": "v"
+  },
+  {
+    "word": "descent",
+    "pos": "n"
+  },
+  {
+    "word": "designate",
+    "pos": "v"
+  },
+  {
+    "word": "desirable",
+    "pos": "adj"
+  },
+  {
+    "word": "desktop",
+    "pos": "n"
+  },
+  {
+    "word": "destructive",
+    "pos": "adj"
+  },
+  {
+    "word": "detain",
+    "pos": "v"
+  }
+]
