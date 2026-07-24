@@ -1,0 +1,722 @@
+[
+  {
+    "word": "absolutely",
+    "pos": "adv"
+  },
+  {
+    "word": "access",
+    "pos": "n., v"
+  },
+  {
+    "word": "accommodation",
+    "pos": "n"
+  },
+  {
+    "word": "achievement",
+    "pos": "n"
+  },
+  {
+    "word": "act",
+    "pos": "n, v"
+  },
+  {
+    "word": "ad",
+    "pos": "n"
+  },
+  {
+    "word": "addition",
+    "pos": "n"
+  },
+  {
+    "word": "admire",
+    "pos": "v"
+  },
+  {
+    "word": "admit",
+    "pos": "v"
+  },
+  {
+    "word": "advanced",
+    "pos": "adj"
+  },
+  {
+    "word": "advise",
+    "pos": "v"
+  },
+  {
+    "word": "afford",
+    "pos": "v"
+  },
+  {
+    "word": "age",
+    "pos": "n, v"
+  },
+  {
+    "word": "aged",
+    "pos": "adj"
+  },
+  {
+    "word": "agent",
+    "pos": "n"
+  },
+  {
+    "word": "agreement",
+    "pos": "n"
+  },
+  {
+    "word": "ahead",
+    "pos": "adv"
+  },
+  {
+    "word": "aim",
+    "pos": "v., n"
+  },
+  {
+    "word": "album",
+    "pos": "n"
+  },
+  {
+    "word": "alcohol",
+    "pos": "n"
+  },
+  {
+    "word": "alcoholic",
+    "pos": "adj"
+  },
+  {
+    "word": "alternative",
+    "pos": "adj, n"
+  },
+  {
+    "word": "amazed",
+    "pos": "adj"
+  },
+  {
+    "word": "ambition",
+    "pos": "n"
+  },
+  {
+    "word": "ambitious",
+    "pos": "adj"
+  },
+  {
+    "word": "analyse",
+    "pos": "v"
+  },
+  {
+    "word": "analysis",
+    "pos": "n"
+  },
+  {
+    "word": "announce",
+    "pos": "v"
+  },
+  {
+    "word": "announcement",
+    "pos": "n"
+  },
+  {
+    "word": "annoy",
+    "pos": "v"
+  },
+  {
+    "word": "annoyed",
+    "pos": "adj"
+  },
+  {
+    "word": "annoying",
+    "pos": "adj"
+  },
+  {
+    "word": "apart",
+    "pos": "adv"
+  },
+  {
+    "word": "apologize",
+    "pos": "v"
+  },
+  {
+    "word": "application",
+    "pos": "n"
+  },
+  {
+    "word": "appointment",
+    "pos": "n"
+  },
+  {
+    "word": "appreciate",
+    "pos": "v"
+  },
+  {
+    "word": "approximately",
+    "pos": "adv"
+  },
+  {
+    "word": "arrest",
+    "pos": "v., n"
+  },
+  {
+    "word": "arrival",
+    "pos": "n"
+  },
+  {
+    "word": "assignment",
+    "pos": "n"
+  },
+  {
+    "word": "assist",
+    "pos": "v"
+  },
+  {
+    "word": "atmosphere",
+    "pos": "n"
+  },
+  {
+    "word": "attach",
+    "pos": "v"
+  },
+  {
+    "word": "attitude",
+    "pos": "n"
+  },
+  {
+    "word": "attract",
+    "pos": "v"
+  },
+  {
+    "word": "attraction",
+    "pos": "n"
+  },
+  {
+    "word": "authority",
+    "pos": "n"
+  },
+  {
+    "word": "average",
+    "pos": "adj., n, v"
+  },
+  {
+    "word": "award",
+    "pos": "n, v"
+  },
+  {
+    "word": "aware",
+    "pos": "adj"
+  },
+  {
+    "word": "backwards",
+    "pos": "adv"
+  },
+  {
+    "word": "bake",
+    "pos": "v"
+  },
+  {
+    "word": "balance",
+    "pos": "n., v"
+  },
+  {
+    "word": "ban",
+    "pos": "v., n"
+  },
+  {
+    "word": "bank (river)",
+    "pos": "n"
+  },
+  {
+    "word": "base",
+    "pos": "n., v"
+  },
+  {
+    "word": "basic",
+    "pos": "adj"
+  },
+  {
+    "word": "basis",
+    "pos": "n"
+  },
+  {
+    "word": "battery",
+    "pos": "n"
+  },
+  {
+    "word": "beauty",
+    "pos": "n"
+  },
+  {
+    "word": "bee",
+    "pos": "n"
+  },
+  {
+    "word": "belief",
+    "pos": "n"
+  },
+  {
+    "word": "bell",
+    "pos": "n"
+  },
+  {
+    "word": "bend",
+    "pos": "v., n"
+  },
+  {
+    "word": "benefit",
+    "pos": "n, v"
+  },
+  {
+    "word": "better",
+    "pos": "adj, adv, n"
+  },
+  {
+    "word": "bite",
+    "pos": "v., n"
+  },
+  {
+    "word": "block",
+    "pos": "n., v"
+  },
+  {
+    "word": "board",
+    "pos": "n, v"
+  },
+  {
+    "word": "bomb",
+    "pos": "n., v"
+  },
+  {
+    "word": "bother",
+    "pos": "v"
+  },
+  {
+    "word": "branch",
+    "pos": "n"
+  },
+  {
+    "word": "brand",
+    "pos": "n., v"
+  },
+  {
+    "word": "brave",
+    "pos": "adj"
+  },
+  {
+    "word": "breath",
+    "pos": "n"
+  },
+  {
+    "word": "breathe",
+    "pos": "v"
+  },
+  {
+    "word": "breathing",
+    "pos": "n"
+  },
+  {
+    "word": "bride",
+    "pos": "n"
+  },
+  {
+    "word": "bubble",
+    "pos": "n"
+  },
+  {
+    "word": "bury",
+    "pos": "v"
+  },
+  {
+    "word": "by",
+    "pos": "adv, prep"
+  },
+  {
+    "word": "calm",
+    "pos": "adj., v., n"
+  },
+  {
+    "word": "campaign",
+    "pos": "n., v"
+  },
+  {
+    "word": "campus",
+    "pos": "n"
+  },
+  {
+    "word": "candidate",
+    "pos": "n"
+  },
+  {
+    "word": "cap",
+    "pos": "n"
+  },
+  {
+    "word": "captain",
+    "pos": "n"
+  },
+  {
+    "word": "careless",
+    "pos": "adj"
+  },
+  {
+    "word": "category",
+    "pos": "n"
+  },
+  {
+    "word": "ceiling",
+    "pos": "n"
+  },
+  {
+    "word": "celebration",
+    "pos": "n"
+  },
+  {
+    "word": "central",
+    "pos": "adj"
+  },
+  {
+    "word": "centre",
+    "pos": "n, v"
+  },
+  {
+    "word": "ceremony",
+    "pos": "n"
+  },
+  {
+    "word": "champion",
+    "pos": "n"
+  },
+  {
+    "word": "channel",
+    "pos": "n"
+  },
+  {
+    "word": "chapter",
+    "pos": "n"
+  },
+  {
+    "word": "charge",
+    "pos": "n., v"
+  },
+  {
+    "word": "cheap",
+    "pos": "adj, adv"
+  },
+  {
+    "word": "cheat",
+    "pos": "v., n"
+  },
+  {
+    "word": "cheerful",
+    "pos": "adj"
+  },
+  {
+    "word": "chemical",
+    "pos": "adj., n"
+  },
+  {
+    "word": "chest",
+    "pos": "n"
+  },
+  {
+    "word": "childhood",
+    "pos": "n"
+  },
+  {
+    "word": "claim",
+    "pos": "v., n"
+  },
+  {
+    "word": "clause",
+    "pos": "n"
+  },
+  {
+    "word": "clear",
+    "pos": "adj, v"
+  },
+  {
+    "word": "click",
+    "pos": "v., n"
+  },
+  {
+    "word": "client",
+    "pos": "n"
+  },
+  {
+    "word": "climb",
+    "pos": "n, v"
+  },
+  {
+    "word": "cloth",
+    "pos": "n"
+  },
+  {
+    "word": "clue",
+    "pos": "n"
+  },
+  {
+    "word": "coach",
+    "pos": "n, v"
+  },
+  {
+    "word": "coal",
+    "pos": "n"
+  },
+  {
+    "word": "coin",
+    "pos": "n"
+  },
+  {
+    "word": "collection",
+    "pos": "n"
+  },
+  {
+    "word": "coloured",
+    "pos": "adj"
+  },
+  {
+    "word": "combine",
+    "pos": "v"
+  },
+  {
+    "word": "comment",
+    "pos": "n, v"
+  },
+  {
+    "word": "commercial",
+    "pos": "adj., n"
+  },
+  {
+    "word": "commit",
+    "pos": "v"
+  },
+  {
+    "word": "communication",
+    "pos": "n"
+  },
+  {
+    "word": "comparison",
+    "pos": "n"
+  },
+  {
+    "word": "competitive",
+    "pos": "adj"
+  },
+  {
+    "word": "competitor",
+    "pos": "n"
+  },
+  {
+    "word": "complaint",
+    "pos": "n"
+  },
+  {
+    "word": "concentrate",
+    "pos": "v"
+  },
+  {
+    "word": "conclude",
+    "pos": "v"
+  },
+  {
+    "word": "conclusion",
+    "pos": "n"
+  },
+  {
+    "word": "confident",
+    "pos": "adj"
+  },
+  {
+    "word": "confirm",
+    "pos": "v"
+  },
+  {
+    "word": "confuse",
+    "pos": "v"
+  },
+  {
+    "word": "confused",
+    "pos": "adj"
+  },
+  {
+    "word": "connection",
+    "pos": "n"
+  },
+  {
+    "word": "consequence",
+    "pos": "n"
+  },
+  {
+    "word": "consist",
+    "pos": "v"
+  },
+  {
+    "word": "consume",
+    "pos": "v"
+  },
+  {
+    "word": "consumer",
+    "pos": "n"
+  },
+  {
+    "word": "contact",
+    "pos": "n., v"
+  },
+  {
+    "word": "container",
+    "pos": "n"
+  },
+  {
+    "word": "continuous",
+    "pos": "adj"
+  },
+  {
+    "word": "contrast",
+    "pos": "n., v"
+  },
+  {
+    "word": "convenient",
+    "pos": "adj"
+  },
+  {
+    "word": "convince",
+    "pos": "v"
+  },
+  {
+    "word": "cool",
+    "pos": "adj, v"
+  },
+  {
+    "word": "costume",
+    "pos": "n"
+  },
+  {
+    "word": "cottage",
+    "pos": "n"
+  },
+  {
+    "word": "cotton",
+    "pos": "n"
+  },
+  {
+    "word": "count",
+    "pos": "n, v"
+  },
+  {
+    "word": "countryside",
+    "pos": "n"
+  },
+  {
+    "word": "court",
+    "pos": "n"
+  },
+  {
+    "word": "cover",
+    "pos": "n, v"
+  },
+  {
+    "word": "covered",
+    "pos": "adj"
+  },
+  {
+    "word": "cream",
+    "pos": "adj, n"
+  },
+  {
+    "word": "criminal",
+    "pos": "adj, n"
+  },
+  {
+    "word": "cruel",
+    "pos": "adj"
+  },
+  {
+    "word": "cultural",
+    "pos": "adj"
+  },
+  {
+    "word": "currency",
+    "pos": "n"
+  },
+  {
+    "word": "currently",
+    "pos": "adv"
+  },
+  {
+    "word": "curtain",
+    "pos": "n"
+  },
+  {
+    "word": "custom",
+    "pos": "n"
+  },
+  {
+    "word": "cut",
+    "pos": "n, v"
+  },
+  {
+    "word": "daily",
+    "pos": "adj, adv"
+  },
+  {
+    "word": "damage",
+    "pos": "n., v"
+  },
+  {
+    "word": "deal",
+    "pos": "n, v"
+  },
+  {
+    "word": "decade",
+    "pos": "n"
+  },
+  {
+    "word": "decorate",
+    "pos": "v"
+  },
+  {
+    "word": "deep",
+    "pos": "adj, adv"
+  },
+  {
+    "word": "define",
+    "pos": "v"
+  },
+  {
+    "word": "definite",
+    "pos": "adj"
+  },
+  {
+    "word": "definition",
+    "pos": "n"
+  },
+  {
+    "word": "deliver",
+    "pos": "v"
+  },
+  {
+    "word": "departure",
+    "pos": "n"
+  },
+  {
+    "word": "despite",
+    "pos": "prep"
+  },
+  {
+    "word": "destination",
+    "pos": "n"
+  },
+  {
+    "word": "determine",
+    "pos": "v"
+  },
+  {
+    "word": "determined",
+    "pos": "adj"
+  },
+  {
+    "word": "development",
+    "pos": "n"
+  },
+  {
+    "word": "diagram",
+    "pos": "n"
+  }
+]

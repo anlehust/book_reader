@@ -1,0 +1,722 @@
+[
+  {
+    "word": "loom",
+    "pos": "v"
+  },
+  {
+    "word": "loop",
+    "pos": "n"
+  },
+  {
+    "word": "loyalty",
+    "pos": "n"
+  },
+  {
+    "word": "machinery",
+    "pos": "n"
+  },
+  {
+    "word": "magical",
+    "pos": "adj"
+  },
+  {
+    "word": "magistrate",
+    "pos": "n"
+  },
+  {
+    "word": "magnetic",
+    "pos": "adj"
+  },
+  {
+    "word": "magnitude",
+    "pos": "n"
+  },
+  {
+    "word": "mainland",
+    "pos": "n"
+  },
+  {
+    "word": "mainstream",
+    "pos": "n., adj"
+  },
+  {
+    "word": "maintenance",
+    "pos": "n"
+  },
+  {
+    "word": "mandate",
+    "pos": "n"
+  },
+  {
+    "word": "mandatory",
+    "pos": "adj"
+  },
+  {
+    "word": "manifest",
+    "pos": "v"
+  },
+  {
+    "word": "manipulate",
+    "pos": "v"
+  },
+  {
+    "word": "manipulation",
+    "pos": "n"
+  },
+  {
+    "word": "manuscript",
+    "pos": "n"
+  },
+  {
+    "word": "march",
+    "pos": "n, n., v"
+  },
+  {
+    "word": "marginal",
+    "pos": "adj"
+  },
+  {
+    "word": "marine",
+    "pos": "adj"
+  },
+  {
+    "word": "marketplace",
+    "pos": "n"
+  },
+  {
+    "word": "mask",
+    "pos": "n"
+  },
+  {
+    "word": "massacre",
+    "pos": "n"
+  },
+  {
+    "word": "mathematical",
+    "pos": "adj"
+  },
+  {
+    "word": "mature",
+    "pos": "adj., v"
+  },
+  {
+    "word": "maximize",
+    "pos": "v"
+  },
+  {
+    "word": "meaningful",
+    "pos": "adj"
+  },
+  {
+    "word": "meantime",
+    "pos": "n"
+  },
+  {
+    "word": "medieval",
+    "pos": "adj"
+  },
+  {
+    "word": "meditation",
+    "pos": "n"
+  },
+  {
+    "word": "melody",
+    "pos": "n"
+  },
+  {
+    "word": "memo",
+    "pos": "n"
+  },
+  {
+    "word": "memoir",
+    "pos": "n"
+  },
+  {
+    "word": "memorial",
+    "pos": "n"
+  },
+  {
+    "word": "mentor",
+    "pos": "n"
+  },
+  {
+    "word": "merchant",
+    "pos": "n"
+  },
+  {
+    "word": "mercy",
+    "pos": "n"
+  },
+  {
+    "word": "mere",
+    "pos": "adj"
+  },
+  {
+    "word": "merely",
+    "pos": "adv"
+  },
+  {
+    "word": "merge",
+    "pos": "v"
+  },
+  {
+    "word": "merger",
+    "pos": "n"
+  },
+  {
+    "word": "merit",
+    "pos": "n"
+  },
+  {
+    "word": "methodology",
+    "pos": "n"
+  },
+  {
+    "word": "midst",
+    "pos": "n"
+  },
+  {
+    "word": "migration",
+    "pos": "n"
+  },
+  {
+    "word": "militant",
+    "pos": "n., adj"
+  },
+  {
+    "word": "militia",
+    "pos": "n"
+  },
+  {
+    "word": "mill",
+    "pos": "n"
+  },
+  {
+    "word": "minimal",
+    "pos": "adj"
+  },
+  {
+    "word": "minimize",
+    "pos": "v"
+  },
+  {
+    "word": "mining",
+    "pos": "n"
+  },
+  {
+    "word": "ministry",
+    "pos": "n"
+  },
+  {
+    "word": "minute",
+    "pos": "adj, n"
+  },
+  {
+    "word": "miracle",
+    "pos": "n"
+  },
+  {
+    "word": "misery",
+    "pos": "n"
+  },
+  {
+    "word": "misleading",
+    "pos": "adj"
+  },
+  {
+    "word": "missile",
+    "pos": "n"
+  },
+  {
+    "word": "mob",
+    "pos": "n"
+  },
+  {
+    "word": "mobility",
+    "pos": "n"
+  },
+  {
+    "word": "mobilize",
+    "pos": "v"
+  },
+  {
+    "word": "moderate",
+    "pos": "adj"
+  },
+  {
+    "word": "modification",
+    "pos": "n"
+  },
+  {
+    "word": "momentum",
+    "pos": "n"
+  },
+  {
+    "word": "monk",
+    "pos": "n"
+  },
+  {
+    "word": "monopoly",
+    "pos": "n"
+  },
+  {
+    "word": "morality",
+    "pos": "n"
+  },
+  {
+    "word": "motive",
+    "pos": "n"
+  },
+  {
+    "word": "motorist",
+    "pos": "n"
+  },
+  {
+    "word": "municipal",
+    "pos": "adj"
+  },
+  {
+    "word": "mutual",
+    "pos": "adj"
+  },
+  {
+    "word": "namely",
+    "pos": "adv"
+  },
+  {
+    "word": "nationwide",
+    "pos": "adj"
+  },
+  {
+    "word": "naval",
+    "pos": "adj"
+  },
+  {
+    "word": "neglect",
+    "pos": "v., n"
+  },
+  {
+    "word": "neighbouring",
+    "pos": "adj"
+  },
+  {
+    "word": "nest",
+    "pos": "n"
+  },
+  {
+    "word": "net",
+    "pos": "adj, n"
+  },
+  {
+    "word": "newsletter",
+    "pos": "n"
+  },
+  {
+    "word": "niche",
+    "pos": "n"
+  },
+  {
+    "word": "noble",
+    "pos": "adj"
+  },
+  {
+    "word": "nod",
+    "pos": "v"
+  },
+  {
+    "word": "nominate",
+    "pos": "v"
+  },
+  {
+    "word": "nomination",
+    "pos": "n"
+  },
+  {
+    "word": "nominee",
+    "pos": "n"
+  },
+  {
+    "word": "non-profit",
+    "pos": "adj"
+  },
+  {
+    "word": "nonetheless",
+    "pos": "adv"
+  },
+  {
+    "word": "nonsense",
+    "pos": "n"
+  },
+  {
+    "word": "noon",
+    "pos": "n"
+  },
+  {
+    "word": "notable",
+    "pos": "adj"
+  },
+  {
+    "word": "notably",
+    "pos": "adv"
+  },
+  {
+    "word": "notify",
+    "pos": "v"
+  },
+  {
+    "word": "notorious",
+    "pos": "adj"
+  },
+  {
+    "word": "novel",
+    "pos": "adj, n"
+  },
+  {
+    "word": "nursery",
+    "pos": "n"
+  },
+  {
+    "word": "objection",
+    "pos": "n"
+  },
+  {
+    "word": "oblige",
+    "pos": "v"
+  },
+  {
+    "word": "obsess",
+    "pos": "v"
+  },
+  {
+    "word": "obsession",
+    "pos": "n"
+  },
+  {
+    "word": "occasional",
+    "pos": "adj"
+  },
+  {
+    "word": "occurrence",
+    "pos": "n"
+  },
+  {
+    "word": "odds",
+    "pos": "n"
+  },
+  {
+    "word": "offering",
+    "pos": "n"
+  },
+  {
+    "word": "offspring",
+    "pos": "n"
+  },
+  {
+    "word": "operational",
+    "pos": "adj"
+  },
+  {
+    "word": "opt",
+    "pos": "v"
+  },
+  {
+    "word": "optical",
+    "pos": "adj"
+  },
+  {
+    "word": "optimism",
+    "pos": "n"
+  },
+  {
+    "word": "oral",
+    "pos": "adj"
+  },
+  {
+    "word": "organizational",
+    "pos": "adj"
+  },
+  {
+    "word": "orientation",
+    "pos": "n"
+  },
+  {
+    "word": "originate",
+    "pos": "v"
+  },
+  {
+    "word": "outbreak",
+    "pos": "n"
+  },
+  {
+    "word": "outing",
+    "pos": "n"
+  },
+  {
+    "word": "outlet",
+    "pos": "n"
+  },
+  {
+    "word": "outlook",
+    "pos": "n"
+  },
+  {
+    "word": "outrage",
+    "pos": "n., v"
+  },
+  {
+    "word": "outsider",
+    "pos": "n"
+  },
+  {
+    "word": "overlook",
+    "pos": "v"
+  },
+  {
+    "word": "overly",
+    "pos": "adv"
+  },
+  {
+    "word": "oversee",
+    "pos": "v"
+  },
+  {
+    "word": "overturn",
+    "pos": "v"
+  },
+  {
+    "word": "overwhelm",
+    "pos": "v"
+  },
+  {
+    "word": "overwhelming",
+    "pos": "adj"
+  },
+  {
+    "word": "pad",
+    "pos": "n"
+  },
+  {
+    "word": "parameter",
+    "pos": "n"
+  },
+  {
+    "word": "parental",
+    "pos": "adj"
+  },
+  {
+    "word": "parish",
+    "pos": "n"
+  },
+  {
+    "word": "parliamentary",
+    "pos": "adj"
+  },
+  {
+    "word": "partial",
+    "pos": "adj"
+  },
+  {
+    "word": "partially",
+    "pos": "adv"
+  },
+  {
+    "word": "passing",
+    "pos": "n"
+  },
+  {
+    "word": "passive",
+    "pos": "adj"
+  },
+  {
+    "word": "pastor",
+    "pos": "n"
+  },
+  {
+    "word": "patch",
+    "pos": "n"
+  },
+  {
+    "word": "patent",
+    "pos": "n"
+  },
+  {
+    "word": "pathway",
+    "pos": "n"
+  },
+  {
+    "word": "patrol",
+    "pos": "n., v"
+  },
+  {
+    "word": "patron",
+    "pos": "n"
+  },
+  {
+    "word": "peak",
+    "pos": "n"
+  },
+  {
+    "word": "peasant",
+    "pos": "n"
+  },
+  {
+    "word": "peculiar",
+    "pos": "adj"
+  },
+  {
+    "word": "persist",
+    "pos": "v"
+  },
+  {
+    "word": "persistent",
+    "pos": "adj"
+  },
+  {
+    "word": "personnel",
+    "pos": "n"
+  },
+  {
+    "word": "petition",
+    "pos": "n"
+  },
+  {
+    "word": "philosopher",
+    "pos": "n"
+  },
+  {
+    "word": "philosophical",
+    "pos": "adj"
+  },
+  {
+    "word": "physician",
+    "pos": "n"
+  },
+  {
+    "word": "pioneer",
+    "pos": "n., v"
+  },
+  {
+    "word": "pipeline",
+    "pos": "n"
+  },
+  {
+    "word": "pirate",
+    "pos": "n"
+  },
+  {
+    "word": "pit",
+    "pos": "n"
+  },
+  {
+    "word": "plea",
+    "pos": "n"
+  },
+  {
+    "word": "plead",
+    "pos": "v"
+  },
+  {
+    "word": "pledge",
+    "pos": "v., n"
+  },
+  {
+    "word": "plug",
+    "pos": "v., n"
+  },
+  {
+    "word": "plunge",
+    "pos": "v"
+  },
+  {
+    "word": "pole",
+    "pos": "n"
+  },
+  {
+    "word": "poll",
+    "pos": "n"
+  },
+  {
+    "word": "pond",
+    "pos": "n"
+  },
+  {
+    "word": "pop",
+    "pos": "adj, n., v"
+  },
+  {
+    "word": "portfolio",
+    "pos": "n"
+  },
+  {
+    "word": "portray",
+    "pos": "v"
+  },
+  {
+    "word": "post-war",
+    "pos": "adj"
+  },
+  {
+    "word": "postpone",
+    "pos": "v"
+  },
+  {
+    "word": "practitioner",
+    "pos": "n"
+  },
+  {
+    "word": "preach",
+    "pos": "v"
+  },
+  {
+    "word": "precedent",
+    "pos": "n"
+  },
+  {
+    "word": "precision",
+    "pos": "n"
+  },
+  {
+    "word": "predator",
+    "pos": "n"
+  },
+  {
+    "word": "predecessor",
+    "pos": "n"
+  },
+  {
+    "word": "predominantly",
+    "pos": "adv"
+  },
+  {
+    "word": "pregnancy",
+    "pos": "n"
+  },
+  {
+    "word": "prejudice",
+    "pos": "n"
+  },
+  {
+    "word": "preliminary",
+    "pos": "adj"
+  },
+  {
+    "word": "premier",
+    "pos": "n"
+  },
+  {
+    "word": "premise",
+    "pos": "n"
+  },
+  {
+    "word": "premium",
+    "pos": "n"
+  },
+  {
+    "word": "prescribe",
+    "pos": "v"
+  },
+  {
+    "word": "prescription",
+    "pos": "n"
+  }
+]

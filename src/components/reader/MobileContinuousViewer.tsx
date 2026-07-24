@@ -20,6 +20,7 @@ type Props={
  error:string;
  onError:(error:unknown)=>void;
  onDocumentLoad:(totalPages:number)=>void;
+ onDocumentReady?:(document:PDFDocumentProxy)=>void;
  onPageChange:(page:number)=>void;
 };
 type SlotProps={
@@ -55,7 +56,7 @@ const MobilePageSlot=memo(function MobilePageSlot({pageNumber,active,width,heigh
  return <div id={`pdf-page-${pageNumber}`} data-page={pageNumber} className={`pdf-page mobile-pdf-page-slot ${active?'rendered':'placeholder'}`} style={{width,height,minHeight:height}}>{active?<Page pageNumber={pageNumber} width={width} rotate={rotation} devicePixelRatio={Math.min(window.devicePixelRatio||1,MAX_PIXEL_RATIO)} renderTextLayer={false} renderAnnotationLayer={false} onLoadSuccess={(pdfPage:PDFPageProxy)=>{const viewport=pdfPage.getViewport({scale:1,rotation:0});onMeasured(generation,pageNumber,{width:viewport.width,height:viewport.height})}}/>:<div className="pdf-page-placeholder"><span>Trang {pageNumber}</span></div>}</div>
 });
 
-export default memo(function MobileContinuousViewer({file,page,totalPages,zoom,rotation,error,onError,onDocumentLoad,onPageChange}:Props){
+export default memo(function MobileContinuousViewer({file,page,totalPages,zoom,rotation,error,onError,onDocumentLoad,onDocumentReady,onPageChange}:Props){
  const viewerRef=useRef<HTMLElement>(null);
  const mountedRef=useRef(true);
  const pageRef=useRef(page);
@@ -321,6 +322,7 @@ export default memo(function MobileContinuousViewer({file,page,totalPages,zoom,r
   const generation=documentGeneration.current,count=Math.max(1,pdfDocument.numPages);
   if(!mountedRef.current||generation!==documentGeneration.current)return;
   onDocumentLoad(count);
+  onDocumentReady?.(pdfDocument);
   void (async()=>{
    const measured:Record<number,PageSize>={};
    try{
@@ -342,7 +344,7 @@ export default memo(function MobileContinuousViewer({file,page,totalPages,zoom,r
     if(mountedRef.current&&generation===documentGeneration.current){setDocumentReady(true);onError(loadError)}
    }
   })()
- },[applyPageSizes,onDocumentLoad,onError]);
+ },[applyPageSizes,onDocumentLoad,onDocumentReady,onError]);
 
  return <main ref={viewerRef} className="viewer continuous mobile-continuous-viewer"><Document key={file} file={file} loading={<Spin/>} onLoadSuccess={onLoad} onLoadError={handleDocumentError} error={<Alert type="error" message={error}/>}>{contentWidth?slots.map(number=>{const size=pageSizes[number]||defaultSize,rotated=viewRotation%180!==0,baseWidth=rotated?size.height:size.width,baseHeight=rotated?size.width:size.height,width=contentWidth*viewZoom,height=width*(baseHeight/baseWidth);return <MobilePageSlot key={number} pageNumber={number} active={nearPages.has(number)} width={width} height={height} rotation={viewRotation} generation={documentGeneration.current} onMeasured={recordPageSize}/>}):null}</Document></main>
 });

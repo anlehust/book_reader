@@ -1,0 +1,722 @@
+[
+  {
+    "word": "degree",
+    "pos": "n"
+  },
+  {
+    "word": "dentist",
+    "pos": "n"
+  },
+  {
+    "word": "department",
+    "pos": "n"
+  },
+  {
+    "word": "depend",
+    "pos": "v"
+  },
+  {
+    "word": "designer",
+    "pos": "n"
+  },
+  {
+    "word": "destroy",
+    "pos": "v"
+  },
+  {
+    "word": "detective",
+    "pos": "n"
+  },
+  {
+    "word": "develop",
+    "pos": "v"
+  },
+  {
+    "word": "device",
+    "pos": "n"
+  },
+  {
+    "word": "diary",
+    "pos": "n"
+  },
+  {
+    "word": "differently",
+    "pos": "adv"
+  },
+  {
+    "word": "digital",
+    "pos": "adj"
+  },
+  {
+    "word": "direction",
+    "pos": "n"
+  },
+  {
+    "word": "director",
+    "pos": "n"
+  },
+  {
+    "word": "disagree",
+    "pos": "v"
+  },
+  {
+    "word": "disappear",
+    "pos": "v"
+  },
+  {
+    "word": "disaster",
+    "pos": "n"
+  },
+  {
+    "word": "discover",
+    "pos": "v"
+  },
+  {
+    "word": "discovery",
+    "pos": "n"
+  },
+  {
+    "word": "discussion",
+    "pos": "n"
+  },
+  {
+    "word": "disease",
+    "pos": "n"
+  },
+  {
+    "word": "distance",
+    "pos": "n"
+  },
+  {
+    "word": "divorced",
+    "pos": "adj"
+  },
+  {
+    "word": "download",
+    "pos": "v., n"
+  },
+  {
+    "word": "downstairs",
+    "pos": "adj, adv"
+  },
+  {
+    "word": "drama",
+    "pos": "n"
+  },
+  {
+    "word": "drawing",
+    "pos": "n"
+  },
+  {
+    "word": "dream",
+    "pos": "n., v"
+  },
+  {
+    "word": "drive",
+    "pos": "n, v"
+  },
+  {
+    "word": "drug",
+    "pos": "n"
+  },
+  {
+    "word": "dry",
+    "pos": "adj., v"
+  },
+  {
+    "word": "earn",
+    "pos": "v"
+  },
+  {
+    "word": "earth",
+    "pos": "n"
+  },
+  {
+    "word": "easily",
+    "pos": "adv"
+  },
+  {
+    "word": "education",
+    "pos": "n"
+  },
+  {
+    "word": "effect",
+    "pos": "n"
+  },
+  {
+    "word": "either",
+    "pos": "det./pron., adv"
+  },
+  {
+    "word": "electric",
+    "pos": "adj"
+  },
+  {
+    "word": "electrical",
+    "pos": "adj"
+  },
+  {
+    "word": "electricity",
+    "pos": "n"
+  },
+  {
+    "word": "electronic",
+    "pos": "adj"
+  },
+  {
+    "word": "employ",
+    "pos": "v"
+  },
+  {
+    "word": "employee",
+    "pos": "n"
+  },
+  {
+    "word": "employer",
+    "pos": "n"
+  },
+  {
+    "word": "ending",
+    "pos": "n"
+  },
+  {
+    "word": "energy",
+    "pos": "n"
+  },
+  {
+    "word": "engine",
+    "pos": "n"
+  },
+  {
+    "word": "engineer",
+    "pos": "n"
+  },
+  {
+    "word": "enormous",
+    "pos": "adj"
+  },
+  {
+    "word": "enter",
+    "pos": "v"
+  },
+  {
+    "word": "environment",
+    "pos": "n"
+  },
+  {
+    "word": "equipment",
+    "pos": "n"
+  },
+  {
+    "word": "error",
+    "pos": "n"
+  },
+  {
+    "word": "especially",
+    "pos": "adv"
+  },
+  {
+    "word": "essay",
+    "pos": "n"
+  },
+  {
+    "word": "everyday",
+    "pos": "adj"
+  },
+  {
+    "word": "everywhere",
+    "pos": "adv"
+  },
+  {
+    "word": "evidence",
+    "pos": "n"
+  },
+  {
+    "word": "exact",
+    "pos": "adj"
+  },
+  {
+    "word": "exactly",
+    "pos": "adv"
+  },
+  {
+    "word": "excellent",
+    "pos": "adj"
+  },
+  {
+    "word": "exist",
+    "pos": "v"
+  },
+  {
+    "word": "expect",
+    "pos": "v"
+  },
+  {
+    "word": "expert",
+    "pos": "n., adj"
+  },
+  {
+    "word": "explanation",
+    "pos": "n"
+  },
+  {
+    "word": "express",
+    "pos": "v"
+  },
+  {
+    "word": "expression",
+    "pos": "n"
+  },
+  {
+    "word": "extremely",
+    "pos": "adv"
+  },
+  {
+    "word": "factor",
+    "pos": "n"
+  },
+  {
+    "word": "factory",
+    "pos": "n"
+  },
+  {
+    "word": "fail",
+    "pos": "v"
+  },
+  {
+    "word": "fair",
+    "pos": "adj"
+  },
+  {
+    "word": "fall",
+    "pos": "n, v"
+  },
+  {
+    "word": "fan",
+    "pos": "n"
+  },
+  {
+    "word": "farm",
+    "pos": "n, v"
+  },
+  {
+    "word": "farming",
+    "pos": "n"
+  },
+  {
+    "word": "fashion",
+    "pos": "n"
+  },
+  {
+    "word": "fat",
+    "pos": "adj, n"
+  },
+  {
+    "word": "female",
+    "pos": "adj., n"
+  },
+  {
+    "word": "fiction",
+    "pos": "n"
+  },
+  {
+    "word": "field",
+    "pos": "n"
+  },
+  {
+    "word": "fight",
+    "pos": "v., n"
+  },
+  {
+    "word": "film",
+    "pos": "n, v"
+  },
+  {
+    "word": "final",
+    "pos": "adj, n"
+  },
+  {
+    "word": "finally",
+    "pos": "adv"
+  },
+  {
+    "word": "finger",
+    "pos": "n"
+  },
+  {
+    "word": "finish",
+    "pos": "n, v"
+  },
+  {
+    "word": "first",
+    "pos": "adv, det./number, n"
+  },
+  {
+    "word": "firstly",
+    "pos": "adv"
+  },
+  {
+    "word": "fish",
+    "pos": "n, v"
+  },
+  {
+    "word": "fishing",
+    "pos": "n"
+  },
+  {
+    "word": "flat",
+    "pos": "adj, n"
+  },
+  {
+    "word": "flu",
+    "pos": "n"
+  },
+  {
+    "word": "fly",
+    "pos": "n, v"
+  },
+  {
+    "word": "flying",
+    "pos": "n., adj"
+  },
+  {
+    "word": "focus",
+    "pos": "v., n"
+  },
+  {
+    "word": "foreign",
+    "pos": "adj"
+  },
+  {
+    "word": "forest",
+    "pos": "n"
+  },
+  {
+    "word": "fork",
+    "pos": "n"
+  },
+  {
+    "word": "formal",
+    "pos": "adj"
+  },
+  {
+    "word": "fortunately",
+    "pos": "adv"
+  },
+  {
+    "word": "fresh",
+    "pos": "adj"
+  },
+  {
+    "word": "fridge",
+    "pos": "n"
+  },
+  {
+    "word": "frog",
+    "pos": "n"
+  },
+  {
+    "word": "fun",
+    "pos": "adj, n"
+  },
+  {
+    "word": "furniture",
+    "pos": "n"
+  },
+  {
+    "word": "future",
+    "pos": "adj, n"
+  },
+  {
+    "word": "gallery",
+    "pos": "n"
+  },
+  {
+    "word": "gap",
+    "pos": "n"
+  },
+  {
+    "word": "gas",
+    "pos": "n"
+  },
+  {
+    "word": "gate",
+    "pos": "n"
+  },
+  {
+    "word": "general",
+    "pos": "adj"
+  },
+  {
+    "word": "gift",
+    "pos": "n"
+  },
+  {
+    "word": "goal",
+    "pos": "n"
+  },
+  {
+    "word": "god",
+    "pos": "n"
+  },
+  {
+    "word": "gold",
+    "pos": "n., adj"
+  },
+  {
+    "word": "golf",
+    "pos": "n"
+  },
+  {
+    "word": "good",
+    "pos": "adj, n"
+  },
+  {
+    "word": "government",
+    "pos": "n"
+  },
+  {
+    "word": "grass",
+    "pos": "n"
+  },
+  {
+    "word": "greet",
+    "pos": "v"
+  },
+  {
+    "word": "ground",
+    "pos": "n"
+  },
+  {
+    "word": "guest",
+    "pos": "n"
+  },
+  {
+    "word": "guide",
+    "pos": "n., v"
+  },
+  {
+    "word": "gun",
+    "pos": "n"
+  },
+  {
+    "word": "guy",
+    "pos": "n"
+  },
+  {
+    "word": "habit",
+    "pos": "n"
+  },
+  {
+    "word": "half",
+    "pos": "adv, det./pron, n."
+  },
+  {
+    "word": "hall",
+    "pos": "n"
+  },
+  {
+    "word": "happily",
+    "pos": "adv"
+  },
+  {
+    "word": "have",
+    "pos": "auxiliary v, v"
+  },
+  {
+    "word": "headache",
+    "pos": "n"
+  },
+  {
+    "word": "heart",
+    "pos": "n"
+  },
+  {
+    "word": "heat",
+    "pos": "n., v"
+  },
+  {
+    "word": "heavy",
+    "pos": "adj"
+  },
+  {
+    "word": "height",
+    "pos": "n"
+  },
+  {
+    "word": "helpful",
+    "pos": "adj"
+  },
+  {
+    "word": "hero",
+    "pos": "n"
+  },
+  {
+    "word": "hers",
+    "pos": "pron"
+  },
+  {
+    "word": "herself",
+    "pos": "pron"
+  },
+  {
+    "word": "hide",
+    "pos": "v"
+  },
+  {
+    "word": "hill",
+    "pos": "n"
+  },
+  {
+    "word": "himself",
+    "pos": "pron"
+  },
+  {
+    "word": "his",
+    "pos": "det, pron"
+  },
+  {
+    "word": "hit",
+    "pos": "v., n"
+  },
+  {
+    "word": "hockey",
+    "pos": "n"
+  },
+  {
+    "word": "hole",
+    "pos": "n"
+  },
+  {
+    "word": "home",
+    "pos": "adj, adv, n."
+  },
+  {
+    "word": "hope",
+    "pos": "n, v"
+  },
+  {
+    "word": "huge",
+    "pos": "adj"
+  },
+  {
+    "word": "human",
+    "pos": "adj., n"
+  },
+  {
+    "word": "identify",
+    "pos": "v"
+  },
+  {
+    "word": "ill",
+    "pos": "adj"
+  },
+  {
+    "word": "illness",
+    "pos": "n"
+  },
+  {
+    "word": "image",
+    "pos": "n"
+  },
+  {
+    "word": "immediately",
+    "pos": "adv"
+  },
+  {
+    "word": "impossible",
+    "pos": "adj"
+  },
+  {
+    "word": "included",
+    "pos": "adj"
+  },
+  {
+    "word": "including",
+    "pos": "prep"
+  },
+  {
+    "word": "increase",
+    "pos": "v., n"
+  },
+  {
+    "word": "incredible",
+    "pos": "adj"
+  },
+  {
+    "word": "independent",
+    "pos": "adj"
+  },
+  {
+    "word": "individual",
+    "pos": "n., adj"
+  },
+  {
+    "word": "industry",
+    "pos": "n"
+  },
+  {
+    "word": "informal",
+    "pos": "adj"
+  },
+  {
+    "word": "injury",
+    "pos": "n"
+  },
+  {
+    "word": "insect",
+    "pos": "n"
+  },
+  {
+    "word": "inside",
+    "pos": "prep., adv., n., adj"
+  },
+  {
+    "word": "instead",
+    "pos": "adv"
+  },
+  {
+    "word": "instruction",
+    "pos": "n"
+  },
+  {
+    "word": "instructor",
+    "pos": "n"
+  },
+  {
+    "word": "instrument",
+    "pos": "n"
+  },
+  {
+    "word": "intelligent",
+    "pos": "adj"
+  },
+  {
+    "word": "international",
+    "pos": "adj"
+  },
+  {
+    "word": "introduction",
+    "pos": "n"
+  },
+  {
+    "word": "invent",
+    "pos": "v"
+  },
+  {
+    "word": "invention",
+    "pos": "n"
+  },
+  {
+    "word": "invitation",
+    "pos": "n"
+  },
+  {
+    "word": "invite",
+    "pos": "v"
+  },
+  {
+    "word": "involve",
+    "pos": "v"
+  }
+]

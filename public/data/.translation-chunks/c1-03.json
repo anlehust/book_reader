@@ -1,0 +1,722 @@
+[
+  {
+    "word": "detection",
+    "pos": "n"
+  },
+  {
+    "word": "detention",
+    "pos": "n"
+  },
+  {
+    "word": "deteriorate",
+    "pos": "v"
+  },
+  {
+    "word": "devastate",
+    "pos": "v"
+  },
+  {
+    "word": "devil",
+    "pos": "n"
+  },
+  {
+    "word": "devise",
+    "pos": "v"
+  },
+  {
+    "word": "diagnose",
+    "pos": "v"
+  },
+  {
+    "word": "diagnosis",
+    "pos": "n"
+  },
+  {
+    "word": "dictate",
+    "pos": "v"
+  },
+  {
+    "word": "dictator",
+    "pos": "n"
+  },
+  {
+    "word": "differentiate",
+    "pos": "v"
+  },
+  {
+    "word": "dignity",
+    "pos": "n"
+  },
+  {
+    "word": "dilemma",
+    "pos": "n"
+  },
+  {
+    "word": "dimension",
+    "pos": "n"
+  },
+  {
+    "word": "diminish",
+    "pos": "v"
+  },
+  {
+    "word": "dip",
+    "pos": "v"
+  },
+  {
+    "word": "diplomat",
+    "pos": "n"
+  },
+  {
+    "word": "diplomatic",
+    "pos": "n"
+  },
+  {
+    "word": "directory",
+    "pos": "n"
+  },
+  {
+    "word": "disastrous",
+    "pos": "adj"
+  },
+  {
+    "word": "discard",
+    "pos": "v"
+  },
+  {
+    "word": "discharge",
+    "pos": "v"
+  },
+  {
+    "word": "disclose",
+    "pos": "v"
+  },
+  {
+    "word": "disclosure",
+    "pos": "n"
+  },
+  {
+    "word": "discourse",
+    "pos": "n"
+  },
+  {
+    "word": "discretion",
+    "pos": "n"
+  },
+  {
+    "word": "discrimination",
+    "pos": "n"
+  },
+  {
+    "word": "dismissal",
+    "pos": "n"
+  },
+  {
+    "word": "displace",
+    "pos": "v"
+  },
+  {
+    "word": "disposal",
+    "pos": "n"
+  },
+  {
+    "word": "dispose",
+    "pos": "v"
+  },
+  {
+    "word": "dispute",
+    "pos": "n., v"
+  },
+  {
+    "word": "disrupt",
+    "pos": "v"
+  },
+  {
+    "word": "disruption",
+    "pos": "n"
+  },
+  {
+    "word": "dissolve",
+    "pos": "v"
+  },
+  {
+    "word": "distinction",
+    "pos": "n"
+  },
+  {
+    "word": "distinctive",
+    "pos": "adj"
+  },
+  {
+    "word": "distort",
+    "pos": "v"
+  },
+  {
+    "word": "distress",
+    "pos": "n., v"
+  },
+  {
+    "word": "disturbing",
+    "pos": "adj"
+  },
+  {
+    "word": "divert",
+    "pos": "v"
+  },
+  {
+    "word": "divine",
+    "pos": "adj"
+  },
+  {
+    "word": "doctrine",
+    "pos": "n"
+  },
+  {
+    "word": "documentation",
+    "pos": "n"
+  },
+  {
+    "word": "domain",
+    "pos": "n"
+  },
+  {
+    "word": "dominance",
+    "pos": "n"
+  },
+  {
+    "word": "donor",
+    "pos": "n"
+  },
+  {
+    "word": "dose",
+    "pos": "n"
+  },
+  {
+    "word": "drain",
+    "pos": "v"
+  },
+  {
+    "word": "drift",
+    "pos": "v"
+  },
+  {
+    "word": "driving",
+    "pos": "adj, n"
+  },
+  {
+    "word": "drown",
+    "pos": "v"
+  },
+  {
+    "word": "dual",
+    "pos": "adj"
+  },
+  {
+    "word": "dub",
+    "pos": "v"
+  },
+  {
+    "word": "dumb",
+    "pos": "adj"
+  },
+  {
+    "word": "duo",
+    "pos": "n"
+  },
+  {
+    "word": "dynamic",
+    "pos": "adj, n"
+  },
+  {
+    "word": "eager",
+    "pos": "adj"
+  },
+  {
+    "word": "earnings",
+    "pos": "n"
+  },
+  {
+    "word": "ease",
+    "pos": "n., v"
+  },
+  {
+    "word": "echo",
+    "pos": "v., n"
+  },
+  {
+    "word": "ecological",
+    "pos": "adj"
+  },
+  {
+    "word": "educator",
+    "pos": "n"
+  },
+  {
+    "word": "effectiveness",
+    "pos": "n"
+  },
+  {
+    "word": "efficiency",
+    "pos": "n"
+  },
+  {
+    "word": "ego",
+    "pos": "n"
+  },
+  {
+    "word": "elaborate",
+    "pos": "adj"
+  },
+  {
+    "word": "electoral",
+    "pos": "adj"
+  },
+  {
+    "word": "elevate",
+    "pos": "v"
+  },
+  {
+    "word": "eligible",
+    "pos": "adj"
+  },
+  {
+    "word": "elite",
+    "pos": "n"
+  },
+  {
+    "word": "embark",
+    "pos": "v"
+  },
+  {
+    "word": "embarrassment",
+    "pos": "n"
+  },
+  {
+    "word": "embassy",
+    "pos": "n"
+  },
+  {
+    "word": "embed",
+    "pos": "v"
+  },
+  {
+    "word": "embody",
+    "pos": "v"
+  },
+  {
+    "word": "emergence",
+    "pos": "n"
+  },
+  {
+    "word": "empirical",
+    "pos": "adj"
+  },
+  {
+    "word": "empower",
+    "pos": "v"
+  },
+  {
+    "word": "enact",
+    "pos": "v"
+  },
+  {
+    "word": "encompass",
+    "pos": "v"
+  },
+  {
+    "word": "encouragement",
+    "pos": "n"
+  },
+  {
+    "word": "encouraging",
+    "pos": "adj"
+  },
+  {
+    "word": "endeavour",
+    "pos": "n"
+  },
+  {
+    "word": "endless",
+    "pos": "adj"
+  },
+  {
+    "word": "endorse",
+    "pos": "v"
+  },
+  {
+    "word": "endorsement",
+    "pos": "n"
+  },
+  {
+    "word": "endure",
+    "pos": "v"
+  },
+  {
+    "word": "enforce",
+    "pos": "v"
+  },
+  {
+    "word": "enforcement",
+    "pos": "n"
+  },
+  {
+    "word": "engagement",
+    "pos": "n"
+  },
+  {
+    "word": "engaging",
+    "pos": "adj"
+  },
+  {
+    "word": "enquire",
+    "pos": "v"
+  },
+  {
+    "word": "enrich",
+    "pos": "v"
+  },
+  {
+    "word": "enrol",
+    "pos": "v"
+  },
+  {
+    "word": "ensue",
+    "pos": "v"
+  },
+  {
+    "word": "enterprise",
+    "pos": "n"
+  },
+  {
+    "word": "enthusiast",
+    "pos": "n"
+  },
+  {
+    "word": "entitle",
+    "pos": "v"
+  },
+  {
+    "word": "entity",
+    "pos": "n"
+  },
+  {
+    "word": "epidemic",
+    "pos": "n"
+  },
+  {
+    "word": "equality",
+    "pos": "n"
+  },
+  {
+    "word": "equation",
+    "pos": "n"
+  },
+  {
+    "word": "erect",
+    "pos": "v"
+  },
+  {
+    "word": "escalate",
+    "pos": "v"
+  },
+  {
+    "word": "essence",
+    "pos": "n"
+  },
+  {
+    "word": "establishment",
+    "pos": "n"
+  },
+  {
+    "word": "eternal",
+    "pos": "adj"
+  },
+  {
+    "word": "evacuate",
+    "pos": "v"
+  },
+  {
+    "word": "evoke",
+    "pos": "v"
+  },
+  {
+    "word": "evolutionary",
+    "pos": "adj"
+  },
+  {
+    "word": "exaggerate",
+    "pos": "v"
+  },
+  {
+    "word": "excellence",
+    "pos": "n"
+  },
+  {
+    "word": "exceptional",
+    "pos": "adj"
+  },
+  {
+    "word": "excess",
+    "pos": "n., adj"
+  },
+  {
+    "word": "exclusion",
+    "pos": "n"
+  },
+  {
+    "word": "exclusive",
+    "pos": "adj"
+  },
+  {
+    "word": "exclusively",
+    "pos": "adv"
+  },
+  {
+    "word": "execute",
+    "pos": "v"
+  },
+  {
+    "word": "execution",
+    "pos": "n"
+  },
+  {
+    "word": "exert",
+    "pos": "v"
+  },
+  {
+    "word": "exile",
+    "pos": "n"
+  },
+  {
+    "word": "exit",
+    "pos": "n, v"
+  },
+  {
+    "word": "expenditure",
+    "pos": "n"
+  },
+  {
+    "word": "experimental",
+    "pos": "adj"
+  },
+  {
+    "word": "expire",
+    "pos": "v"
+  },
+  {
+    "word": "explicit",
+    "pos": "adj"
+  },
+  {
+    "word": "explicitly",
+    "pos": "adv"
+  },
+  {
+    "word": "exploitation",
+    "pos": "n"
+  },
+  {
+    "word": "explosive",
+    "pos": "adj., n"
+  },
+  {
+    "word": "extract",
+    "pos": "n, v"
+  },
+  {
+    "word": "extremist",
+    "pos": "n"
+  },
+  {
+    "word": "facilitate",
+    "pos": "v"
+  },
+  {
+    "word": "faction",
+    "pos": "n"
+  },
+  {
+    "word": "faculty",
+    "pos": "n"
+  },
+  {
+    "word": "fade",
+    "pos": "v"
+  },
+  {
+    "word": "fairness",
+    "pos": "n"
+  },
+  {
+    "word": "fatal",
+    "pos": "adj"
+  },
+  {
+    "word": "fate",
+    "pos": "n"
+  },
+  {
+    "word": "favourable",
+    "pos": "adj"
+  },
+  {
+    "word": "feat",
+    "pos": "n"
+  },
+  {
+    "word": "feminist",
+    "pos": "adj., n"
+  },
+  {
+    "word": "fibre",
+    "pos": "n"
+  },
+  {
+    "word": "fierce",
+    "pos": "adj"
+  },
+  {
+    "word": "film-maker",
+    "pos": "n"
+  },
+  {
+    "word": "filter",
+    "pos": "n., v"
+  },
+  {
+    "word": "fine",
+    "pos": "adj, n., v"
+  },
+  {
+    "word": "firearm",
+    "pos": "n"
+  },
+  {
+    "word": "fit",
+    "pos": "adj, n, v."
+  },
+  {
+    "word": "fixture",
+    "pos": "n"
+  },
+  {
+    "word": "flaw",
+    "pos": "n"
+  },
+  {
+    "word": "flawed",
+    "pos": "adj"
+  },
+  {
+    "word": "flee",
+    "pos": "v"
+  },
+  {
+    "word": "fleet",
+    "pos": "n"
+  },
+  {
+    "word": "flesh",
+    "pos": "n"
+  },
+  {
+    "word": "flexibility",
+    "pos": "n"
+  },
+  {
+    "word": "flourish",
+    "pos": "v"
+  },
+  {
+    "word": "fluid",
+    "pos": "n"
+  },
+  {
+    "word": "footage",
+    "pos": "n"
+  },
+  {
+    "word": "foreigner",
+    "pos": "n"
+  },
+  {
+    "word": "forge",
+    "pos": "v"
+  },
+  {
+    "word": "formula",
+    "pos": "n"
+  },
+  {
+    "word": "formulate",
+    "pos": "v"
+  },
+  {
+    "word": "forth",
+    "pos": "adv"
+  },
+  {
+    "word": "forthcoming",
+    "pos": "adj"
+  },
+  {
+    "word": "foster",
+    "pos": "v"
+  },
+  {
+    "word": "fragile",
+    "pos": "adj"
+  },
+  {
+    "word": "franchise",
+    "pos": "n"
+  },
+  {
+    "word": "frankly",
+    "pos": "adv"
+  },
+  {
+    "word": "frustrated",
+    "pos": "adj"
+  },
+  {
+    "word": "frustrating",
+    "pos": "adj"
+  },
+  {
+    "word": "frustration",
+    "pos": "n"
+  },
+  {
+    "word": "functional",
+    "pos": "adj"
+  },
+  {
+    "word": "fundraising",
+    "pos": "n"
+  },
+  {
+    "word": "funeral",
+    "pos": "n"
+  },
+  {
+    "word": "gallon",
+    "pos": "n"
+  },
+  {
+    "word": "gambling",
+    "pos": "n"
+  },
+  {
+    "word": "gathering",
+    "pos": "n"
+  },
+  {
+    "word": "gaze",
+    "pos": "n., v"
+  },
+  {
+    "word": "gear",
+    "pos": "n"
+  }
+]

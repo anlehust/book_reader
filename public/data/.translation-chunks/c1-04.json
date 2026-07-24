@@ -1,0 +1,722 @@
+[
+  {
+    "word": "generic",
+    "pos": "adj"
+  },
+  {
+    "word": "genocide",
+    "pos": "n"
+  },
+  {
+    "word": "glance",
+    "pos": "n., v"
+  },
+  {
+    "word": "glimpse",
+    "pos": "n"
+  },
+  {
+    "word": "glorious",
+    "pos": "adj"
+  },
+  {
+    "word": "glory",
+    "pos": "n"
+  },
+  {
+    "word": "governance",
+    "pos": "n"
+  },
+  {
+    "word": "grace",
+    "pos": "n"
+  },
+  {
+    "word": "grasp",
+    "pos": "v., n"
+  },
+  {
+    "word": "grave (for dead person)",
+    "pos": "n"
+  },
+  {
+    "word": "grave (serious)",
+    "pos": "adj"
+  },
+  {
+    "word": "gravity",
+    "pos": "n"
+  },
+  {
+    "word": "grid",
+    "pos": "n"
+  },
+  {
+    "word": "grief",
+    "pos": "n"
+  },
+  {
+    "word": "grin",
+    "pos": "v., n"
+  },
+  {
+    "word": "grind",
+    "pos": "v"
+  },
+  {
+    "word": "grip",
+    "pos": "n., v"
+  },
+  {
+    "word": "gross",
+    "pos": "adj"
+  },
+  {
+    "word": "guerrilla",
+    "pos": "n"
+  },
+  {
+    "word": "guidance",
+    "pos": "n"
+  },
+  {
+    "word": "guilt",
+    "pos": "n"
+  },
+  {
+    "word": "gut",
+    "pos": "n"
+  },
+  {
+    "word": "hail",
+    "pos": "v"
+  },
+  {
+    "word": "halfway",
+    "pos": "adv"
+  },
+  {
+    "word": "halt",
+    "pos": "v., n"
+  },
+  {
+    "word": "handful",
+    "pos": "n"
+  },
+  {
+    "word": "handling",
+    "pos": "n"
+  },
+  {
+    "word": "handy",
+    "pos": "adj"
+  },
+  {
+    "word": "harassment",
+    "pos": "n"
+  },
+  {
+    "word": "hardware",
+    "pos": "n"
+  },
+  {
+    "word": "harmony",
+    "pos": "n"
+  },
+  {
+    "word": "harsh",
+    "pos": "adj"
+  },
+  {
+    "word": "harvest",
+    "pos": "n., v"
+  },
+  {
+    "word": "hatred",
+    "pos": "n"
+  },
+  {
+    "word": "haunt",
+    "pos": "v"
+  },
+  {
+    "word": "hazard",
+    "pos": "n"
+  },
+  {
+    "word": "heighten",
+    "pos": "v"
+  },
+  {
+    "word": "heritage",
+    "pos": "n"
+  },
+  {
+    "word": "hierarchy",
+    "pos": "n"
+  },
+  {
+    "word": "high-profile",
+    "pos": "adj"
+  },
+  {
+    "word": "hint",
+    "pos": "n., v"
+  },
+  {
+    "word": "homeland",
+    "pos": "n"
+  },
+  {
+    "word": "hook",
+    "pos": "n, v"
+  },
+  {
+    "word": "hopeful",
+    "pos": "adj"
+  },
+  {
+    "word": "horizon",
+    "pos": "n"
+  },
+  {
+    "word": "horn",
+    "pos": "n"
+  },
+  {
+    "word": "hostage",
+    "pos": "n"
+  },
+  {
+    "word": "hostile",
+    "pos": "adj"
+  },
+  {
+    "word": "hostility",
+    "pos": "n"
+  },
+  {
+    "word": "humanitarian",
+    "pos": "adj"
+  },
+  {
+    "word": "humanity",
+    "pos": "n"
+  },
+  {
+    "word": "humble",
+    "pos": "adj"
+  },
+  {
+    "word": "hydrogen",
+    "pos": "n"
+  },
+  {
+    "word": "identification",
+    "pos": "n"
+  },
+  {
+    "word": "ideological",
+    "pos": "adj"
+  },
+  {
+    "word": "ideology",
+    "pos": "n"
+  },
+  {
+    "word": "idiot",
+    "pos": "n"
+  },
+  {
+    "word": "ignorance",
+    "pos": "n"
+  },
+  {
+    "word": "imagery",
+    "pos": "n"
+  },
+  {
+    "word": "immense",
+    "pos": "adj"
+  },
+  {
+    "word": "imminent",
+    "pos": "adj"
+  },
+  {
+    "word": "implementation",
+    "pos": "n"
+  },
+  {
+    "word": "imprison",
+    "pos": "v"
+  },
+  {
+    "word": "imprisonment",
+    "pos": "n"
+  },
+  {
+    "word": "inability",
+    "pos": "n"
+  },
+  {
+    "word": "inadequate",
+    "pos": "adj"
+  },
+  {
+    "word": "inappropriate",
+    "pos": "adj"
+  },
+  {
+    "word": "incidence",
+    "pos": "n"
+  },
+  {
+    "word": "inclined",
+    "pos": "adj"
+  },
+  {
+    "word": "inclusion",
+    "pos": "n"
+  },
+  {
+    "word": "incur",
+    "pos": "v"
+  },
+  {
+    "word": "indicator",
+    "pos": "n"
+  },
+  {
+    "word": "indictment",
+    "pos": "n"
+  },
+  {
+    "word": "indigenous",
+    "pos": "adj"
+  },
+  {
+    "word": "induce",
+    "pos": "v"
+  },
+  {
+    "word": "indulge",
+    "pos": "v"
+  },
+  {
+    "word": "inequality",
+    "pos": "n"
+  },
+  {
+    "word": "infamous",
+    "pos": "adj"
+  },
+  {
+    "word": "infant",
+    "pos": "n"
+  },
+  {
+    "word": "infect",
+    "pos": "v"
+  },
+  {
+    "word": "inflict",
+    "pos": "v"
+  },
+  {
+    "word": "influential",
+    "pos": "adj"
+  },
+  {
+    "word": "inherent",
+    "pos": "adj"
+  },
+  {
+    "word": "inhibit",
+    "pos": "v"
+  },
+  {
+    "word": "initiate",
+    "pos": "v"
+  },
+  {
+    "word": "inject",
+    "pos": "v"
+  },
+  {
+    "word": "injection",
+    "pos": "n"
+  },
+  {
+    "word": "injustice",
+    "pos": "n"
+  },
+  {
+    "word": "inmate",
+    "pos": "n"
+  },
+  {
+    "word": "insertion",
+    "pos": "n"
+  },
+  {
+    "word": "insider",
+    "pos": "n"
+  },
+  {
+    "word": "inspect",
+    "pos": "v"
+  },
+  {
+    "word": "inspection",
+    "pos": "n"
+  },
+  {
+    "word": "inspiration",
+    "pos": "n"
+  },
+  {
+    "word": "instinct",
+    "pos": "n"
+  },
+  {
+    "word": "institutional",
+    "pos": "adj"
+  },
+  {
+    "word": "instruct",
+    "pos": "v"
+  },
+  {
+    "word": "instrumental",
+    "pos": "adj"
+  },
+  {
+    "word": "insufficient",
+    "pos": "adj"
+  },
+  {
+    "word": "insult",
+    "pos": "n., v"
+  },
+  {
+    "word": "intact",
+    "pos": "adj"
+  },
+  {
+    "word": "intake",
+    "pos": "n"
+  },
+  {
+    "word": "integral",
+    "pos": "adj"
+  },
+  {
+    "word": "integrated",
+    "pos": "adj"
+  },
+  {
+    "word": "integration",
+    "pos": "n"
+  },
+  {
+    "word": "integrity",
+    "pos": "n"
+  },
+  {
+    "word": "intellectual",
+    "pos": "adj, n"
+  },
+  {
+    "word": "intensify",
+    "pos": "v"
+  },
+  {
+    "word": "intensity",
+    "pos": "n"
+  },
+  {
+    "word": "intensive",
+    "pos": "adj"
+  },
+  {
+    "word": "intent",
+    "pos": "n"
+  },
+  {
+    "word": "interactive",
+    "pos": "adj"
+  },
+  {
+    "word": "interface",
+    "pos": "n"
+  },
+  {
+    "word": "interfere",
+    "pos": "v"
+  },
+  {
+    "word": "interference",
+    "pos": "n"
+  },
+  {
+    "word": "interim",
+    "pos": "adj"
+  },
+  {
+    "word": "interior",
+    "pos": "adj., n"
+  },
+  {
+    "word": "intermediate",
+    "pos": "adj"
+  },
+  {
+    "word": "intervene",
+    "pos": "v"
+  },
+  {
+    "word": "intervention",
+    "pos": "n"
+  },
+  {
+    "word": "intimate",
+    "pos": "adj"
+  },
+  {
+    "word": "intriguing",
+    "pos": "adj"
+  },
+  {
+    "word": "investigator",
+    "pos": "n"
+  },
+  {
+    "word": "invisible",
+    "pos": "adj"
+  },
+  {
+    "word": "invoke",
+    "pos": "v"
+  },
+  {
+    "word": "involvement",
+    "pos": "n"
+  },
+  {
+    "word": "ironic",
+    "pos": "adj"
+  },
+  {
+    "word": "ironically",
+    "pos": "adv"
+  },
+  {
+    "word": "irony",
+    "pos": "n"
+  },
+  {
+    "word": "irrelevant",
+    "pos": "adj"
+  },
+  {
+    "word": "isolation",
+    "pos": "n"
+  },
+  {
+    "word": "judicial",
+    "pos": "adj"
+  },
+  {
+    "word": "junction",
+    "pos": "n"
+  },
+  {
+    "word": "jurisdiction",
+    "pos": "n"
+  },
+  {
+    "word": "just",
+    "pos": "adj, adv"
+  },
+  {
+    "word": "justification",
+    "pos": "n"
+  },
+  {
+    "word": "kidnap",
+    "pos": "v"
+  },
+  {
+    "word": "kidney",
+    "pos": "n"
+  },
+  {
+    "word": "kingdom",
+    "pos": "n"
+  },
+  {
+    "word": "lad",
+    "pos": "n"
+  },
+  {
+    "word": "landlord",
+    "pos": "n"
+  },
+  {
+    "word": "landmark",
+    "pos": "n"
+  },
+  {
+    "word": "lap",
+    "pos": "n"
+  },
+  {
+    "word": "large-scale",
+    "pos": "adj"
+  },
+  {
+    "word": "laser",
+    "pos": "n"
+  },
+  {
+    "word": "latter",
+    "pos": "adj., n"
+  },
+  {
+    "word": "lawn",
+    "pos": "n"
+  },
+  {
+    "word": "lawsuit",
+    "pos": "n"
+  },
+  {
+    "word": "layout",
+    "pos": "n"
+  },
+  {
+    "word": "leak",
+    "pos": "v., n"
+  },
+  {
+    "word": "leap",
+    "pos": "v., n"
+  },
+  {
+    "word": "legacy",
+    "pos": "n"
+  },
+  {
+    "word": "legendary",
+    "pos": "adj"
+  },
+  {
+    "word": "legislation",
+    "pos": "n"
+  },
+  {
+    "word": "legislative",
+    "pos": "adj"
+  },
+  {
+    "word": "legislature",
+    "pos": "n"
+  },
+  {
+    "word": "legitimate",
+    "pos": "adj"
+  },
+  {
+    "word": "lengthy",
+    "pos": "adj"
+  },
+  {
+    "word": "lesbian",
+    "pos": "adj"
+  },
+  {
+    "word": "lesser",
+    "pos": "adj"
+  },
+  {
+    "word": "lethal",
+    "pos": "adj"
+  },
+  {
+    "word": "liable",
+    "pos": "adj"
+  },
+  {
+    "word": "liberal",
+    "pos": "adj., n"
+  },
+  {
+    "word": "liberation",
+    "pos": "n"
+  },
+  {
+    "word": "liberty",
+    "pos": "n"
+  },
+  {
+    "word": "license",
+    "pos": "v"
+  },
+  {
+    "word": "lifelong",
+    "pos": "adj"
+  },
+  {
+    "word": "likelihood",
+    "pos": "n"
+  },
+  {
+    "word": "limb",
+    "pos": "n"
+  },
+  {
+    "word": "line-up",
+    "pos": "n"
+  },
+  {
+    "word": "linear",
+    "pos": "adj"
+  },
+  {
+    "word": "linger",
+    "pos": "v"
+  },
+  {
+    "word": "listing",
+    "pos": "n"
+  },
+  {
+    "word": "literacy",
+    "pos": "n"
+  },
+  {
+    "word": "liver",
+    "pos": "n"
+  },
+  {
+    "word": "lobby",
+    "pos": "n., v"
+  },
+  {
+    "word": "log",
+    "pos": "n., v"
+  },
+  {
+    "word": "logic",
+    "pos": "n"
+  },
+  {
+    "word": "long-standing",
+    "pos": "adj"
+  },
+  {
+    "word": "long-time",
+    "pos": "adj"
+  }
+]

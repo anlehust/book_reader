@@ -1,0 +1,722 @@
+[
+  {
+    "word": "item",
+    "pos": "n"
+  },
+  {
+    "word": "itself",
+    "pos": "pron"
+  },
+  {
+    "word": "jam",
+    "pos": "n"
+  },
+  {
+    "word": "jazz",
+    "pos": "n"
+  },
+  {
+    "word": "jewellery",
+    "pos": "n"
+  },
+  {
+    "word": "joke",
+    "pos": "n., v"
+  },
+  {
+    "word": "journalist",
+    "pos": "n"
+  },
+  {
+    "word": "jump",
+    "pos": "v., n"
+  },
+  {
+    "word": "kid",
+    "pos": "n"
+  },
+  {
+    "word": "kill",
+    "pos": "v"
+  },
+  {
+    "word": "king",
+    "pos": "n"
+  },
+  {
+    "word": "knee",
+    "pos": "n"
+  },
+  {
+    "word": "knife",
+    "pos": "n"
+  },
+  {
+    "word": "knowledge",
+    "pos": "n"
+  },
+  {
+    "word": "lab",
+    "pos": "n"
+  },
+  {
+    "word": "lady",
+    "pos": "n"
+  },
+  {
+    "word": "lake",
+    "pos": "n"
+  },
+  {
+    "word": "lamp",
+    "pos": "n"
+  },
+  {
+    "word": "land",
+    "pos": "n, v"
+  },
+  {
+    "word": "laptop",
+    "pos": "n"
+  },
+  {
+    "word": "last (final)",
+    "pos": "adv., det, n"
+  },
+  {
+    "word": "last (taking time)",
+    "pos": "v"
+  },
+  {
+    "word": "later",
+    "pos": "adj, adv"
+  },
+  {
+    "word": "laughter",
+    "pos": "n"
+  },
+  {
+    "word": "law",
+    "pos": "n"
+  },
+  {
+    "word": "lawyer",
+    "pos": "n"
+  },
+  {
+    "word": "lazy",
+    "pos": "adj"
+  },
+  {
+    "word": "leader",
+    "pos": "n"
+  },
+  {
+    "word": "learning",
+    "pos": "n"
+  },
+  {
+    "word": "least",
+    "pos": "det./pron., adv"
+  },
+  {
+    "word": "lecture",
+    "pos": "n., v"
+  },
+  {
+    "word": "lemon",
+    "pos": "n"
+  },
+  {
+    "word": "lend",
+    "pos": "v"
+  },
+  {
+    "word": "less",
+    "pos": "det./pron., adv"
+  },
+  {
+    "word": "lifestyle",
+    "pos": "n"
+  },
+  {
+    "word": "lift",
+    "pos": "v., n"
+  },
+  {
+    "word": "light (from the sun/a lamp)",
+    "pos": "n, v"
+  },
+  {
+    "word": "light (not heavy)",
+    "pos": "adj"
+  },
+  {
+    "word": "likely",
+    "pos": "adj"
+  },
+  {
+    "word": "link",
+    "pos": "n., v"
+  },
+  {
+    "word": "listener",
+    "pos": "n"
+  },
+  {
+    "word": "little",
+    "pos": "adj., adv, det./pron"
+  },
+  {
+    "word": "lock",
+    "pos": "v., n"
+  },
+  {
+    "word": "look",
+    "pos": "n, v"
+  },
+  {
+    "word": "lorry",
+    "pos": "n"
+  },
+  {
+    "word": "lost",
+    "pos": "adj"
+  },
+  {
+    "word": "loud",
+    "pos": "adj., adv"
+  },
+  {
+    "word": "loudly",
+    "pos": "adv"
+  },
+  {
+    "word": "lovely",
+    "pos": "adj"
+  },
+  {
+    "word": "luck",
+    "pos": "n"
+  },
+  {
+    "word": "lucky",
+    "pos": "adj"
+  },
+  {
+    "word": "mail",
+    "pos": "n., v"
+  },
+  {
+    "word": "major",
+    "pos": "adj"
+  },
+  {
+    "word": "male",
+    "pos": "adj., n"
+  },
+  {
+    "word": "manage",
+    "pos": "v"
+  },
+  {
+    "word": "manager",
+    "pos": "n"
+  },
+  {
+    "word": "manner",
+    "pos": "n"
+  },
+  {
+    "word": "mark",
+    "pos": "v., n"
+  },
+  {
+    "word": "marry",
+    "pos": "v"
+  },
+  {
+    "word": "mathematics",
+    "pos": "n"
+  },
+  {
+    "word": "maths",
+    "pos": "n"
+  },
+  {
+    "word": "matter",
+    "pos": "n., v"
+  },
+  {
+    "word": "may",
+    "pos": "modal v, n"
+  },
+  {
+    "word": "media",
+    "pos": "n"
+  },
+  {
+    "word": "medical",
+    "pos": "adj"
+  },
+  {
+    "word": "medicine",
+    "pos": "n"
+  },
+  {
+    "word": "memory",
+    "pos": "n"
+  },
+  {
+    "word": "metal",
+    "pos": "n"
+  },
+  {
+    "word": "method",
+    "pos": "n"
+  },
+  {
+    "word": "middle",
+    "pos": "n., adj"
+  },
+  {
+    "word": "might",
+    "pos": "modal v"
+  },
+  {
+    "word": "mind",
+    "pos": "n., v"
+  },
+  {
+    "word": "mine (belongs to me)",
+    "pos": "pron"
+  },
+  {
+    "word": "mirror",
+    "pos": "n"
+  },
+  {
+    "word": "missing",
+    "pos": "adj"
+  },
+  {
+    "word": "mobile",
+    "pos": "adj., n"
+  },
+  {
+    "word": "monkey",
+    "pos": "n"
+  },
+  {
+    "word": "moon",
+    "pos": "n"
+  },
+  {
+    "word": "mostly",
+    "pos": "adv"
+  },
+  {
+    "word": "motorcycle",
+    "pos": "n"
+  },
+  {
+    "word": "movement",
+    "pos": "n"
+  },
+  {
+    "word": "musician",
+    "pos": "n"
+  },
+  {
+    "word": "myself",
+    "pos": "pron"
+  },
+  {
+    "word": "nature",
+    "pos": "n"
+  },
+  {
+    "word": "nearly",
+    "pos": "adv"
+  },
+  {
+    "word": "necessary",
+    "pos": "adj"
+  },
+  {
+    "word": "neck",
+    "pos": "n"
+  },
+  {
+    "word": "nervous",
+    "pos": "adj"
+  },
+  {
+    "word": "network",
+    "pos": "n"
+  },
+  {
+    "word": "noise",
+    "pos": "n"
+  },
+  {
+    "word": "noisy",
+    "pos": "adj"
+  },
+  {
+    "word": "none",
+    "pos": "pron"
+  },
+  {
+    "word": "normally",
+    "pos": "adv"
+  },
+  {
+    "word": "notice",
+    "pos": "v., n"
+  },
+  {
+    "word": "nowhere",
+    "pos": "adv"
+  },
+  {
+    "word": "number",
+    "pos": "n, v"
+  },
+  {
+    "word": "nut",
+    "pos": "n"
+  },
+  {
+    "word": "ocean",
+    "pos": "n"
+  },
+  {
+    "word": "offer",
+    "pos": "v., n"
+  },
+  {
+    "word": "officer",
+    "pos": "n"
+  },
+  {
+    "word": "oil",
+    "pos": "n"
+  },
+  {
+    "word": "onto",
+    "pos": "prep"
+  },
+  {
+    "word": "opportunity",
+    "pos": "n"
+  },
+  {
+    "word": "option",
+    "pos": "n"
+  },
+  {
+    "word": "ordinary",
+    "pos": "adj"
+  },
+  {
+    "word": "organization",
+    "pos": "n"
+  },
+  {
+    "word": "organize",
+    "pos": "v"
+  },
+  {
+    "word": "ourselves",
+    "pos": "pron"
+  },
+  {
+    "word": "outside",
+    "pos": "adj, adv, n., prep."
+  },
+  {
+    "word": "oven",
+    "pos": "n"
+  },
+  {
+    "word": "own",
+    "pos": "adj./pron, v"
+  },
+  {
+    "word": "owner",
+    "pos": "n"
+  },
+  {
+    "word": "pain",
+    "pos": "n"
+  },
+  {
+    "word": "painter",
+    "pos": "n"
+  },
+  {
+    "word": "palace",
+    "pos": "n"
+  },
+  {
+    "word": "pants",
+    "pos": "n"
+  },
+  {
+    "word": "parking",
+    "pos": "n"
+  },
+  {
+    "word": "particular",
+    "pos": "adj"
+  },
+  {
+    "word": "passenger",
+    "pos": "n"
+  },
+  {
+    "word": "past",
+    "pos": "adj., adv, n., prep"
+  },
+  {
+    "word": "pattern",
+    "pos": "n"
+  },
+  {
+    "word": "pay",
+    "pos": "n, v"
+  },
+  {
+    "word": "peace",
+    "pos": "n"
+  },
+  {
+    "word": "penny",
+    "pos": "n"
+  },
+  {
+    "word": "per",
+    "pos": "prep"
+  },
+  {
+    "word": "per cent",
+    "pos": "n., adj./adv"
+  },
+  {
+    "word": "perform",
+    "pos": "v"
+  },
+  {
+    "word": "perhaps",
+    "pos": "adv"
+  },
+  {
+    "word": "permission",
+    "pos": "n"
+  },
+  {
+    "word": "personality",
+    "pos": "n"
+  },
+  {
+    "word": "pet",
+    "pos": "n"
+  },
+  {
+    "word": "petrol",
+    "pos": "n"
+  },
+  {
+    "word": "photograph",
+    "pos": "n, v"
+  },
+  {
+    "word": "physical",
+    "pos": "adj"
+  },
+  {
+    "word": "physics",
+    "pos": "n"
+  },
+  {
+    "word": "pilot",
+    "pos": "n"
+  },
+  {
+    "word": "planet",
+    "pos": "n"
+  },
+  {
+    "word": "plant",
+    "pos": "n, v"
+  },
+  {
+    "word": "plastic",
+    "pos": "n., adj"
+  },
+  {
+    "word": "plate",
+    "pos": "n"
+  },
+  {
+    "word": "platform",
+    "pos": "n"
+  },
+  {
+    "word": "please",
+    "pos": "exclam, v"
+  },
+  {
+    "word": "pleased",
+    "pos": "adj"
+  },
+  {
+    "word": "pocket",
+    "pos": "n"
+  },
+  {
+    "word": "polite",
+    "pos": "adj"
+  },
+  {
+    "word": "pollution",
+    "pos": "n"
+  },
+  {
+    "word": "population",
+    "pos": "n"
+  },
+  {
+    "word": "possession",
+    "pos": "n"
+  },
+  {
+    "word": "possibility",
+    "pos": "n"
+  },
+  {
+    "word": "poster",
+    "pos": "n"
+  },
+  {
+    "word": "predict",
+    "pos": "v"
+  },
+  {
+    "word": "present",
+    "pos": "adj., n, v"
+  },
+  {
+    "word": "president",
+    "pos": "n"
+  },
+  {
+    "word": "prevent",
+    "pos": "v"
+  },
+  {
+    "word": "printer",
+    "pos": "n"
+  },
+  {
+    "word": "prison",
+    "pos": "n"
+  },
+  {
+    "word": "prize",
+    "pos": "n"
+  },
+  {
+    "word": "professor",
+    "pos": "n"
+  },
+  {
+    "word": "profile",
+    "pos": "n"
+  },
+  {
+    "word": "promise",
+    "pos": "v., n"
+  },
+  {
+    "word": "pronounce",
+    "pos": "v"
+  },
+  {
+    "word": "protect",
+    "pos": "v"
+  },
+  {
+    "word": "provide",
+    "pos": "v"
+  },
+  {
+    "word": "pub",
+    "pos": "n"
+  },
+  {
+    "word": "public",
+    "pos": "adj., n"
+  },
+  {
+    "word": "publish",
+    "pos": "v"
+  },
+  {
+    "word": "purpose",
+    "pos": "n"
+  },
+  {
+    "word": "quality",
+    "pos": "n"
+  },
+  {
+    "word": "quantity",
+    "pos": "n"
+  },
+  {
+    "word": "queen",
+    "pos": "n"
+  },
+  {
+    "word": "question",
+    "pos": "n, v"
+  },
+  {
+    "word": "quietly",
+    "pos": "adv"
+  },
+  {
+    "word": "race (competition)",
+    "pos": "n., v"
+  },
+  {
+    "word": "railway",
+    "pos": "n"
+  },
+  {
+    "word": "raise",
+    "pos": "v"
+  },
+  {
+    "word": "rather",
+    "pos": "adv"
+  },
+  {
+    "word": "react",
+    "pos": "v"
+  },
+  {
+    "word": "realize",
+    "pos": "v"
+  },
+  {
+    "word": "receive",
+    "pos": "v"
+  },
+  {
+    "word": "recent",
+    "pos": "adj"
+  }
+]

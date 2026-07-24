@@ -1,0 +1,722 @@
+[
+  {
+    "word": "saturday",
+    "pos": "n"
+  },
+  {
+    "word": "school",
+    "pos": "n"
+  },
+  {
+    "word": "science",
+    "pos": "n"
+  },
+  {
+    "word": "scientist",
+    "pos": "n"
+  },
+  {
+    "word": "sea",
+    "pos": "n"
+  },
+  {
+    "word": "second (unit of time)",
+    "pos": "n"
+  },
+  {
+    "word": "section",
+    "pos": "n"
+  },
+  {
+    "word": "see",
+    "pos": "v"
+  },
+  {
+    "word": "sell",
+    "pos": "v"
+  },
+  {
+    "word": "send",
+    "pos": "v"
+  },
+  {
+    "word": "september",
+    "pos": "n"
+  },
+  {
+    "word": "seven",
+    "pos": "number"
+  },
+  {
+    "word": "seventeen",
+    "pos": "number"
+  },
+  {
+    "word": "seventy",
+    "pos": "number"
+  },
+  {
+    "word": "she",
+    "pos": "pron"
+  },
+  {
+    "word": "sheep",
+    "pos": "n"
+  },
+  {
+    "word": "shirt",
+    "pos": "n"
+  },
+  {
+    "word": "shoe",
+    "pos": "n"
+  },
+  {
+    "word": "shop",
+    "pos": "n., v"
+  },
+  {
+    "word": "shopping",
+    "pos": "n"
+  },
+  {
+    "word": "short",
+    "pos": "adj"
+  },
+  {
+    "word": "should",
+    "pos": "modal v"
+  },
+  {
+    "word": "show",
+    "pos": "v., n"
+  },
+  {
+    "word": "shower",
+    "pos": "n"
+  },
+  {
+    "word": "sick",
+    "pos": "adj"
+  },
+  {
+    "word": "similar",
+    "pos": "adj"
+  },
+  {
+    "word": "sing",
+    "pos": "v"
+  },
+  {
+    "word": "singer",
+    "pos": "n"
+  },
+  {
+    "word": "sister",
+    "pos": "n"
+  },
+  {
+    "word": "sit",
+    "pos": "v"
+  },
+  {
+    "word": "situation",
+    "pos": "n"
+  },
+  {
+    "word": "six",
+    "pos": "number"
+  },
+  {
+    "word": "sixteen",
+    "pos": "number"
+  },
+  {
+    "word": "sixty",
+    "pos": "number"
+  },
+  {
+    "word": "skill",
+    "pos": "n"
+  },
+  {
+    "word": "skirt",
+    "pos": "n"
+  },
+  {
+    "word": "small",
+    "pos": "adj"
+  },
+  {
+    "word": "snake",
+    "pos": "n"
+  },
+  {
+    "word": "snow",
+    "pos": "n., v"
+  },
+  {
+    "word": "so",
+    "pos": "adv., conj"
+  },
+  {
+    "word": "some",
+    "pos": "det., pron"
+  },
+  {
+    "word": "somebody",
+    "pos": "pron"
+  },
+  {
+    "word": "someone",
+    "pos": "pron"
+  },
+  {
+    "word": "something",
+    "pos": "pron"
+  },
+  {
+    "word": "sometimes",
+    "pos": "adv"
+  },
+  {
+    "word": "son",
+    "pos": "n"
+  },
+  {
+    "word": "song",
+    "pos": "n"
+  },
+  {
+    "word": "soon",
+    "pos": "adv"
+  },
+  {
+    "word": "sorry",
+    "pos": "adj., exclam"
+  },
+  {
+    "word": "soup",
+    "pos": "n"
+  },
+  {
+    "word": "south",
+    "pos": "n., adj., adv"
+  },
+  {
+    "word": "space",
+    "pos": "n"
+  },
+  {
+    "word": "speak",
+    "pos": "v"
+  },
+  {
+    "word": "special",
+    "pos": "adj"
+  },
+  {
+    "word": "spelling",
+    "pos": "n"
+  },
+  {
+    "word": "spend",
+    "pos": "v"
+  },
+  {
+    "word": "sport",
+    "pos": "n"
+  },
+  {
+    "word": "statement",
+    "pos": "n"
+  },
+  {
+    "word": "station",
+    "pos": "n"
+  },
+  {
+    "word": "stop",
+    "pos": "v., n"
+  },
+  {
+    "word": "story",
+    "pos": "n"
+  },
+  {
+    "word": "street",
+    "pos": "n"
+  },
+  {
+    "word": "strong",
+    "pos": "adj"
+  },
+  {
+    "word": "student",
+    "pos": "n"
+  },
+  {
+    "word": "study",
+    "pos": "n., v"
+  },
+  {
+    "word": "style",
+    "pos": "n"
+  },
+  {
+    "word": "success",
+    "pos": "n"
+  },
+  {
+    "word": "sugar",
+    "pos": "n"
+  },
+  {
+    "word": "summer",
+    "pos": "n"
+  },
+  {
+    "word": "sun",
+    "pos": "n"
+  },
+  {
+    "word": "sunday",
+    "pos": "n"
+  },
+  {
+    "word": "supermarket",
+    "pos": "n"
+  },
+  {
+    "word": "sweater",
+    "pos": "n"
+  },
+  {
+    "word": "swimming",
+    "pos": "n"
+  },
+  {
+    "word": "t-shirt",
+    "pos": "n"
+  },
+  {
+    "word": "table",
+    "pos": "n"
+  },
+  {
+    "word": "take",
+    "pos": "v"
+  },
+  {
+    "word": "tall",
+    "pos": "adj"
+  },
+  {
+    "word": "taxi",
+    "pos": "n"
+  },
+  {
+    "word": "tea",
+    "pos": "n"
+  },
+  {
+    "word": "teach",
+    "pos": "v"
+  },
+  {
+    "word": "teacher",
+    "pos": "n"
+  },
+  {
+    "word": "team",
+    "pos": "n"
+  },
+  {
+    "word": "teenager",
+    "pos": "n"
+  },
+  {
+    "word": "telephone",
+    "pos": "n., v"
+  },
+  {
+    "word": "television",
+    "pos": "n"
+  },
+  {
+    "word": "tell",
+    "pos": "v"
+  },
+  {
+    "word": "ten",
+    "pos": "number"
+  },
+  {
+    "word": "tennis",
+    "pos": "n"
+  },
+  {
+    "word": "terrible",
+    "pos": "adj"
+  },
+  {
+    "word": "test",
+    "pos": "n., v"
+  },
+  {
+    "word": "than",
+    "pos": "conj"
+  },
+  {
+    "word": "thank",
+    "pos": "v"
+  },
+  {
+    "word": "thanks",
+    "pos": "exclam., n"
+  },
+  {
+    "word": "the",
+    "pos": "definite article"
+  },
+  {
+    "word": "theatre",
+    "pos": "n"
+  },
+  {
+    "word": "their",
+    "pos": "det"
+  },
+  {
+    "word": "them",
+    "pos": "pron"
+  },
+  {
+    "word": "then",
+    "pos": "adv"
+  },
+  {
+    "word": "there",
+    "pos": "adv"
+  },
+  {
+    "word": "they",
+    "pos": "pron"
+  },
+  {
+    "word": "thing",
+    "pos": "n"
+  },
+  {
+    "word": "think",
+    "pos": "v"
+  },
+  {
+    "word": "thirsty",
+    "pos": "adj"
+  },
+  {
+    "word": "thirteen",
+    "pos": "number"
+  },
+  {
+    "word": "thirty",
+    "pos": "number"
+  },
+  {
+    "word": "thousand",
+    "pos": "number"
+  },
+  {
+    "word": "three",
+    "pos": "number"
+  },
+  {
+    "word": "through",
+    "pos": "prep., adv"
+  },
+  {
+    "word": "thursday",
+    "pos": "n"
+  },
+  {
+    "word": "ticket",
+    "pos": "n"
+  },
+  {
+    "word": "tired",
+    "pos": "adj"
+  },
+  {
+    "word": "to",
+    "pos": "prep., infinitive marker"
+  },
+  {
+    "word": "today",
+    "pos": "adv., n"
+  },
+  {
+    "word": "together",
+    "pos": "adv"
+  },
+  {
+    "word": "toilet",
+    "pos": "n"
+  },
+  {
+    "word": "tomato",
+    "pos": "n"
+  },
+  {
+    "word": "tomorrow",
+    "pos": "adv., n"
+  },
+  {
+    "word": "tonight",
+    "pos": "adv., n"
+  },
+  {
+    "word": "too",
+    "pos": "adv"
+  },
+  {
+    "word": "tooth",
+    "pos": "n"
+  },
+  {
+    "word": "topic",
+    "pos": "n"
+  },
+  {
+    "word": "tourist",
+    "pos": "n"
+  },
+  {
+    "word": "town",
+    "pos": "n"
+  },
+  {
+    "word": "traffic",
+    "pos": "n"
+  },
+  {
+    "word": "travel",
+    "pos": "v., n"
+  },
+  {
+    "word": "tree",
+    "pos": "n"
+  },
+  {
+    "word": "trousers",
+    "pos": "n"
+  },
+  {
+    "word": "true",
+    "pos": "adj"
+  },
+  {
+    "word": "tuesday",
+    "pos": "n"
+  },
+  {
+    "word": "turn",
+    "pos": "v., n"
+  },
+  {
+    "word": "tv",
+    "pos": "n"
+  },
+  {
+    "word": "twelve",
+    "pos": "number"
+  },
+  {
+    "word": "twenty",
+    "pos": "number"
+  },
+  {
+    "word": "twice",
+    "pos": "adv"
+  },
+  {
+    "word": "two",
+    "pos": "number"
+  },
+  {
+    "word": "umbrella",
+    "pos": "n"
+  },
+  {
+    "word": "uncle",
+    "pos": "n"
+  },
+  {
+    "word": "under",
+    "pos": "prep., adv"
+  },
+  {
+    "word": "understand",
+    "pos": "v"
+  },
+  {
+    "word": "university",
+    "pos": "n"
+  },
+  {
+    "word": "until",
+    "pos": "conj./prep"
+  },
+  {
+    "word": "up",
+    "pos": "adv., prep"
+  },
+  {
+    "word": "us",
+    "pos": "pron"
+  },
+  {
+    "word": "useful",
+    "pos": "adj"
+  },
+  {
+    "word": "usually",
+    "pos": "adv"
+  },
+  {
+    "word": "vacation",
+    "pos": "n"
+  },
+  {
+    "word": "vegetable",
+    "pos": "n"
+  },
+  {
+    "word": "video",
+    "pos": "n"
+  },
+  {
+    "word": "village",
+    "pos": "n"
+  },
+  {
+    "word": "visit",
+    "pos": "v., n"
+  },
+  {
+    "word": "visitor",
+    "pos": "n"
+  },
+  {
+    "word": "waiter",
+    "pos": "n"
+  },
+  {
+    "word": "wake",
+    "pos": "v"
+  },
+  {
+    "word": "walk",
+    "pos": "v., n"
+  },
+  {
+    "word": "wall",
+    "pos": "n"
+  },
+  {
+    "word": "want",
+    "pos": "v"
+  },
+  {
+    "word": "watch",
+    "pos": "v., n"
+  },
+  {
+    "word": "we",
+    "pos": "pron"
+  },
+  {
+    "word": "wear",
+    "pos": "v"
+  },
+  {
+    "word": "weather",
+    "pos": "n"
+  },
+  {
+    "word": "website",
+    "pos": "n"
+  },
+  {
+    "word": "wednesday",
+    "pos": "n"
+  },
+  {
+    "word": "week",
+    "pos": "n"
+  },
+  {
+    "word": "weekend",
+    "pos": "n"
+  },
+  {
+    "word": "west",
+    "pos": "n., adj., adv"
+  },
+  {
+    "word": "what",
+    "pos": "pron./det"
+  },
+  {
+    "word": "when",
+    "pos": "adv., pron., conj"
+  },
+  {
+    "word": "where",
+    "pos": "adv., conj"
+  },
+  {
+    "word": "which",
+    "pos": "pron./det"
+  },
+  {
+    "word": "white",
+    "pos": "adj., n"
+  },
+  {
+    "word": "who",
+    "pos": "pron"
+  },
+  {
+    "word": "why",
+    "pos": "adv"
+  },
+  {
+    "word": "wife",
+    "pos": "n"
+  },
+  {
+    "word": "window",
+    "pos": "n"
+  },
+  {
+    "word": "wine",
+    "pos": "n"
+  },
+  {
+    "word": "winter",
+    "pos": "n"
+  },
+  {
+    "word": "with",
+    "pos": "prep"
+  },
+  {
+    "word": "without",
+    "pos": "prep"
+  },
+  {
+    "word": "woman",
+    "pos": "n"
+  }
+]

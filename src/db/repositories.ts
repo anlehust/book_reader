@@ -1,4 +1,4 @@
-import type {Book,Bookmark,Highlight,VocabWord} from './types';
+import type {Book,Bookmark,Highlight,KnownWord,ReaderSettings,VocabWord} from './types';
 
 export class ApiError extends Error{constructor(message:string,readonly status:number){super(message)}}
 const request=async<T>(url:string,init?:RequestInit):Promise<T>=>{let response:Response;try{response=await fetch(url,init)}catch{throw new ApiError('Không kết nối được máy chủ ReadFlow',0)}if(!response.ok){let message=`Yêu cầu thất bại (${response.status})`;try{message=((await response.json()) as {error?:{message?:string}}).error?.message||message}catch{/* response is not JSON */}throw new ApiError(message,response.status)}return response.status===204?undefined as T:response.json() as Promise<T>};
@@ -32,5 +32,14 @@ export const repositories={
   add:(data:Omit<VocabWord,'id'|'createdAt'|'word'> & {word:string})=>request<VocabWord>(`/api/books/${encodeURIComponent(data.bookId)}/vocabulary`,json('POST',data)),
   update:(key:string,changes:Partial<Pick<VocabWord,'word'|'meaning'|'example'>>)=>request<void>(`/api/vocabulary/${encodeURIComponent(key)}`,json('PATCH',changes)),
   remove:(key:string)=>request<void>(`/api/vocabulary/${encodeURIComponent(key)}`,{method:'DELETE'}),
+ },
+ knownWords:{
+  all:(search='')=>request<KnownWord[]>(`/api/known-words${search?`?search=${encodeURIComponent(search)}`:''}`),
+  add:(lemma:string)=>request<KnownWord>('/api/known-words',json('POST',{lemma})),
+  remove:(lemma:string)=>request<void>(`/api/known-words/${encodeURIComponent(lemma)}`,{method:'DELETE'}),
+ },
+ settings:{
+  get:()=>request<ReaderSettings>('/api/settings'),
+  update:(changes:Partial<ReaderSettings>)=>request<ReaderSettings>('/api/settings',json('PATCH',changes)),
  },
 };

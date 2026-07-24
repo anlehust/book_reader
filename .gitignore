@@ -8,7 +8,7 @@ dist/
 .vite/
 coverage/
 server-dist/
-data/
+/data/
 test-results/
 playwright-report/
 .claude/

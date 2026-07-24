@@ -1,0 +1,722 @@
+[
+  {
+    "word": "diamond",
+    "pos": "n"
+  },
+  {
+    "word": "difficulty",
+    "pos": "n"
+  },
+  {
+    "word": "direct",
+    "pos": "adj, adv, v."
+  },
+  {
+    "word": "directly",
+    "pos": "adv"
+  },
+  {
+    "word": "dirt",
+    "pos": "n"
+  },
+  {
+    "word": "disadvantage",
+    "pos": "n"
+  },
+  {
+    "word": "disappointed",
+    "pos": "adj"
+  },
+  {
+    "word": "disappointing",
+    "pos": "adj"
+  },
+  {
+    "word": "dislike",
+    "pos": "v., n"
+  },
+  {
+    "word": "documentary",
+    "pos": "n"
+  },
+  {
+    "word": "donate",
+    "pos": "v"
+  },
+  {
+    "word": "double",
+    "pos": "adj., adv, det., pron., v"
+  },
+  {
+    "word": "doubt",
+    "pos": "n., v"
+  },
+  {
+    "word": "dressed",
+    "pos": "adj"
+  },
+  {
+    "word": "drop",
+    "pos": "n, v"
+  },
+  {
+    "word": "drum",
+    "pos": "n"
+  },
+  {
+    "word": "drunk",
+    "pos": "adj"
+  },
+  {
+    "word": "due",
+    "pos": "adj"
+  },
+  {
+    "word": "dust",
+    "pos": "n"
+  },
+  {
+    "word": "duty",
+    "pos": "n"
+  },
+  {
+    "word": "earthquake",
+    "pos": "n"
+  },
+  {
+    "word": "eastern",
+    "pos": "adj"
+  },
+  {
+    "word": "economic",
+    "pos": "adj"
+  },
+  {
+    "word": "economy",
+    "pos": "n"
+  },
+  {
+    "word": "edge",
+    "pos": "n"
+  },
+  {
+    "word": "editor",
+    "pos": "n"
+  },
+  {
+    "word": "educate",
+    "pos": "v"
+  },
+  {
+    "word": "educated",
+    "pos": "adj"
+  },
+  {
+    "word": "educational",
+    "pos": "adj"
+  },
+  {
+    "word": "effective",
+    "pos": "adj"
+  },
+  {
+    "word": "effectively",
+    "pos": "adv"
+  },
+  {
+    "word": "effort",
+    "pos": "n"
+  },
+  {
+    "word": "election",
+    "pos": "n"
+  },
+  {
+    "word": "element",
+    "pos": "n"
+  },
+  {
+    "word": "embarrassed",
+    "pos": "adj"
+  },
+  {
+    "word": "embarrassing",
+    "pos": "adj"
+  },
+  {
+    "word": "emergency",
+    "pos": "n"
+  },
+  {
+    "word": "emotion",
+    "pos": "n"
+  },
+  {
+    "word": "employment",
+    "pos": "n"
+  },
+  {
+    "word": "empty",
+    "pos": "adj, v"
+  },
+  {
+    "word": "encourage",
+    "pos": "v"
+  },
+  {
+    "word": "enemy",
+    "pos": "n"
+  },
+  {
+    "word": "engaged",
+    "pos": "adj"
+  },
+  {
+    "word": "engineering",
+    "pos": "n"
+  },
+  {
+    "word": "entertain",
+    "pos": "v"
+  },
+  {
+    "word": "entertainment",
+    "pos": "n"
+  },
+  {
+    "word": "entrance",
+    "pos": "n"
+  },
+  {
+    "word": "entry",
+    "pos": "n"
+  },
+  {
+    "word": "environmental",
+    "pos": "adj"
+  },
+  {
+    "word": "episode",
+    "pos": "n"
+  },
+  {
+    "word": "equally",
+    "pos": "adv"
+  },
+  {
+    "word": "escape",
+    "pos": "v., n"
+  },
+  {
+    "word": "essential",
+    "pos": "adj"
+  },
+  {
+    "word": "eventually",
+    "pos": "adv"
+  },
+  {
+    "word": "examine",
+    "pos": "v"
+  },
+  {
+    "word": "except",
+    "pos": "conj, prep"
+  },
+  {
+    "word": "exchange",
+    "pos": "n., v"
+  },
+  {
+    "word": "excitement",
+    "pos": "n"
+  },
+  {
+    "word": "exhibition",
+    "pos": "n"
+  },
+  {
+    "word": "expand",
+    "pos": "v"
+  },
+  {
+    "word": "expected",
+    "pos": "adj"
+  },
+  {
+    "word": "expedition",
+    "pos": "n"
+  },
+  {
+    "word": "experience",
+    "pos": "n, v"
+  },
+  {
+    "word": "experienced",
+    "pos": "adj"
+  },
+  {
+    "word": "experiment",
+    "pos": "n, v"
+  },
+  {
+    "word": "explode",
+    "pos": "v"
+  },
+  {
+    "word": "explore",
+    "pos": "v"
+  },
+  {
+    "word": "explosion",
+    "pos": "n"
+  },
+  {
+    "word": "export",
+    "pos": "n., v"
+  },
+  {
+    "word": "extra",
+    "pos": "adj, adv, n."
+  },
+  {
+    "word": "face",
+    "pos": "n, v"
+  },
+  {
+    "word": "fairly",
+    "pos": "adv"
+  },
+  {
+    "word": "familiar",
+    "pos": "adj"
+  },
+  {
+    "word": "fancy",
+    "pos": "v., adj"
+  },
+  {
+    "word": "far",
+    "pos": "adj, adv"
+  },
+  {
+    "word": "fascinating",
+    "pos": "adj"
+  },
+  {
+    "word": "fashionable",
+    "pos": "adj"
+  },
+  {
+    "word": "fasten",
+    "pos": "v"
+  },
+  {
+    "word": "fear",
+    "pos": "n, v"
+  },
+  {
+    "word": "feature",
+    "pos": "n, v"
+  },
+  {
+    "word": "fence",
+    "pos": "n"
+  },
+  {
+    "word": "fighting",
+    "pos": "n"
+  },
+  {
+    "word": "financial",
+    "pos": "adj"
+  },
+  {
+    "word": "fire",
+    "pos": "n, v"
+  },
+  {
+    "word": "fitness",
+    "pos": "n"
+  },
+  {
+    "word": "fixed",
+    "pos": "adj"
+  },
+  {
+    "word": "flag",
+    "pos": "n"
+  },
+  {
+    "word": "flood",
+    "pos": "n., v"
+  },
+  {
+    "word": "flour",
+    "pos": "n"
+  },
+  {
+    "word": "flow",
+    "pos": "v., n"
+  },
+  {
+    "word": "folk",
+    "pos": "n., adj"
+  },
+  {
+    "word": "force",
+    "pos": "n., v"
+  },
+  {
+    "word": "forever",
+    "pos": "adv"
+  },
+  {
+    "word": "frame",
+    "pos": "n., v"
+  },
+  {
+    "word": "freeze",
+    "pos": "v"
+  },
+  {
+    "word": "frequently",
+    "pos": "adv"
+  },
+  {
+    "word": "friendship",
+    "pos": "n"
+  },
+  {
+    "word": "frighten",
+    "pos": "v"
+  },
+  {
+    "word": "frightened",
+    "pos": "adj"
+  },
+  {
+    "word": "frightening",
+    "pos": "adj"
+  },
+  {
+    "word": "frozen",
+    "pos": "adj"
+  },
+  {
+    "word": "fry",
+    "pos": "v"
+  },
+  {
+    "word": "fur",
+    "pos": "n"
+  },
+  {
+    "word": "further",
+    "pos": "adj, adv"
+  },
+  {
+    "word": "garage",
+    "pos": "n"
+  },
+  {
+    "word": "gather",
+    "pos": "v"
+  },
+  {
+    "word": "generally",
+    "pos": "adv"
+  },
+  {
+    "word": "generation",
+    "pos": "n"
+  },
+  {
+    "word": "generous",
+    "pos": "adj"
+  },
+  {
+    "word": "gentle",
+    "pos": "adj"
+  },
+  {
+    "word": "gentleman",
+    "pos": "n"
+  },
+  {
+    "word": "ghost",
+    "pos": "n"
+  },
+  {
+    "word": "giant",
+    "pos": "adj., n"
+  },
+  {
+    "word": "glad",
+    "pos": "adj"
+  },
+  {
+    "word": "global",
+    "pos": "adj"
+  },
+  {
+    "word": "glove",
+    "pos": "n"
+  },
+  {
+    "word": "go",
+    "pos": "n, v"
+  },
+  {
+    "word": "goods",
+    "pos": "n"
+  },
+  {
+    "word": "graduate",
+    "pos": "n., v"
+  },
+  {
+    "word": "grain",
+    "pos": "n"
+  },
+  {
+    "word": "grateful",
+    "pos": "adj"
+  },
+  {
+    "word": "growth",
+    "pos": "n"
+  },
+  {
+    "word": "guard",
+    "pos": "n., v"
+  },
+  {
+    "word": "guilty",
+    "pos": "adj"
+  },
+  {
+    "word": "hand",
+    "pos": "n, v"
+  },
+  {
+    "word": "hang",
+    "pos": "v"
+  },
+  {
+    "word": "happiness",
+    "pos": "n"
+  },
+  {
+    "word": "hardly",
+    "pos": "adv"
+  },
+  {
+    "word": "hate",
+    "pos": "n, v"
+  },
+  {
+    "word": "head",
+    "pos": "n, v"
+  },
+  {
+    "word": "headline",
+    "pos": "n"
+  },
+  {
+    "word": "heating",
+    "pos": "n"
+  },
+  {
+    "word": "heavily",
+    "pos": "adv"
+  },
+  {
+    "word": "helicopter",
+    "pos": "n"
+  },
+  {
+    "word": "highlight",
+    "pos": "v., n"
+  },
+  {
+    "word": "highly",
+    "pos": "adv"
+  },
+  {
+    "word": "historic",
+    "pos": "adj"
+  },
+  {
+    "word": "historical",
+    "pos": "adj"
+  },
+  {
+    "word": "honest",
+    "pos": "adj"
+  },
+  {
+    "word": "horrible",
+    "pos": "adj"
+  },
+  {
+    "word": "horror",
+    "pos": "n"
+  },
+  {
+    "word": "hurricane",
+    "pos": "n"
+  },
+  {
+    "word": "hurry",
+    "pos": "n., v"
+  },
+  {
+    "word": "identity",
+    "pos": "n"
+  },
+  {
+    "word": "ignore",
+    "pos": "v"
+  },
+  {
+    "word": "illegal",
+    "pos": "adj"
+  },
+  {
+    "word": "imaginary",
+    "pos": "adj"
+  },
+  {
+    "word": "immediate",
+    "pos": "adj"
+  },
+  {
+    "word": "immigrant",
+    "pos": "n"
+  },
+  {
+    "word": "impact",
+    "pos": "n., v"
+  },
+  {
+    "word": "import",
+    "pos": "n., v"
+  },
+  {
+    "word": "importance",
+    "pos": "n"
+  },
+  {
+    "word": "impression",
+    "pos": "n"
+  },
+  {
+    "word": "impressive",
+    "pos": "adj"
+  },
+  {
+    "word": "improvement",
+    "pos": "n"
+  },
+  {
+    "word": "incredibly",
+    "pos": "adv"
+  },
+  {
+    "word": "indeed",
+    "pos": "adv"
+  },
+  {
+    "word": "indicate",
+    "pos": "v"
+  },
+  {
+    "word": "indirect",
+    "pos": "adj"
+  },
+  {
+    "word": "indoor",
+    "pos": "adj"
+  },
+  {
+    "word": "indoors",
+    "pos": "adv"
+  },
+  {
+    "word": "influence",
+    "pos": "n., v"
+  },
+  {
+    "word": "ingredient",
+    "pos": "n"
+  },
+  {
+    "word": "injure",
+    "pos": "v"
+  },
+  {
+    "word": "injured",
+    "pos": "adj"
+  },
+  {
+    "word": "innocent",
+    "pos": "adj"
+  },
+  {
+    "word": "intelligence",
+    "pos": "n"
+  },
+  {
+    "word": "intend",
+    "pos": "v"
+  },
+  {
+    "word": "intention",
+    "pos": "n"
+  },
+  {
+    "word": "invest",
+    "pos": "v"
+  },
+  {
+    "word": "investigate",
+    "pos": "v"
+  },
+  {
+    "word": "involved",
+    "pos": "adj"
+  },
+  {
+    "word": "iron",
+    "pos": "n., v"
+  },
+  {
+    "word": "it",
+    "pos": "n, pron"
+  },
+  {
+    "word": "journal",
+    "pos": "n"
+  },
+  {
+    "word": "judge",
+    "pos": "n., v"
+  },
+  {
+    "word": "keen",
+    "pos": "adj"
+  },
+  {
+    "word": "key",
+    "pos": "adj, n., v"
+  },
+  {
+    "word": "keyboard",
+    "pos": "n"
+  },
+  {
+    "word": "kick",
+    "pos": "v., n"
+  }
+]

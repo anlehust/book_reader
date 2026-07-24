@@ -1,0 +1,722 @@
+[
+  {
+    "word": "life",
+    "pos": "n"
+  },
+  {
+    "word": "like (similar)",
+    "pos": "prep"
+  },
+  {
+    "word": "lion",
+    "pos": "n"
+  },
+  {
+    "word": "list",
+    "pos": "n., v"
+  },
+  {
+    "word": "listen",
+    "pos": "v"
+  },
+  {
+    "word": "long",
+    "pos": "adj., adv"
+  },
+  {
+    "word": "lose",
+    "pos": "v"
+  },
+  {
+    "word": "lot",
+    "pos": "pron., det., adv"
+  },
+  {
+    "word": "love",
+    "pos": "n., v"
+  },
+  {
+    "word": "lunch",
+    "pos": "n"
+  },
+  {
+    "word": "machine",
+    "pos": "n"
+  },
+  {
+    "word": "magazine",
+    "pos": "n"
+  },
+  {
+    "word": "main",
+    "pos": "adj"
+  },
+  {
+    "word": "man",
+    "pos": "n"
+  },
+  {
+    "word": "many",
+    "pos": "det./pron"
+  },
+  {
+    "word": "married",
+    "pos": "adj"
+  },
+  {
+    "word": "match (contest/correspond)",
+    "pos": "n., v"
+  },
+  {
+    "word": "maybe",
+    "pos": "adv"
+  },
+  {
+    "word": "me",
+    "pos": "pron"
+  },
+  {
+    "word": "meal",
+    "pos": "n"
+  },
+  {
+    "word": "mean",
+    "pos": "v"
+  },
+  {
+    "word": "meaning",
+    "pos": "n"
+  },
+  {
+    "word": "meat",
+    "pos": "n"
+  },
+  {
+    "word": "meet",
+    "pos": "v"
+  },
+  {
+    "word": "meeting",
+    "pos": "n"
+  },
+  {
+    "word": "member",
+    "pos": "n"
+  },
+  {
+    "word": "menu",
+    "pos": "n"
+  },
+  {
+    "word": "message",
+    "pos": "n"
+  },
+  {
+    "word": "metre",
+    "pos": "n"
+  },
+  {
+    "word": "midnight",
+    "pos": "n"
+  },
+  {
+    "word": "mile",
+    "pos": "n"
+  },
+  {
+    "word": "milk",
+    "pos": "n"
+  },
+  {
+    "word": "million",
+    "pos": "number"
+  },
+  {
+    "word": "miss",
+    "pos": "v"
+  },
+  {
+    "word": "modern",
+    "pos": "adj"
+  },
+  {
+    "word": "moment",
+    "pos": "n"
+  },
+  {
+    "word": "monday",
+    "pos": "n"
+  },
+  {
+    "word": "money",
+    "pos": "n"
+  },
+  {
+    "word": "month",
+    "pos": "n"
+  },
+  {
+    "word": "more",
+    "pos": "det./pron., adv"
+  },
+  {
+    "word": "morning",
+    "pos": "n"
+  },
+  {
+    "word": "most",
+    "pos": "det./pron., adv"
+  },
+  {
+    "word": "mother",
+    "pos": "n"
+  },
+  {
+    "word": "mountain",
+    "pos": "n"
+  },
+  {
+    "word": "mouse",
+    "pos": "n"
+  },
+  {
+    "word": "mouth",
+    "pos": "n"
+  },
+  {
+    "word": "movie",
+    "pos": "n"
+  },
+  {
+    "word": "much",
+    "pos": "det./pron., adv"
+  },
+  {
+    "word": "mum",
+    "pos": "n"
+  },
+  {
+    "word": "museum",
+    "pos": "n"
+  },
+  {
+    "word": "music",
+    "pos": "n"
+  },
+  {
+    "word": "must",
+    "pos": "modal v"
+  },
+  {
+    "word": "my",
+    "pos": "det"
+  },
+  {
+    "word": "name",
+    "pos": "n., v"
+  },
+  {
+    "word": "natural",
+    "pos": "adj"
+  },
+  {
+    "word": "near",
+    "pos": "prep., adj., adv"
+  },
+  {
+    "word": "neighbour",
+    "pos": "n"
+  },
+  {
+    "word": "never",
+    "pos": "adv"
+  },
+  {
+    "word": "new",
+    "pos": "adj"
+  },
+  {
+    "word": "news",
+    "pos": "n"
+  },
+  {
+    "word": "newspaper",
+    "pos": "n"
+  },
+  {
+    "word": "next to",
+    "pos": "prep"
+  },
+  {
+    "word": "nice",
+    "pos": "adj"
+  },
+  {
+    "word": "night",
+    "pos": "n"
+  },
+  {
+    "word": "nine",
+    "pos": "number"
+  },
+  {
+    "word": "nineteen",
+    "pos": "number"
+  },
+  {
+    "word": "ninety",
+    "pos": "number"
+  },
+  {
+    "word": "no",
+    "pos": "exclam., det"
+  },
+  {
+    "word": "no one",
+    "pos": "pron"
+  },
+  {
+    "word": "nobody",
+    "pos": "pron"
+  },
+  {
+    "word": "north",
+    "pos": "n., adj., adv"
+  },
+  {
+    "word": "nose",
+    "pos": "n"
+  },
+  {
+    "word": "not",
+    "pos": "adv"
+  },
+  {
+    "word": "nothing",
+    "pos": "pron"
+  },
+  {
+    "word": "november",
+    "pos": "n"
+  },
+  {
+    "word": "nurse",
+    "pos": "n"
+  },
+  {
+    "word": "o'clock",
+    "pos": "adv"
+  },
+  {
+    "word": "october",
+    "pos": "n"
+  },
+  {
+    "word": "of",
+    "pos": "prep"
+  },
+  {
+    "word": "off",
+    "pos": "adv., prep"
+  },
+  {
+    "word": "office",
+    "pos": "n"
+  },
+  {
+    "word": "often",
+    "pos": "adv"
+  },
+  {
+    "word": "oh",
+    "pos": "exclam"
+  },
+  {
+    "word": "old",
+    "pos": "adj"
+  },
+  {
+    "word": "on",
+    "pos": "prep., adv"
+  },
+  {
+    "word": "one",
+    "pos": "number/det., pron"
+  },
+  {
+    "word": "onion",
+    "pos": "n"
+  },
+  {
+    "word": "online",
+    "pos": "adj., adv"
+  },
+  {
+    "word": "only",
+    "pos": "adj., adv"
+  },
+  {
+    "word": "open",
+    "pos": "adj., v"
+  },
+  {
+    "word": "opinion",
+    "pos": "n"
+  },
+  {
+    "word": "opposite",
+    "pos": "adj., n., prep., adv"
+  },
+  {
+    "word": "or",
+    "pos": "conj"
+  },
+  {
+    "word": "orange",
+    "pos": "n., adj"
+  },
+  {
+    "word": "order",
+    "pos": "n., v"
+  },
+  {
+    "word": "other",
+    "pos": "adj./pron"
+  },
+  {
+    "word": "our",
+    "pos": "det"
+  },
+  {
+    "word": "out",
+    "pos": "adv./prep"
+  },
+  {
+    "word": "over",
+    "pos": "prep., adv"
+  },
+  {
+    "word": "page",
+    "pos": "n"
+  },
+  {
+    "word": "paint",
+    "pos": "v., n"
+  },
+  {
+    "word": "painting",
+    "pos": "n"
+  },
+  {
+    "word": "pair",
+    "pos": "n"
+  },
+  {
+    "word": "paper",
+    "pos": "n"
+  },
+  {
+    "word": "paragraph",
+    "pos": "n"
+  },
+  {
+    "word": "parent",
+    "pos": "n"
+  },
+  {
+    "word": "park",
+    "pos": "n., v"
+  },
+  {
+    "word": "part",
+    "pos": "n"
+  },
+  {
+    "word": "partner",
+    "pos": "n"
+  },
+  {
+    "word": "party",
+    "pos": "n"
+  },
+  {
+    "word": "passport",
+    "pos": "n"
+  },
+  {
+    "word": "pen",
+    "pos": "n"
+  },
+  {
+    "word": "pencil",
+    "pos": "n"
+  },
+  {
+    "word": "people",
+    "pos": "n"
+  },
+  {
+    "word": "pepper",
+    "pos": "n"
+  },
+  {
+    "word": "perfect",
+    "pos": "adj"
+  },
+  {
+    "word": "period",
+    "pos": "n"
+  },
+  {
+    "word": "person",
+    "pos": "n"
+  },
+  {
+    "word": "personal",
+    "pos": "adj"
+  },
+  {
+    "word": "phone",
+    "pos": "n., v"
+  },
+  {
+    "word": "photo",
+    "pos": "n"
+  },
+  {
+    "word": "phrase",
+    "pos": "n"
+  },
+  {
+    "word": "piano",
+    "pos": "n"
+  },
+  {
+    "word": "piece",
+    "pos": "n"
+  },
+  {
+    "word": "pig",
+    "pos": "n"
+  },
+  {
+    "word": "pink",
+    "pos": "adj., n"
+  },
+  {
+    "word": "plan",
+    "pos": "n., v"
+  },
+  {
+    "word": "plane",
+    "pos": "n"
+  },
+  {
+    "word": "play",
+    "pos": "v., n"
+  },
+  {
+    "word": "player",
+    "pos": "n"
+  },
+  {
+    "word": "police",
+    "pos": "n"
+  },
+  {
+    "word": "policeman",
+    "pos": "n"
+  },
+  {
+    "word": "pool",
+    "pos": "n"
+  },
+  {
+    "word": "poor",
+    "pos": "adj"
+  },
+  {
+    "word": "popular",
+    "pos": "adj"
+  },
+  {
+    "word": "possible",
+    "pos": "adj"
+  },
+  {
+    "word": "post",
+    "pos": "n., v"
+  },
+  {
+    "word": "potato",
+    "pos": "n"
+  },
+  {
+    "word": "pound",
+    "pos": "n"
+  },
+  {
+    "word": "practice",
+    "pos": "n"
+  },
+  {
+    "word": "practise",
+    "pos": "v"
+  },
+  {
+    "word": "prefer",
+    "pos": "v"
+  },
+  {
+    "word": "prepare",
+    "pos": "v"
+  },
+  {
+    "word": "pretty",
+    "pos": "adj., adv"
+  },
+  {
+    "word": "probably",
+    "pos": "adv"
+  },
+  {
+    "word": "problem",
+    "pos": "n"
+  },
+  {
+    "word": "product",
+    "pos": "n"
+  },
+  {
+    "word": "programme",
+    "pos": "n"
+  },
+  {
+    "word": "purple",
+    "pos": "adj., n"
+  },
+  {
+    "word": "put",
+    "pos": "v"
+  },
+  {
+    "word": "quarter",
+    "pos": "n"
+  },
+  {
+    "word": "quick",
+    "pos": "adj"
+  },
+  {
+    "word": "quickly",
+    "pos": "adv"
+  },
+  {
+    "word": "quiet",
+    "pos": "adj"
+  },
+  {
+    "word": "quite",
+    "pos": "adv"
+  },
+  {
+    "word": "radio",
+    "pos": "n"
+  },
+  {
+    "word": "rain",
+    "pos": "n., v"
+  },
+  {
+    "word": "read",
+    "pos": "v"
+  },
+  {
+    "word": "reader",
+    "pos": "n"
+  },
+  {
+    "word": "reading",
+    "pos": "n"
+  },
+  {
+    "word": "ready",
+    "pos": "adj"
+  },
+  {
+    "word": "real",
+    "pos": "adj"
+  },
+  {
+    "word": "really",
+    "pos": "adv"
+  },
+  {
+    "word": "reason",
+    "pos": "n"
+  },
+  {
+    "word": "red",
+    "pos": "adj., n"
+  },
+  {
+    "word": "relax",
+    "pos": "v"
+  },
+  {
+    "word": "remember",
+    "pos": "v"
+  },
+  {
+    "word": "restaurant",
+    "pos": "n"
+  },
+  {
+    "word": "return",
+    "pos": "v., n"
+  },
+  {
+    "word": "rice",
+    "pos": "n"
+  },
+  {
+    "word": "rich",
+    "pos": "adj"
+  },
+  {
+    "word": "right",
+    "pos": "adj., adv., n"
+  },
+  {
+    "word": "river",
+    "pos": "n"
+  },
+  {
+    "word": "road",
+    "pos": "n"
+  },
+  {
+    "word": "room",
+    "pos": "n"
+  },
+  {
+    "word": "sad",
+    "pos": "adj"
+  },
+  {
+    "word": "salad",
+    "pos": "n"
+  },
+  {
+    "word": "salt",
+    "pos": "n"
+  },
+  {
+    "word": "same",
+    "pos": "adj., pron., adv"
+  },
+  {
+    "word": "sandwich",
+    "pos": "n"
+  }
+]

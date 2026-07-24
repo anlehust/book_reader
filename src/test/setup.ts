@@ -11,3 +11,10 @@ if (!globalThis.Path2D) {
 if (!globalThis.ImageData) {
   (globalThis as typeof globalThis & { ImageData: typeof ImageData }).ImageData = class ImageData {} as unknown as typeof ImageData;
 }
+if (!globalThis.ResizeObserver) {
+  globalThis.ResizeObserver = class ResizeObserver {
+    observe() {}
+    unobserve() {}
+    disconnect() {}
+  };
+}

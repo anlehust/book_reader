@@ -1,0 +1,3046 @@
+{
+  "absolutely": {
+    "pos": "adv",
+    "vi": "tuyệt đối"
+  },
+  "access": {
+    "pos": "n., v",
+    "vi": "truy cập"
+  },
+  "accommodation": {
+    "pos": "n",
+    "vi": "chỗ ở"
+  },
+  "achievement": {
+    "pos": "n",
+    "vi": "thành tích"
+  },
+  "act": {
+    "pos": "n, v",
+    "vi": "hành động"
+  },
+  "ad": {
+    "pos": "n",
+    "vi": "quảng cáo"
+  },
+  "addition": {
+    "pos": "n",
+    "vi": "phép cộng"
+  },
+  "admire": {
+    "pos": "v",
+    "vi": "ngưỡng mộ"
+  },
+  "admit": {
+    "pos": "v",
+    "vi": "thừa nhận"
+  },
+  "advanced": {
+    "pos": "adj",
+    "vi": "trình độ cao"
+  },
+  "advise": {
+    "pos": "v",
+    "vi": "khuyên nhủ"
+  },
+  "afford": {
+    "pos": "v",
+    "vi": "đủ khả năng"
+  },
+  "age": {
+    "pos": "n, v",
+    "vi": "tuổi"
+  },
+  "aged": {
+    "pos": "adj",
+    "vi": "già"
+  },
+  "agent": {
+    "pos": "n",
+    "vi": "đại lý"
+  },
+  "agreement": {
+    "pos": "n",
+    "vi": "hiệp định"
+  },
+  "ahead": {
+    "pos": "adv",
+    "vi": "phía trước"
+  },
+  "aim": {
+    "pos": "v., n",
+    "vi": "mục tiêu"
+  },
+  "album": {
+    "pos": "n",
+    "vi": "album"
+  },
+  "alcohol": {
+    "pos": "n",
+    "vi": "rượu bia"
+  },
+  "alcoholic": {
+    "pos": "adj",
+    "vi": "rượu"
+  },
+  "alternative": {
+    "pos": "adj, n",
+    "vi": "thay thế"
+  },
+  "amazed": {
+    "pos": "adj",
+    "vi": "ngạc nhiên"
+  },
+  "ambition": {
+    "pos": "n",
+    "vi": "tham vọng"
+  },
+  "ambitious": {
+    "pos": "adj",
+    "vi": "tham vọng"
+  },
+  "analyse": {
+    "pos": "v",
+    "vi": "phân tích"
+  },
+  "analysis": {
+    "pos": "n",
+    "vi": "Phân tích"
+  },
+  "announce": {
+    "pos": "v",
+    "vi": "thông báo"
+  },
+  "announcement": {
+    "pos": "n",
+    "vi": "thông báo"
+  },
+  "annoy": {
+    "pos": "v",
+    "vi": "làm phiền"
+  },
+  "annoyed": {
+    "pos": "adj",
+    "vi": "khó chịu"
+  },
+  "annoying": {
+    "pos": "adj",
+    "vi": "khó chịu"
+  },
+  "apart": {
+    "pos": "adv",
+    "vi": "riêng biệt"
+  },
+  "apologize": {
+    "pos": "v",
+    "vi": "xin lỗi"
+  },
+  "application": {
+    "pos": "n",
+    "vi": "ứng dụng"
+  },
+  "appointment": {
+    "pos": "n",
+    "vi": "cuộc hẹn"
+  },
+  "appreciate": {
+    "pos": "v",
+    "vi": "đánh giá"
+  },
+  "approximately": {
+    "pos": "adv",
+    "vi": "khoảng"
+  },
+  "arrest": {
+    "pos": "v., n",
+    "vi": "bắt giữ"
+  },
+  "arrival": {
+    "pos": "n",
+    "vi": "đến"
+  },
+  "assignment": {
+    "pos": "n",
+    "vi": "phân công"
+  },
+  "assist": {
+    "pos": "v",
+    "vi": "hỗ trợ"
+  },
+  "atmosphere": {
+    "pos": "n",
+    "vi": "bầu không khí"
+  },
+  "attach": {
+    "pos": "v",
+    "vi": "gắn"
+  },
+  "attitude": {
+    "pos": "n",
+    "vi": "thái độ"
+  },
+  "attract": {
+    "pos": "v",
+    "vi": "thu hút"
+  },
+  "attraction": {
+    "pos": "n",
+    "vi": "sự thu hút"
+  },
+  "authority": {
+    "pos": "n",
+    "vi": "thẩm quyền"
+  },
+  "average": {
+    "pos": "adj., n, v",
+    "vi": "trung bình"
+  },
+  "award": {
+    "pos": "n, v",
+    "vi": "phần thưởng"
+  },
+  "aware": {
+    "pos": "adj",
+    "vi": "nhận thức"
+  },
+  "backwards": {
+    "pos": "adv",
+    "vi": "ngược lại"
+  },
+  "bake": {
+    "pos": "v",
+    "vi": "nướng"
+  },
+  "balance": {
+    "pos": "n., v",
+    "vi": "THĂNG BẰNG"
+  },
+  "ban": {
+    "pos": "v., n",
+    "vi": "lệnh cấm"
+  },
+  "bank (river)": {
+    "pos": "n",
+    "vi": "bờ (sông)"
+  },
+  "base": {
+    "pos": "n., v",
+    "vi": "căn cứ"
+  },
+  "basic": {
+    "pos": "adj",
+    "vi": "nền tảng"
+  },
+  "basis": {
+    "pos": "n",
+    "vi": "cơ sở"
+  },
+  "battery": {
+    "pos": "n",
+    "vi": "ắc quy"
+  },
+  "beauty": {
+    "pos": "n",
+    "vi": "sắc đẹp"
+  },
+  "bee": {
+    "pos": "n",
+    "vi": "con ong"
+  },
+  "belief": {
+    "pos": "n",
+    "vi": "sự tin tưởng"
+  },
+  "bell": {
+    "pos": "n",
+    "vi": "chuông"
+  },
+  "bend": {
+    "pos": "v., n",
+    "vi": "uốn cong"
+  },
+  "benefit": {
+    "pos": "n, v",
+    "vi": "lợi ích"
+  },
+  "better": {
+    "pos": "adj, adv, n",
+    "vi": "tốt hơn"
+  },
+  "bite": {
+    "pos": "v., n",
+    "vi": "cắn"
+  },
+  "block": {
+    "pos": "n., v",
+    "vi": "khối"
+  },
+  "board": {
+    "pos": "n, v",
+    "vi": "Cái bảng"
+  },
+  "bomb": {
+    "pos": "n., v",
+    "vi": "bom"
+  },
+  "bother": {
+    "pos": "v",
+    "vi": "làm phiền"
+  },
+  "branch": {
+    "pos": "n",
+    "vi": "chi nhánh"
+  },
+  "brand": {
+    "pos": "n., v",
+    "vi": "thương hiệu"
+  },
+  "brave": {
+    "pos": "adj",
+    "vi": "can đảm"
+  },
+  "breath": {
+    "pos": "n",
+    "vi": "hơi thở"
+  },
+  "breathe": {
+    "pos": "v",
+    "vi": "thở"
+  },
+  "breathing": {
+    "pos": "n",
+    "vi": "thở"
+  },
+  "bride": {
+    "pos": "n",
+    "vi": "cô dâu"
+  },
+  "bubble": {
+    "pos": "n",
+    "vi": "bong bóng"
+  },
+  "bury": {
+    "pos": "v",
+    "vi": "chôn"
+  },
+  "by": {
+    "pos": "adv, prep",
+    "vi": "qua"
+  },
+  "calm": {
+    "pos": "adj., v., n",
+    "vi": "điềm tĩnh"
+  },
+  "campaign": {
+    "pos": "n., v",
+    "vi": "chiến dịch"
+  },
+  "campus": {
+    "pos": "n",
+    "vi": "khuôn viên đại học"
+  },
+  "candidate": {
+    "pos": "n",
+    "vi": "ứng viên"
+  },
+  "cap": {
+    "pos": "n",
+    "vi": "mũ lưỡi trai"
+  },
+  "captain": {
+    "pos": "n",
+    "vi": "đội trưởng"
+  },
+  "careless": {
+    "pos": "adj",
+    "vi": "bất cẩn"
+  },
+  "category": {
+    "pos": "n",
+    "vi": "loại"
+  },
+  "ceiling": {
+    "pos": "n",
+    "vi": "trần nhà"
+  },
+  "celebration": {
+    "pos": "n",
+    "vi": "lễ ăn mừng"
+  },
+  "central": {
+    "pos": "adj",
+    "vi": "trung tâm"
+  },
+  "centre": {
+    "pos": "n, v",
+    "vi": "trung tâm"
+  },
+  "ceremony": {
+    "pos": "n",
+    "vi": "lễ"
+  },
+  "champion": {
+    "pos": "n",
+    "vi": "nhà vô địch"
+  },
+  "channel": {
+    "pos": "n",
+    "vi": "kênh"
+  },
+  "chapter": {
+    "pos": "n",
+    "vi": "chương"
+  },
+  "charge": {
+    "pos": "n., v",
+    "vi": "thù lao"
+  },
+  "cheap": {
+    "pos": "adj, adv",
+    "vi": "rẻ"
+  },
+  "cheat": {
+    "pos": "v., n",
+    "vi": "gian lận"
+  },
+  "cheerful": {
+    "pos": "adj",
+    "vi": "vui vẻ"
+  },
+  "chemical": {
+    "pos": "adj., n",
+    "vi": "hóa chất"
+  },
+  "chest": {
+    "pos": "n",
+    "vi": "ngực"
+  },
+  "childhood": {
+    "pos": "n",
+    "vi": "thời thơ ấu"
+  },
+  "claim": {
+    "pos": "v., n",
+    "vi": "khẳng định"
+  },
+  "clause": {
+    "pos": "n",
+    "vi": "điều khoản"
+  },
+  "clear": {
+    "pos": "adj, v",
+    "vi": "thông thoáng"
+  },
+  "click": {
+    "pos": "v., n",
+    "vi": "bấm vào"
+  },
+  "client": {
+    "pos": "n",
+    "vi": "khách hàng"
+  },
+  "climb": {
+    "pos": "n, v",
+    "vi": "leo"
+  },
+  "cloth": {
+    "pos": "n",
+    "vi": "vải"
+  },
+  "clue": {
+    "pos": "n",
+    "vi": "đầu mối"
+  },
+  "coach": {
+    "pos": "n, v",
+    "vi": "huấn luyện viên"
+  },
+  "coal": {
+    "pos": "n",
+    "vi": "than đá"
+  },
+  "coin": {
+    "pos": "n",
+    "vi": "đồng xu"
+  },
+  "collection": {
+    "pos": "n",
+    "vi": "bộ sưu tập"
+  },
+  "coloured": {
+    "pos": "adj",
+    "vi": "màu"
+  },
+  "combine": {
+    "pos": "v",
+    "vi": "kết hợp"
+  },
+  "comment": {
+    "pos": "n, v",
+    "vi": "bình luận"
+  },
+  "commercial": {
+    "pos": "adj., n",
+    "vi": "thuộc về thương mại"
+  },
+  "commit": {
+    "pos": "v",
+    "vi": "làm"
+  },
+  "communication": {
+    "pos": "n",
+    "vi": "giao tiếp"
+  },
+  "comparison": {
+    "pos": "n",
+    "vi": "so sánh"
+  },
+  "competitive": {
+    "pos": "adj",
+    "vi": "cạnh tranh"
+  },
+  "competitor": {
+    "pos": "n",
+    "vi": "đối thủ cạnh tranh"
+  },
+  "complaint": {
+    "pos": "n",
+    "vi": "lời phàn nàn"
+  },
+  "concentrate": {
+    "pos": "v",
+    "vi": "tập trung"
+  },
+  "conclude": {
+    "pos": "v",
+    "vi": "kết luận"
+  },
+  "conclusion": {
+    "pos": "n",
+    "vi": "Phần kết luận"
+  },
+  "confident": {
+    "pos": "adj",
+    "vi": "tự tin"
+  },
+  "confirm": {
+    "pos": "v",
+    "vi": "xác nhận"
+  },
+  "confuse": {
+    "pos": "v",
+    "vi": "bối rối"
+  },
+  "confused": {
+    "pos": "adj",
+    "vi": "bối rối"
+  },
+  "connection": {
+    "pos": "n",
+    "vi": "sự liên quan"
+  },
+  "consequence": {
+    "pos": "n",
+    "vi": "kết quả"
+  },
+  "consist": {
+    "pos": "v",
+    "vi": "bao gồm"
+  },
+  "consume": {
+    "pos": "v",
+    "vi": "tiêu thụ"
+  },
+  "consumer": {
+    "pos": "n",
+    "vi": "người tiêu dùng"
+  },
+  "contact": {
+    "pos": "n., v",
+    "vi": "liên hệ"
+  },
+  "container": {
+    "pos": "n",
+    "vi": "thùng chứa"
+  },
+  "continuous": {
+    "pos": "adj",
+    "vi": "liên tục"
+  },
+  "contrast": {
+    "pos": "n., v",
+    "vi": "sự tương phản"
+  },
+  "convenient": {
+    "pos": "adj",
+    "vi": "thuận lợi"
+  },
+  "convince": {
+    "pos": "v",
+    "vi": "thuyết phục"
+  },
+  "cool": {
+    "pos": "adj, v",
+    "vi": "mát mẻ"
+  },
+  "costume": {
+    "pos": "n",
+    "vi": "trang phục"
+  },
+  "cottage": {
+    "pos": "n",
+    "vi": "ngôi nhà tranh"
+  },
+  "cotton": {
+    "pos": "n",
+    "vi": "bông"
+  },
+  "count": {
+    "pos": "n, v",
+    "vi": "đếm"
+  },
+  "countryside": {
+    "pos": "n",
+    "vi": "nông thôn"
+  },
+  "court": {
+    "pos": "n",
+    "vi": "tòa án"
+  },
+  "cover": {
+    "pos": "n, v",
+    "vi": "che phủ"
+  },
+  "covered": {
+    "pos": "adj",
+    "vi": "che phủ"
+  },
+  "cream": {
+    "pos": "adj, n",
+    "vi": "kem"
+  },
+  "criminal": {
+    "pos": "adj, n",
+    "vi": "tội phạm"
+  },
+  "cruel": {
+    "pos": "adj",
+    "vi": "tàn nhẫn"
+  },
+  "cultural": {
+    "pos": "adj",
+    "vi": "thuộc văn hóa"
+  },
+  "currency": {
+    "pos": "n",
+    "vi": "tiền tệ"
+  },
+  "currently": {
+    "pos": "adv",
+    "vi": "Hiện nay"
+  },
+  "curtain": {
+    "pos": "n",
+    "vi": "tấm màn"
+  },
+  "custom": {
+    "pos": "n",
+    "vi": "phong tục"
+  },
+  "cut": {
+    "pos": "n, v",
+    "vi": "cắt"
+  },
+  "daily": {
+    "pos": "adj, adv",
+    "vi": "hằng ngày"
+  },
+  "damage": {
+    "pos": "n., v",
+    "vi": "hư hại"
+  },
+  "deal": {
+    "pos": "n, v",
+    "vi": "thỏa thuận"
+  },
+  "decade": {
+    "pos": "n",
+    "vi": "thập kỷ"
+  },
+  "decorate": {
+    "pos": "v",
+    "vi": "trang trí"
+  },
+  "deep": {
+    "pos": "adj, adv",
+    "vi": "sâu"
+  },
+  "define": {
+    "pos": "v",
+    "vi": "định nghĩa"
+  },
+  "definite": {
+    "pos": "adj",
+    "vi": "chắc chắn"
+  },
+  "definition": {
+    "pos": "n",
+    "vi": "sự định nghĩa"
+  },
+  "deliver": {
+    "pos": "v",
+    "vi": "giao"
+  },
+  "departure": {
+    "pos": "n",
+    "vi": "sự khởi hành"
+  },
+  "despite": {
+    "pos": "prep",
+    "vi": "cho dù"
+  },
+  "destination": {
+    "pos": "n",
+    "vi": "điểm đến"
+  },
+  "determine": {
+    "pos": "v",
+    "vi": "quyết tâm"
+  },
+  "determined": {
+    "pos": "adj",
+    "vi": "xác định"
+  },
+  "development": {
+    "pos": "n",
+    "vi": "phát triển"
+  },
+  "diagram": {
+    "pos": "n",
+    "vi": "sơ đồ"
+  },
+  "diamond": {
+    "pos": "n",
+    "vi": "kim cương"
+  },
+  "difficulty": {
+    "pos": "n",
+    "vi": "khó khăn"
+  },
+  "direct": {
+    "pos": "adj, adv, v.",
+    "vi": "trực tiếp"
+  },
+  "directly": {
+    "pos": "adv",
+    "vi": "trực tiếp"
+  },
+  "dirt": {
+    "pos": "n",
+    "vi": "bụi bẩn"
+  },
+  "disadvantage": {
+    "pos": "n",
+    "vi": "điều bất lợi"
+  },
+  "disappointed": {
+    "pos": "adj",
+    "vi": "thất vọng"
+  },
+  "disappointing": {
+    "pos": "adj",
+    "vi": "đáng thất vọng"
+  },
+  "dislike": {
+    "pos": "v., n",
+    "vi": "không thích"
+  },
+  "documentary": {
+    "pos": "n",
+    "vi": "phim tài liệu"
+  },
+  "donate": {
+    "pos": "v",
+    "vi": "quyên tặng"
+  },
+  "double": {
+    "pos": "adj., adv, det., pron., v",
+    "vi": "gấp đôi"
+  },
+  "doubt": {
+    "pos": "n., v",
+    "vi": "nghi ngờ"
+  },
+  "dressed": {
+    "pos": "adj",
+    "vi": "mặc quần áo"
+  },
+  "drop": {
+    "pos": "n, v",
+    "vi": "làm rơi"
+  },
+  "drum": {
+    "pos": "n",
+    "vi": "cái trống"
+  },
+  "drunk": {
+    "pos": "adj",
+    "vi": "say rượu"
+  },
+  "due": {
+    "pos": "adj",
+    "vi": "quá hạn"
+  },
+  "dust": {
+    "pos": "n",
+    "vi": "bụi"
+  },
+  "duty": {
+    "pos": "n",
+    "vi": "nhiệm vụ"
+  },
+  "earthquake": {
+    "pos": "n",
+    "vi": "trận động đất"
+  },
+  "eastern": {
+    "pos": "adj",
+    "vi": "phương đông"
+  },
+  "economic": {
+    "pos": "adj",
+    "vi": "thuộc kinh tế"
+  },
+  "economy": {
+    "pos": "n",
+    "vi": "kinh tế"
+  },
+  "edge": {
+    "pos": "n",
+    "vi": "bờ rìa"
+  },
+  "editor": {
+    "pos": "n",
+    "vi": "biên tập viên"
+  },
+  "educate": {
+    "pos": "v",
+    "vi": "giáo dục"
+  },
+  "educated": {
+    "pos": "adj",
+    "vi": "có học thức"
+  },
+  "educational": {
+    "pos": "adj",
+    "vi": "giáo dục"
+  },
+  "effective": {
+    "pos": "adj",
+    "vi": "hiệu quả"
+  },
+  "effectively": {
+    "pos": "adv",
+    "vi": "có hiệu quả"
+  },
+  "effort": {
+    "pos": "n",
+    "vi": "cố gắng"
+  },
+  "election": {
+    "pos": "n",
+    "vi": "cuộc bầu cử"
+  },
+  "element": {
+    "pos": "n",
+    "vi": "yếu tố"
+  },
+  "embarrassed": {
+    "pos": "adj",
+    "vi": "lúng túng"
+  },
+  "embarrassing": {
+    "pos": "adj",
+    "vi": "xấu hổ"
+  },
+  "emergency": {
+    "pos": "n",
+    "vi": "khẩn cấp"
+  },
+  "emotion": {
+    "pos": "n",
+    "vi": "cảm xúc"
+  },
+  "employment": {
+    "pos": "n",
+    "vi": "thuê người làm"
+  },
+  "empty": {
+    "pos": "adj, v",
+    "vi": "trống"
+  },
+  "encourage": {
+    "pos": "v",
+    "vi": "khuyến khích"
+  },
+  "enemy": {
+    "pos": "n",
+    "vi": "kẻ thù"
+  },
+  "engaged": {
+    "pos": "adj",
+    "vi": "đính hôn"
+  },
+  "engineering": {
+    "pos": "n",
+    "vi": "kỹ thuật"
+  },
+  "entertain": {
+    "pos": "v",
+    "vi": "giải trí"
+  },
+  "entertainment": {
+    "pos": "n",
+    "vi": "sự giải trí"
+  },
+  "entrance": {
+    "pos": "n",
+    "vi": "cổng vào"
+  },
+  "entry": {
+    "pos": "n",
+    "vi": "lối vào"
+  },
+  "environmental": {
+    "pos": "adj",
+    "vi": "môi trường"
+  },
+  "episode": {
+    "pos": "n",
+    "vi": "tập phim"
+  },
+  "equally": {
+    "pos": "adv",
+    "vi": "bằng nhau"
+  },
+  "escape": {
+    "pos": "v., n",
+    "vi": "bỏ trốn"
+  },
+  "essential": {
+    "pos": "adj",
+    "vi": "thiết yếu"
+  },
+  "eventually": {
+    "pos": "adv",
+    "vi": "sau cùng"
+  },
+  "examine": {
+    "pos": "v",
+    "vi": "nghiên cứu"
+  },
+  "except": {
+    "pos": "conj, prep",
+    "vi": "ngoại trừ"
+  },
+  "exchange": {
+    "pos": "n., v",
+    "vi": "trao đổi"
+  },
+  "excitement": {
+    "pos": "n",
+    "vi": "sự phấn khích"
+  },
+  "exhibition": {
+    "pos": "n",
+    "vi": "triển lãm"
+  },
+  "expand": {
+    "pos": "v",
+    "vi": "mở rộng"
+  },
+  "expected": {
+    "pos": "adj",
+    "vi": "hy vọng"
+  },
+  "expedition": {
+    "pos": "n",
+    "vi": "cuộc thám hiểm"
+  },
+  "experience": {
+    "pos": "n, v",
+    "vi": "kinh nghiệm"
+  },
+  "experienced": {
+    "pos": "adj",
+    "vi": "có kinh nghiệm"
+  },
+  "experiment": {
+    "pos": "n, v",
+    "vi": "cuộc thí nghiệm"
+  },
+  "explode": {
+    "pos": "v",
+    "vi": "nổ tung"
+  },
+  "explore": {
+    "pos": "v",
+    "vi": "khám phá"
+  },
+  "explosion": {
+    "pos": "n",
+    "vi": "vụ nổ"
+  },
+  "export": {
+    "pos": "n., v",
+    "vi": "xuất khẩu"
+  },
+  "extra": {
+    "pos": "adj, adv, n.",
+    "vi": "thêm"
+  },
+  "face": {
+    "pos": "n, v",
+    "vi": "khuôn mặt"
+  },
+  "fairly": {
+    "pos": "adv",
+    "vi": "khá"
+  },
+  "familiar": {
+    "pos": "adj",
+    "vi": "thân thuộc"
+  },
+  "fancy": {
+    "pos": "v., adj",
+    "vi": "si mê"
+  },
+  "far": {
+    "pos": "adj, adv",
+    "vi": "xa"
+  },
+  "fascinating": {
+    "pos": "adj",
+    "vi": "lôi cuốn"
+  },
+  "fashionable": {
+    "pos": "adj",
+    "vi": "hợp thời trang"
+  },
+  "fasten": {
+    "pos": "v",
+    "vi": "buộc chặt"
+  },
+  "fear": {
+    "pos": "n, v",
+    "vi": "nỗi sợ"
+  },
+  "feature": {
+    "pos": "n, v",
+    "vi": "tính năng"
+  },
+  "fence": {
+    "pos": "n",
+    "vi": "hàng rào"
+  },
+  "fighting": {
+    "pos": "n",
+    "vi": "Chiến đấu"
+  },
+  "financial": {
+    "pos": "adj",
+    "vi": "tài chính"
+  },
+  "fire": {
+    "pos": "n, v",
+    "vi": "ngọn lửa"
+  },
+  "fitness": {
+    "pos": "n",
+    "vi": "sự thích hợp"
+  },
+  "fixed": {
+    "pos": "adj",
+    "vi": "đã sửa"
+  },
+  "flag": {
+    "pos": "n",
+    "vi": "lá cờ"
+  },
+  "flood": {
+    "pos": "n., v",
+    "vi": "lụt"
+  },
+  "flour": {
+    "pos": "n",
+    "vi": "bột mì"
+  },
+  "flow": {
+    "pos": "v., n",
+    "vi": "chảy"
+  },
+  "folk": {
+    "pos": "n., adj",
+    "vi": "dân gian"
+  },
+  "force": {
+    "pos": "n., v",
+    "vi": "lực lượng"
+  },
+  "forever": {
+    "pos": "adv",
+    "vi": "mãi mãi"
+  },
+  "frame": {
+    "pos": "n., v",
+    "vi": "khung"
+  },
+  "freeze": {
+    "pos": "v",
+    "vi": "đông cứng"
+  },
+  "frequently": {
+    "pos": "adv",
+    "vi": "thường xuyên"
+  },
+  "friendship": {
+    "pos": "n",
+    "vi": "tình bạn"
+  },
+  "frighten": {
+    "pos": "v",
+    "vi": "làm sợ hãi"
+  },
+  "frightened": {
+    "pos": "adj",
+    "vi": "sợ sệt"
+  },
+  "frightening": {
+    "pos": "adj",
+    "vi": "đáng sợ"
+  },
+  "frozen": {
+    "pos": "adj",
+    "vi": "đông lạnh"
+  },
+  "fry": {
+    "pos": "v",
+    "vi": "chiên rán"
+  },
+  "fur": {
+    "pos": "n",
+    "vi": "lông thú"
+  },
+  "further": {
+    "pos": "adj, adv",
+    "vi": "hơn nữa"
+  },
+  "garage": {
+    "pos": "n",
+    "vi": "ga-ra"
+  },
+  "gather": {
+    "pos": "v",
+    "vi": "tập trung"
+  },
+  "generally": {
+    "pos": "adv",
+    "vi": "nói chung là"
+  },
+  "generation": {
+    "pos": "n",
+    "vi": "thế hệ"
+  },
+  "generous": {
+    "pos": "adj",
+    "vi": "hào phóng"
+  },
+  "gentle": {
+    "pos": "adj",
+    "vi": "dịu dàng"
+  },
+  "gentleman": {
+    "pos": "n",
+    "vi": "quý ông"
+  },
+  "ghost": {
+    "pos": "n",
+    "vi": "bóng ma"
+  },
+  "giant": {
+    "pos": "adj., n",
+    "vi": "người khổng lồ"
+  },
+  "glad": {
+    "pos": "adj",
+    "vi": "vui mừng"
+  },
+  "global": {
+    "pos": "adj",
+    "vi": "toàn cầu"
+  },
+  "glove": {
+    "pos": "n",
+    "vi": "găng tay"
+  },
+  "go": {
+    "pos": "n, v",
+    "vi": "đi"
+  },
+  "goods": {
+    "pos": "n",
+    "vi": "hàng hóa"
+  },
+  "graduate": {
+    "pos": "n., v",
+    "vi": "tốt nghiệp"
+  },
+  "grain": {
+    "pos": "n",
+    "vi": "ngũ cốc"
+  },
+  "grateful": {
+    "pos": "adj",
+    "vi": "tri ân"
+  },
+  "growth": {
+    "pos": "n",
+    "vi": "sự phát triển"
+  },
+  "guard": {
+    "pos": "n., v",
+    "vi": "canh gác"
+  },
+  "guilty": {
+    "pos": "adj",
+    "vi": "tội lỗi"
+  },
+  "hand": {
+    "pos": "n, v",
+    "vi": "tay"
+  },
+  "hang": {
+    "pos": "v",
+    "vi": "treo"
+  },
+  "happiness": {
+    "pos": "n",
+    "vi": "niềm hạnh phúc"
+  },
+  "hardly": {
+    "pos": "adv",
+    "vi": "khắc nghiệt"
+  },
+  "hate": {
+    "pos": "n, v",
+    "vi": "ghét"
+  },
+  "head": {
+    "pos": "n, v",
+    "vi": "cái đầu"
+  },
+  "headline": {
+    "pos": "n",
+    "vi": "tiêu đề"
+  },
+  "heating": {
+    "pos": "n",
+    "vi": "sưởi ấm"
+  },
+  "heavily": {
+    "pos": "adv",
+    "vi": "nặng nề"
+  },
+  "helicopter": {
+    "pos": "n",
+    "vi": "trực thăng"
+  },
+  "highlight": {
+    "pos": "v., n",
+    "vi": "điểm nổi bật"
+  },
+  "highly": {
+    "pos": "adv",
+    "vi": "đánh giá cao"
+  },
+  "historic": {
+    "pos": "adj",
+    "vi": "mang tính lịch sử"
+  },
+  "historical": {
+    "pos": "adj",
+    "vi": "lịch sử"
+  },
+  "honest": {
+    "pos": "adj",
+    "vi": "trung thực"
+  },
+  "horrible": {
+    "pos": "adj",
+    "vi": "tệ hại"
+  },
+  "horror": {
+    "pos": "n",
+    "vi": "kinh dị"
+  },
+  "hurricane": {
+    "pos": "n",
+    "vi": "cơn bão"
+  },
+  "hurry": {
+    "pos": "n., v",
+    "vi": "sự vội vàng"
+  },
+  "identity": {
+    "pos": "n",
+    "vi": "danh tính"
+  },
+  "ignore": {
+    "pos": "v",
+    "vi": "phớt lờ"
+  },
+  "illegal": {
+    "pos": "adj",
+    "vi": "bất hợp pháp"
+  },
+  "imaginary": {
+    "pos": "adj",
+    "vi": "tưởng tượng"
+  },
+  "immediate": {
+    "pos": "adj",
+    "vi": "ngay lập tức"
+  },
+  "immigrant": {
+    "pos": "n",
+    "vi": "người nhập cư"
+  },
+  "impact": {
+    "pos": "n., v",
+    "vi": "sự va chạm"
+  },
+  "import": {
+    "pos": "n., v",
+    "vi": "nhập khẩu"
+  },
+  "importance": {
+    "pos": "n",
+    "vi": "tầm quan trọng"
+  },
+  "impression": {
+    "pos": "n",
+    "vi": "ấn tượng"
+  },
+  "impressive": {
+    "pos": "adj",
+    "vi": "ấn tượng"
+  },
+  "improvement": {
+    "pos": "n",
+    "vi": "sự cải tiến"
+  },
+  "incredibly": {
+    "pos": "adv",
+    "vi": "vô cùng"
+  },
+  "indeed": {
+    "pos": "adv",
+    "vi": "thực vậy"
+  },
+  "indicate": {
+    "pos": "v",
+    "vi": "biểu thị"
+  },
+  "indirect": {
+    "pos": "adj",
+    "vi": "gián tiếp"
+  },
+  "indoor": {
+    "pos": "adj",
+    "vi": "trong nhà"
+  },
+  "indoors": {
+    "pos": "adv",
+    "vi": "trong nhà"
+  },
+  "influence": {
+    "pos": "n., v",
+    "vi": "ảnh hưởng"
+  },
+  "ingredient": {
+    "pos": "n",
+    "vi": "nguyên liệu"
+  },
+  "injure": {
+    "pos": "v",
+    "vi": "làm tổn thương"
+  },
+  "injured": {
+    "pos": "adj",
+    "vi": "bị thương"
+  },
+  "innocent": {
+    "pos": "adj",
+    "vi": "vô tội"
+  },
+  "intelligence": {
+    "pos": "n",
+    "vi": "trí thông minh"
+  },
+  "intend": {
+    "pos": "v",
+    "vi": "có ý định"
+  },
+  "intention": {
+    "pos": "n",
+    "vi": "chủ đích"
+  },
+  "invest": {
+    "pos": "v",
+    "vi": "đầu tư"
+  },
+  "investigate": {
+    "pos": "v",
+    "vi": "khảo sát"
+  },
+  "involved": {
+    "pos": "adj",
+    "vi": "có liên quan"
+  },
+  "iron": {
+    "pos": "n., v",
+    "vi": "sắt"
+  },
+  "it": {
+    "pos": "n, pron",
+    "vi": "Nó"
+  },
+  "journal": {
+    "pos": "n",
+    "vi": "tạp chí"
+  },
+  "judge": {
+    "pos": "n., v",
+    "vi": "phán xét"
+  },
+  "keen": {
+    "pos": "adj",
+    "vi": "sắc sảo"
+  },
+  "key": {
+    "pos": "adj, n., v",
+    "vi": "chìa khóa"
+  },
+  "keyboard": {
+    "pos": "n",
+    "vi": "bàn phím"
+  },
+  "kick": {
+    "pos": "v., n",
+    "vi": "đá"
+  },
+  "killing": {
+    "pos": "n",
+    "vi": "giết chóc"
+  },
+  "kind (caring)": {
+    "pos": "adj",
+    "vi": "tốt bụng (quan tâm)"
+  },
+  "kiss": {
+    "pos": "v., n",
+    "vi": "hôn"
+  },
+  "knock": {
+    "pos": "n, v",
+    "vi": "cú đánh"
+  },
+  "label": {
+    "pos": "n., v",
+    "vi": "nhãn"
+  },
+  "laboratory": {
+    "pos": "n",
+    "vi": "phòng thí nghiệm"
+  },
+  "lack": {
+    "pos": "n., v",
+    "vi": "thiếu"
+  },
+  "lay": {
+    "pos": "v",
+    "vi": "đặt nằm"
+  },
+  "layer": {
+    "pos": "n",
+    "vi": "lớp"
+  },
+  "lead": {
+    "pos": "n, v",
+    "vi": "chỉ huy"
+  },
+  "leading": {
+    "pos": "adj",
+    "vi": "dẫn đầu"
+  },
+  "leaf": {
+    "pos": "n",
+    "vi": "lá cây"
+  },
+  "leather": {
+    "pos": "n",
+    "vi": "da thú"
+  },
+  "legal": {
+    "pos": "adj",
+    "vi": "hợp pháp"
+  },
+  "leisure": {
+    "pos": "n",
+    "vi": "thời gian rảnh rỗi"
+  },
+  "length": {
+    "pos": "n",
+    "vi": "chiều dài"
+  },
+  "lie (tell a lie)": {
+    "pos": "v., n",
+    "vi": "nói dối (nói dối)"
+  },
+  "like (find sb/sth pleasant)": {
+    "pos": "n, v",
+    "vi": "thích (thấy ai đó dễ chịu)"
+  },
+  "limit": {
+    "pos": "n., v",
+    "vi": "giới hạn"
+  },
+  "lip": {
+    "pos": "n",
+    "vi": "môi"
+  },
+  "liquid": {
+    "pos": "n., adj",
+    "vi": "chất lỏng"
+  },
+  "literature": {
+    "pos": "n",
+    "vi": "văn học"
+  },
+  "live": {
+    "pos": "adj., adv, v",
+    "vi": "sống"
+  },
+  "living": {
+    "pos": "adj., n",
+    "vi": "cuộc sống"
+  },
+  "local": {
+    "pos": "adj, n",
+    "vi": "địa phương"
+  },
+  "locate": {
+    "pos": "v",
+    "vi": "xác định vị trí"
+  },
+  "located": {
+    "pos": "adj",
+    "vi": "xác định vị trí"
+  },
+  "location": {
+    "pos": "n",
+    "vi": "vị trí"
+  },
+  "lonely": {
+    "pos": "adj",
+    "vi": "cô đơn"
+  },
+  "loss": {
+    "pos": "n",
+    "vi": "sự mất mát"
+  },
+  "luxury": {
+    "pos": "n",
+    "vi": "sang trọng"
+  },
+  "mad": {
+    "pos": "adj",
+    "vi": "điên rồ"
+  },
+  "magic": {
+    "pos": "n., adj",
+    "vi": "ảo thuật"
+  },
+  "mainly": {
+    "pos": "adv",
+    "vi": "chủ yếu"
+  },
+  "mall": {
+    "pos": "n",
+    "vi": "trung tâm mua sắm"
+  },
+  "management": {
+    "pos": "n",
+    "vi": "sự quản lý"
+  },
+  "market": {
+    "pos": "n, v",
+    "vi": "chợ"
+  },
+  "marketing": {
+    "pos": "n",
+    "vi": "tiếp thị"
+  },
+  "marriage": {
+    "pos": "n",
+    "vi": "kết hôn"
+  },
+  "meanwhile": {
+    "pos": "adv",
+    "vi": "trong khi đó"
+  },
+  "measure": {
+    "pos": "v., n",
+    "vi": "đo lường"
+  },
+  "mental": {
+    "pos": "adj",
+    "vi": "tâm thần"
+  },
+  "mention": {
+    "pos": "n, v",
+    "vi": "đề cập đến"
+  },
+  "mess": {
+    "pos": "n",
+    "vi": "sự lộn xộn"
+  },
+  "mild": {
+    "pos": "adj",
+    "vi": "nhẹ"
+  },
+  "mine (hole in the ground)": {
+    "pos": "n",
+    "vi": "mỏ (lỗ trên mặt đất)"
+  },
+  "mix": {
+    "pos": "v., n",
+    "vi": "trộn"
+  },
+  "mixture": {
+    "pos": "n",
+    "vi": "hỗn hợp"
+  },
+  "mood": {
+    "pos": "n",
+    "vi": "tâm trạng"
+  },
+  "move": {
+    "pos": "n, v",
+    "vi": "di chuyển"
+  },
+  "mud": {
+    "pos": "n",
+    "vi": "bùn"
+  },
+  "murder": {
+    "pos": "n., v",
+    "vi": "giết người"
+  },
+  "muscle": {
+    "pos": "n",
+    "vi": "cơ bắp"
+  },
+  "musical": {
+    "pos": "adj, n",
+    "vi": "âm nhạc"
+  },
+  "mystery": {
+    "pos": "n",
+    "vi": "bí ẩn"
+  },
+  "nail": {
+    "pos": "n",
+    "vi": "móng tay"
+  },
+  "narrative": {
+    "pos": "n., adj",
+    "vi": "chuyện kể"
+  },
+  "nation": {
+    "pos": "n",
+    "vi": "Quốc gia"
+  },
+  "native": {
+    "pos": "adj., n",
+    "vi": "tự nhiên"
+  },
+  "naturally": {
+    "pos": "adv",
+    "vi": "một cách tự nhiên"
+  },
+  "necessarily": {
+    "pos": "adv",
+    "vi": "nhất thiết"
+  },
+  "need": {
+    "pos": "modal v, n, v",
+    "vi": "nhu cầu"
+  },
+  "needle": {
+    "pos": "n",
+    "vi": "cây kim"
+  },
+  "neighbourhood": {
+    "pos": "n",
+    "vi": "hàng xóm"
+  },
+  "neither": {
+    "pos": "adv, det./pron",
+    "vi": "không"
+  },
+  "next": {
+    "pos": "adj., adv, n",
+    "vi": "Kế tiếp"
+  },
+  "nor": {
+    "pos": "conj./adv",
+    "vi": "cũng không"
+  },
+  "normal": {
+    "pos": "adj, n",
+    "vi": "Bình thường"
+  },
+  "northern": {
+    "pos": "adj",
+    "vi": "phương bắc"
+  },
+  "note": {
+    "pos": "n, v",
+    "vi": "ghi chú"
+  },
+  "now": {
+    "pos": "adv, conj",
+    "vi": "Hiện nay"
+  },
+  "nuclear": {
+    "pos": "adj",
+    "vi": "hạt nhân"
+  },
+  "obvious": {
+    "pos": "adj",
+    "vi": "rõ ràng"
+  },
+  "obviously": {
+    "pos": "adv",
+    "vi": "rõ ràng"
+  },
+  "occasion": {
+    "pos": "n",
+    "vi": "dịp"
+  },
+  "occur": {
+    "pos": "v",
+    "vi": "xảy ra"
+  },
+  "odd": {
+    "pos": "adj",
+    "vi": "số lẻ"
+  },
+  "old-fashioned": {
+    "pos": "adj",
+    "vi": "theo xưa"
+  },
+  "once": {
+    "pos": "adv, conj",
+    "vi": "một lần"
+  },
+  "operation": {
+    "pos": "n",
+    "vi": "hoạt động"
+  },
+  "organized": {
+    "pos": "adj",
+    "vi": "được tổ chức"
+  },
+  "organizer": {
+    "pos": "n",
+    "vi": "người tổ chức"
+  },
+  "original": {
+    "pos": "adj, n",
+    "vi": "nguyên bản"
+  },
+  "originally": {
+    "pos": "adv",
+    "vi": "ban đầu"
+  },
+  "ought": {
+    "pos": "modal v",
+    "vi": "nên"
+  },
+  "ours": {
+    "pos": "pron",
+    "vi": "của chúng tôi"
+  },
+  "outdoor": {
+    "pos": "adj",
+    "vi": "ngoài trời"
+  },
+  "outdoors": {
+    "pos": "adv",
+    "vi": "ngoài trời"
+  },
+  "pack": {
+    "pos": "n, v",
+    "vi": "đóng gói"
+  },
+  "painful": {
+    "pos": "adj",
+    "vi": "đau đớn"
+  },
+  "pale": {
+    "pos": "adj",
+    "vi": "tái nhợt"
+  },
+  "pan": {
+    "pos": "n",
+    "vi": "chảo"
+  },
+  "participate": {
+    "pos": "v",
+    "vi": "tham gia"
+  },
+  "particularly": {
+    "pos": "adv",
+    "vi": "cụ thể"
+  },
+  "pass": {
+    "pos": "n, v",
+    "vi": "vượt qua"
+  },
+  "passion": {
+    "pos": "n",
+    "vi": "niềm đam mê"
+  },
+  "path": {
+    "pos": "n",
+    "vi": "con đường"
+  },
+  "payment": {
+    "pos": "n",
+    "vi": "sự chi trả"
+  },
+  "peaceful": {
+    "pos": "adj",
+    "vi": "hoà bình"
+  },
+  "percentage": {
+    "pos": "n",
+    "vi": "phần trăm"
+  },
+  "perfectly": {
+    "pos": "adv",
+    "vi": "hoàn hảo"
+  },
+  "performance": {
+    "pos": "n",
+    "vi": "hiệu suất"
+  },
+  "personally": {
+    "pos": "adv",
+    "vi": "cá nhân"
+  },
+  "persuade": {
+    "pos": "v",
+    "vi": "thuyết phục"
+  },
+  "photographer": {
+    "pos": "n",
+    "vi": "nhiếp ảnh gia"
+  },
+  "photography": {
+    "pos": "n",
+    "vi": "nhiếp ảnh"
+  },
+  "pin": {
+    "pos": "n., v",
+    "vi": "ghim"
+  },
+  "pipe": {
+    "pos": "n",
+    "vi": "đường ống"
+  },
+  "place": {
+    "pos": "n, v",
+    "vi": "địa điểm"
+  },
+  "planning": {
+    "pos": "n",
+    "vi": "lập kế hoạch"
+  },
+  "pleasant": {
+    "pos": "adj",
+    "vi": "dễ thương"
+  },
+  "pleasure": {
+    "pos": "n",
+    "vi": "vinh hạnh"
+  },
+  "plenty": {
+    "pos": "pron",
+    "vi": "nhiều"
+  },
+  "poem": {
+    "pos": "n",
+    "vi": "bài thơ"
+  },
+  "poet": {
+    "pos": "n",
+    "vi": "nhà thơ"
+  },
+  "poetry": {
+    "pos": "n",
+    "vi": "thơ ca"
+  },
+  "point": {
+    "pos": "n, v",
+    "vi": "điểm"
+  },
+  "poison": {
+    "pos": "n., v",
+    "vi": "chất độc"
+  },
+  "poisonous": {
+    "pos": "adj",
+    "vi": "chất độc"
+  },
+  "policy": {
+    "pos": "n",
+    "vi": "chính sách"
+  },
+  "political": {
+    "pos": "adj",
+    "vi": "thuộc về chính trị"
+  },
+  "politician": {
+    "pos": "n",
+    "vi": "chính trị gia"
+  },
+  "politics": {
+    "pos": "n",
+    "vi": "chính trị"
+  },
+  "port": {
+    "pos": "n",
+    "vi": "hải cảng"
+  },
+  "portrait": {
+    "pos": "n",
+    "vi": "chân dung"
+  },
+  "possibly": {
+    "pos": "adv",
+    "vi": "có thể"
+  },
+  "pot": {
+    "pos": "n",
+    "vi": "cái nồi"
+  },
+  "pour": {
+    "pos": "v",
+    "vi": "đổ"
+  },
+  "poverty": {
+    "pos": "n",
+    "vi": "nghèo"
+  },
+  "powder": {
+    "pos": "n",
+    "vi": "bột"
+  },
+  "powerful": {
+    "pos": "adj",
+    "vi": "mạnh mẽ"
+  },
+  "practical": {
+    "pos": "adj",
+    "vi": "thực tế"
+  },
+  "pray": {
+    "pos": "v",
+    "vi": "cầu nguyện"
+  },
+  "prayer": {
+    "pos": "n",
+    "vi": "cầu nguyện"
+  },
+  "prediction": {
+    "pos": "n",
+    "vi": "dự đoán"
+  },
+  "prepared": {
+    "pos": "adj",
+    "vi": "chuẩn bị"
+  },
+  "presentation": {
+    "pos": "n",
+    "vi": "bài thuyết trình"
+  },
+  "press": {
+    "pos": "n., v",
+    "vi": "nhấn"
+  },
+  "pressure": {
+    "pos": "n",
+    "vi": "áp lực"
+  },
+  "pretend": {
+    "pos": "v",
+    "vi": "giả vờ"
+  },
+  "previous": {
+    "pos": "adj",
+    "vi": "trước"
+  },
+  "previously": {
+    "pos": "adv",
+    "vi": "trước đây"
+  },
+  "priest": {
+    "pos": "n",
+    "vi": "linh mục"
+  },
+  "primary": {
+    "pos": "adj",
+    "vi": "sơ đẳng"
+  },
+  "prince": {
+    "pos": "n",
+    "vi": "hoàng tử"
+  },
+  "princess": {
+    "pos": "n",
+    "vi": "công chúa"
+  },
+  "printing": {
+    "pos": "n",
+    "vi": "in ấn"
+  },
+  "prisoner": {
+    "pos": "n",
+    "vi": "tù nhân"
+  },
+  "private": {
+    "pos": "adj",
+    "vi": "riêng tư"
+  },
+  "producer": {
+    "pos": "n",
+    "vi": "nhà sản xuất"
+  },
+  "production": {
+    "pos": "n",
+    "vi": "sản xuất"
+  },
+  "profession": {
+    "pos": "n",
+    "vi": "nghề nghiệp"
+  },
+  "profit": {
+    "pos": "n",
+    "vi": "lợi nhuận"
+  },
+  "program": {
+    "pos": "n, v",
+    "vi": "chương trình"
+  },
+  "promote": {
+    "pos": "v",
+    "vi": "khuyến khích"
+  },
+  "proper": {
+    "pos": "adj",
+    "vi": "thích hợp"
+  },
+  "properly": {
+    "pos": "adv",
+    "vi": "đúng cách"
+  },
+  "property": {
+    "pos": "n",
+    "vi": "tài sản"
+  },
+  "protest": {
+    "pos": "n., v",
+    "vi": "phản kháng"
+  },
+  "proud": {
+    "pos": "adj",
+    "vi": "tự hào"
+  },
+  "prove": {
+    "pos": "v",
+    "vi": "chứng minh"
+  },
+  "pull": {
+    "pos": "n, v",
+    "vi": "sự lôi kéo"
+  },
+  "punish": {
+    "pos": "v",
+    "vi": "trừng phạt"
+  },
+  "punishment": {
+    "pos": "n",
+    "vi": "hình phạt"
+  },
+  "push": {
+    "pos": "n, v",
+    "vi": "xô"
+  },
+  "qualification": {
+    "pos": "n",
+    "vi": "trình độ chuyên môn"
+  },
+  "qualified": {
+    "pos": "adj",
+    "vi": "đạt tiêu chuẩn"
+  },
+  "qualify": {
+    "pos": "v",
+    "vi": "đủ điều kiện"
+  },
+  "queue": {
+    "pos": "n., v",
+    "vi": "xếp hàng"
+  },
+  "quit": {
+    "pos": "v",
+    "vi": "từ bỏ"
+  },
+  "quotation": {
+    "pos": "n",
+    "vi": "Trích dẫn"
+  },
+  "quote": {
+    "pos": "v., n",
+    "vi": "trích dẫn"
+  },
+  "race (people)": {
+    "pos": "n",
+    "vi": "chủng tộc (người)"
+  },
+  "racing": {
+    "pos": "n",
+    "vi": "cuộc đua"
+  },
+  "rare": {
+    "pos": "adj",
+    "vi": "hiếm"
+  },
+  "rarely": {
+    "pos": "adv",
+    "vi": "hiếm khi"
+  },
+  "reaction": {
+    "pos": "n",
+    "vi": "sự phản ứng lại"
+  },
+  "reality": {
+    "pos": "n",
+    "vi": "thực tế"
+  },
+  "receipt": {
+    "pos": "n",
+    "vi": "biên lai"
+  },
+  "recommendation": {
+    "pos": "n",
+    "vi": "sự giới thiệu"
+  },
+  "reference": {
+    "pos": "n",
+    "vi": "thẩm quyền giải quyết"
+  },
+  "reflect": {
+    "pos": "v",
+    "vi": "phản ánh"
+  },
+  "regularly": {
+    "pos": "adv",
+    "vi": "thường xuyên"
+  },
+  "reject": {
+    "pos": "v",
+    "vi": "từ chối"
+  },
+  "relate": {
+    "pos": "v",
+    "vi": "liên quan"
+  },
+  "related": {
+    "pos": "adj",
+    "vi": "có liên quan"
+  },
+  "relation": {
+    "pos": "n",
+    "vi": "mối quan hệ"
+  },
+  "relative": {
+    "pos": "adj., n",
+    "vi": "liên quan đến"
+  },
+  "relaxed": {
+    "pos": "adj",
+    "vi": "thư giãn"
+  },
+  "relaxing": {
+    "pos": "adj",
+    "vi": "thư giãn"
+  },
+  "release": {
+    "pos": "v., n",
+    "vi": "giải phóng"
+  },
+  "reliable": {
+    "pos": "adj",
+    "vi": "đáng tin cậy"
+  },
+  "religion": {
+    "pos": "n",
+    "vi": "tôn giáo"
+  },
+  "religious": {
+    "pos": "adj",
+    "vi": "tôn giáo"
+  },
+  "remain": {
+    "pos": "v",
+    "vi": "duy trì"
+  },
+  "remind": {
+    "pos": "v",
+    "vi": "nhắc lại"
+  },
+  "remote": {
+    "pos": "adj",
+    "vi": "xa"
+  },
+  "rent": {
+    "pos": "n., v",
+    "vi": "thuê"
+  },
+  "repair": {
+    "pos": "n, v",
+    "vi": "Sửa chữa"
+  },
+  "repeat": {
+    "pos": "n, v",
+    "vi": "lặp lại"
+  },
+  "repeated": {
+    "pos": "adj",
+    "vi": "lặp đi lặp lại"
+  },
+  "represent": {
+    "pos": "v",
+    "vi": "đại diện"
+  },
+  "request": {
+    "pos": "n, v",
+    "vi": "lời yêu cầu"
+  },
+  "require": {
+    "pos": "v",
+    "vi": "yêu cầu"
+  },
+  "reservation": {
+    "pos": "n",
+    "vi": "sự đặt chỗ"
+  },
+  "resource": {
+    "pos": "n",
+    "vi": "tài nguyên"
+  },
+  "respect": {
+    "pos": "n., v",
+    "vi": "sự tôn trọng"
+  },
+  "responsibility": {
+    "pos": "n",
+    "vi": "trách nhiệm"
+  },
+  "responsible": {
+    "pos": "adj",
+    "vi": "chịu trách nhiệm"
+  },
+  "result": {
+    "pos": "n, v",
+    "vi": "kết quả"
+  },
+  "retire": {
+    "pos": "v",
+    "vi": "về hưu"
+  },
+  "retired": {
+    "pos": "adj",
+    "vi": "đã nghỉ hưu"
+  },
+  "revise": {
+    "pos": "v",
+    "vi": "ôn lại"
+  },
+  "ring": {
+    "pos": "n, v",
+    "vi": "nhẫn"
+  },
+  "rise": {
+    "pos": "n, v",
+    "vi": "tăng lên"
+  },
+  "risk": {
+    "pos": "n., v",
+    "vi": "rủi ro"
+  },
+  "robot": {
+    "pos": "n",
+    "vi": "người máy"
+  },
+  "roll": {
+    "pos": "v., n",
+    "vi": "cuộn"
+  },
+  "romantic": {
+    "pos": "adj",
+    "vi": "lãng mạn"
+  },
+  "rope": {
+    "pos": "n",
+    "vi": "dây thừng"
+  },
+  "rough": {
+    "pos": "adj",
+    "vi": "thô"
+  },
+  "row": {
+    "pos": "n",
+    "vi": "hàng ngang"
+  },
+  "royal": {
+    "pos": "adj",
+    "vi": "hoàng gia"
+  },
+  "rugby": {
+    "pos": "n",
+    "vi": "bóng bầu dục"
+  },
+  "rule": {
+    "pos": "n, v",
+    "vi": "luật lệ"
+  },
+  "safety": {
+    "pos": "n",
+    "vi": "sự an toàn"
+  },
+  "sail": {
+    "pos": "n, v",
+    "vi": "chèo"
+  },
+  "sailor": {
+    "pos": "n",
+    "vi": "thủy thủ"
+  },
+  "sand": {
+    "pos": "n",
+    "vi": "cát"
+  },
+  "scan": {
+    "pos": "v",
+    "vi": "quét"
+  },
+  "scientific": {
+    "pos": "adj",
+    "vi": "có tính khoa học"
+  },
+  "script": {
+    "pos": "n",
+    "vi": "kịch bản"
+  },
+  "sculpture": {
+    "pos": "n",
+    "vi": "điêu khắc"
+  },
+  "secondary": {
+    "pos": "adj",
+    "vi": "sơ trung"
+  },
+  "security": {
+    "pos": "n",
+    "vi": "bảo vệ"
+  },
+  "seed": {
+    "pos": "n",
+    "vi": "hạt giống"
+  },
+  "sensible": {
+    "pos": "adj",
+    "vi": "hợp lý"
+  },
+  "separate": {
+    "pos": "adj, v",
+    "vi": "chia"
+  },
+  "seriously": {
+    "pos": "adv",
+    "vi": "nghiêm túc"
+  },
+  "servant": {
+    "pos": "n",
+    "vi": "người hầu"
+  },
+  "set (group)": {
+    "pos": "n",
+    "vi": "tập hợp (nhóm)"
+  },
+  "set (put)": {
+    "pos": "v",
+    "vi": "đặt (đặt)"
+  },
+  "setting": {
+    "pos": "n",
+    "vi": "cài đặt"
+  },
+  "sex": {
+    "pos": "n",
+    "vi": "tình dục"
+  },
+  "sexual": {
+    "pos": "adj",
+    "vi": "tình dục"
+  },
+  "shake": {
+    "pos": "n, v",
+    "vi": "lắc"
+  },
+  "share": {
+    "pos": "n, v",
+    "vi": "chia sẻ"
+  },
+  "sharp": {
+    "pos": "adj",
+    "vi": "sắc"
+  },
+  "shelf": {
+    "pos": "n",
+    "vi": "cái kệ"
+  },
+  "shell": {
+    "pos": "n",
+    "vi": "vỏ bọc"
+  },
+  "shine": {
+    "pos": "v",
+    "vi": "chiếu sáng"
+  },
+  "shiny": {
+    "pos": "adj",
+    "vi": "sáng bóng"
+  },
+  "shy": {
+    "pos": "adj",
+    "vi": "xấu hổ"
+  },
+  "sight": {
+    "pos": "n",
+    "vi": "thị giác"
+  },
+  "signal": {
+    "pos": "n., v",
+    "vi": "tín hiệu"
+  },
+  "silent": {
+    "pos": "adj",
+    "vi": "im lặng"
+  },
+  "silly": {
+    "pos": "adj",
+    "vi": "ngớ ngẩn"
+  },
+  "similarity": {
+    "pos": "n",
+    "vi": "sự giống nhau"
+  },
+  "similarly": {
+    "pos": "adv",
+    "vi": "tương tự"
+  },
+  "simply": {
+    "pos": "adv",
+    "vi": "đơn giản"
+  },
+  "since": {
+    "pos": "adv, conj, prep.",
+    "vi": "từ"
+  },
+  "sink": {
+    "pos": "v",
+    "vi": "bồn rửa"
+  },
+  "slice": {
+    "pos": "n., v",
+    "vi": "lát cắt"
+  },
+  "slightly": {
+    "pos": "adv",
+    "vi": "nhẹ nhàng"
+  },
+  "slow": {
+    "pos": "adj, v",
+    "vi": "chậm"
+  },
+  "smart": {
+    "pos": "adj",
+    "vi": "thông minh"
+  },
+  "smooth": {
+    "pos": "adj",
+    "vi": "trơn tru"
+  },
+  "software": {
+    "pos": "n",
+    "vi": "phần mềm"
+  },
+  "soil": {
+    "pos": "n",
+    "vi": "đất"
+  },
+  "solid": {
+    "pos": "adj., n",
+    "vi": "chất rắn"
+  },
+  "sort": {
+    "pos": "n, v",
+    "vi": "loại"
+  },
+  "southern": {
+    "pos": "adj",
+    "vi": "miền nam"
+  },
+  "specifically": {
+    "pos": "adv",
+    "vi": "cụ thể"
+  },
+  "spending": {
+    "pos": "n",
+    "vi": "chi tiêu"
+  },
+  "spicy": {
+    "pos": "adj",
+    "vi": "cay"
+  },
+  "spirit": {
+    "pos": "n",
+    "vi": "tinh thần"
+  },
+  "spoken": {
+    "pos": "adj",
+    "vi": "nói"
+  },
+  "spring": {
+    "pos": "n, v",
+    "vi": "mùa xuân"
+  },
+  "stadium": {
+    "pos": "n",
+    "vi": "sân vận động"
+  },
+  "staff": {
+    "pos": "n",
+    "vi": "nhân viên"
+  },
+  "standard": {
+    "pos": "n., adj",
+    "vi": "tiêu chuẩn"
+  },
+  "state": {
+    "pos": "adj., n, v",
+    "vi": "tình trạng"
+  },
+  "statistic": {
+    "pos": "n",
+    "vi": "thống kê"
+  },
+  "statue": {
+    "pos": "n",
+    "vi": "bức tượng"
+  },
+  "stick (piece of wood)": {
+    "pos": "n",
+    "vi": "gậy (mảnh gỗ)"
+  },
+  "stick (push into/attach)": {
+    "pos": "v",
+    "vi": "dính (đẩy vào/đính vào)"
+  },
+  "still": {
+    "pos": "adj, adv",
+    "vi": "vẫn"
+  },
+  "store": {
+    "pos": "n, v",
+    "vi": "cửa hàng"
+  },
+  "stranger": {
+    "pos": "n",
+    "vi": "người lạ"
+  },
+  "strength": {
+    "pos": "n",
+    "vi": "sức mạnh"
+  },
+  "string": {
+    "pos": "n",
+    "vi": "sợi dây"
+  },
+  "strongly": {
+    "pos": "adv",
+    "vi": "mạnh mẽ"
+  },
+  "studio": {
+    "pos": "n",
+    "vi": "phòng thu"
+  },
+  "substance": {
+    "pos": "n",
+    "vi": "chất"
+  },
+  "successfully": {
+    "pos": "adv",
+    "vi": "thành công"
+  },
+  "sudden": {
+    "pos": "adj",
+    "vi": "đột ngột"
+  },
+  "suffer": {
+    "pos": "v",
+    "vi": "chịu đựng"
+  },
+  "suit": {
+    "pos": "n, v",
+    "vi": "bộ đồ"
+  },
+  "suitable": {
+    "pos": "adj",
+    "vi": "thích hợp"
+  },
+  "summarize": {
+    "pos": "v",
+    "vi": "tóm tắt"
+  },
+  "summary": {
+    "pos": "n",
+    "vi": "bản tóm tắt"
+  },
+  "supply": {
+    "pos": "n., v",
+    "vi": "cung cấp"
+  },
+  "supporter": {
+    "pos": "n",
+    "vi": "người ủng hộ"
+  },
+  "surely": {
+    "pos": "adv",
+    "vi": "chắc chắn"
+  },
+  "surface": {
+    "pos": "n",
+    "vi": "bề mặt"
+  },
+  "survive": {
+    "pos": "v",
+    "vi": "tồn tại"
+  },
+  "swim": {
+    "pos": "n, v",
+    "vi": "bơi"
+  },
+  "symptom": {
+    "pos": "n",
+    "vi": "triệu chứng"
+  },
+  "tail": {
+    "pos": "n",
+    "vi": "đuôi"
+  },
+  "talent": {
+    "pos": "n",
+    "vi": "tài năng"
+  },
+  "talented": {
+    "pos": "adj",
+    "vi": "có tài"
+  },
+  "tape": {
+    "pos": "n",
+    "vi": "băng"
+  },
+  "tax": {
+    "pos": "n., v",
+    "vi": "thuế"
+  },
+  "technical": {
+    "pos": "adj",
+    "vi": "kỹ thuật"
+  },
+  "technique": {
+    "pos": "n",
+    "vi": "kỹ thuật"
+  },
+  "tend": {
+    "pos": "v",
+    "vi": "có khuynh hướng"
+  },
+  "tent": {
+    "pos": "n",
+    "vi": "lều"
+  },
+  "that": {
+    "pos": "adv, conj, det., pron.",
+    "vi": "cái đó"
+  },
+  "theirs": {
+    "pos": "pron",
+    "vi": "của họ"
+  },
+  "theme": {
+    "pos": "n",
+    "vi": "chủ đề"
+  },
+  "theory": {
+    "pos": "n",
+    "vi": "lý thuyết"
+  },
+  "therefore": {
+    "pos": "adv",
+    "vi": "Vì vậy"
+  },
+  "this": {
+    "pos": "adv, det./pron",
+    "vi": "cái này"
+  },
+  "though": {
+    "pos": "conj., adv",
+    "vi": "mặc dù"
+  },
+  "throat": {
+    "pos": "n",
+    "vi": "cổ họng"
+  },
+  "throughout": {
+    "pos": "prep./adv",
+    "vi": "khắp"
+  },
+  "tight": {
+    "pos": "adj",
+    "vi": "chặt"
+  },
+  "till": {
+    "pos": "conj./prep",
+    "vi": "cho đến khi"
+  },
+  "tin": {
+    "pos": "n",
+    "vi": "thiếc"
+  },
+  "tiny": {
+    "pos": "adj",
+    "vi": "nhỏ xíu"
+  },
+  "tip": {
+    "pos": "n, v",
+    "vi": "mẹo"
+  },
+  "toe": {
+    "pos": "n",
+    "vi": "ngón chân"
+  },
+  "tongue": {
+    "pos": "n",
+    "vi": "lưỡi"
+  },
+  "totally": {
+    "pos": "adv",
+    "vi": "hoàn toàn"
+  },
+  "touch": {
+    "pos": "n, v",
+    "vi": "chạm"
+  },
+  "tour": {
+    "pos": "n, v",
+    "vi": "chuyến du lịch"
+  },
+  "trade": {
+    "pos": "n., v",
+    "vi": "buôn bán"
+  },
+  "translate": {
+    "pos": "v",
+    "vi": "dịch"
+  },
+  "translation": {
+    "pos": "n",
+    "vi": "dịch thuật"
+  },
+  "transport": {
+    "pos": "n, v",
+    "vi": "chuyên chở"
+  },
+  "treat": {
+    "pos": "v",
+    "vi": "đối xử"
+  },
+  "treatment": {
+    "pos": "n",
+    "vi": "sự đối đãi"
+  },
+  "trend": {
+    "pos": "n",
+    "vi": "xu hướng"
+  },
+  "trick": {
+    "pos": "n., v",
+    "vi": "lừa"
+  },
+  "truth": {
+    "pos": "n",
+    "vi": "sự thật"
+  },
+  "tube": {
+    "pos": "n",
+    "vi": "ống"
+  },
+  "type": {
+    "pos": "n, v",
+    "vi": "kiểu"
+  },
+  "typically": {
+    "pos": "adv",
+    "vi": "tiêu biểu"
+  },
+  "tyre": {
+    "pos": "n",
+    "vi": "lốp xe"
+  },
+  "ugly": {
+    "pos": "adj",
+    "vi": "xấu xí"
+  },
+  "unable": {
+    "pos": "adj",
+    "vi": "không thể"
+  },
+  "uncomfortable": {
+    "pos": "adj",
+    "vi": "khó chịu"
+  },
+  "underwear": {
+    "pos": "n",
+    "vi": "đồ lót"
+  },
+  "unemployed": {
+    "pos": "adj",
+    "vi": "thất nghiệp"
+  },
+  "unemployment": {
+    "pos": "n",
+    "vi": "nạn thất nghiệp"
+  },
+  "unfair": {
+    "pos": "adj",
+    "vi": "không công bằng"
+  },
+  "union": {
+    "pos": "n",
+    "vi": "sự đoàn kết"
+  },
+  "unless": {
+    "pos": "conj",
+    "vi": "Trừ khi"
+  },
+  "unlike": {
+    "pos": "prep",
+    "vi": "không giống"
+  },
+  "unlikely": {
+    "pos": "adj",
+    "vi": "không thể"
+  },
+  "unnecessary": {
+    "pos": "adj",
+    "vi": "không cần thiết"
+  },
+  "unpleasant": {
+    "pos": "adj",
+    "vi": "khó chịu"
+  },
+  "update": {
+    "pos": "v., n",
+    "vi": "cập nhật"
+  },
+  "upon": {
+    "pos": "prep",
+    "vi": "trên"
+  },
+  "upset": {
+    "pos": "adj., v",
+    "vi": "buồn bã"
+  },
+  "used": {
+    "pos": "adj",
+    "vi": "đã sử dụng"
+  },
+  "valuable": {
+    "pos": "adj",
+    "vi": "có giá trị lớn"
+  },
+  "various": {
+    "pos": "adj",
+    "vi": "nhiều"
+  },
+  "version": {
+    "pos": "n",
+    "vi": "phiên bản"
+  },
+  "victim": {
+    "pos": "n",
+    "vi": "nạn nhân"
+  },
+  "view": {
+    "pos": "n, v",
+    "vi": "xem"
+  },
+  "viewer": {
+    "pos": "n",
+    "vi": "người xem"
+  },
+  "violent": {
+    "pos": "adj",
+    "vi": "hung bạo"
+  },
+  "volunteer": {
+    "pos": "n., v",
+    "vi": "tình nguyện viên"
+  },
+  "vote": {
+    "pos": "n., v",
+    "vi": "bỏ phiếu"
+  },
+  "warm": {
+    "pos": "adj, v",
+    "vi": "ấm"
+  },
+  "warn": {
+    "pos": "v",
+    "vi": "cảnh báo"
+  },
+  "warning": {
+    "pos": "n",
+    "vi": "cảnh báo"
+  },
+  "waste": {
+    "pos": "n., v., adj",
+    "vi": "rác thải"
+  },
+  "water": {
+    "pos": "n, v",
+    "vi": "Nước"
+  },
+  "wave": {
+    "pos": "n, v",
+    "vi": "sóng"
+  },
+  "weapon": {
+    "pos": "n",
+    "vi": "vũ khí"
+  },
+  "weigh": {
+    "pos": "v",
+    "vi": "cân"
+  },
+  "western": {
+    "pos": "adj",
+    "vi": "phương Tây"
+  },
+  "whatever": {
+    "pos": "det./pron",
+    "vi": "bất cứ điều gì"
+  },
+  "whenever": {
+    "pos": "conj",
+    "vi": "bất cứ khi nào"
+  },
+  "whether": {
+    "pos": "conj",
+    "vi": "liệu"
+  },
+  "while": {
+    "pos": "conj, n",
+    "vi": "trong khi"
+  },
+  "whole": {
+    "pos": "adj, n",
+    "vi": "trọn"
+  },
+  "will": {
+    "pos": "modal v, n",
+    "vi": "sẽ"
+  },
+  "win": {
+    "pos": "n, v",
+    "vi": "thắng"
+  },
+  "wing": {
+    "pos": "n",
+    "vi": "cánh"
+  },
+  "within": {
+    "pos": "prep",
+    "vi": "ở trong"
+  },
+  "wonder": {
+    "pos": "v., n",
+    "vi": "thắc mắc"
+  },
+  "wool": {
+    "pos": "n",
+    "vi": "len"
+  },
+  "worldwide": {
+    "pos": "adj., adv",
+    "vi": "trên toàn thế giới"
+  },
+  "worry": {
+    "pos": "n, v",
+    "vi": "lo lắng"
+  },
+  "written": {
+    "pos": "adj",
+    "vi": "bằng văn bản"
+  },
+  "yard": {
+    "pos": "n",
+    "vi": "sân"
+  },
+  "young": {
+    "pos": "adj, n",
+    "vi": "trẻ"
+  },
+  "youth": {
+    "pos": "n",
+    "vi": "thiếu niên"
+  }
+}

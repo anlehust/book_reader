@@ -1,0 +1,722 @@
+[
+  {
+    "word": "abolish",
+    "pos": "v"
+  },
+  {
+    "word": "abortion",
+    "pos": "n"
+  },
+  {
+    "word": "absence",
+    "pos": "n"
+  },
+  {
+    "word": "absent",
+    "pos": "adj"
+  },
+  {
+    "word": "absurd",
+    "pos": "adj"
+  },
+  {
+    "word": "abundance",
+    "pos": "n"
+  },
+  {
+    "word": "abuse",
+    "pos": "n., v"
+  },
+  {
+    "word": "academy",
+    "pos": "n"
+  },
+  {
+    "word": "accelerate",
+    "pos": "v"
+  },
+  {
+    "word": "acceptance",
+    "pos": "n"
+  },
+  {
+    "word": "accessible",
+    "pos": "adj"
+  },
+  {
+    "word": "accomplishment",
+    "pos": "n"
+  },
+  {
+    "word": "accordance",
+    "pos": "n"
+  },
+  {
+    "word": "accordingly",
+    "pos": "adv"
+  },
+  {
+    "word": "accountability",
+    "pos": "n"
+  },
+  {
+    "word": "accountable",
+    "pos": "adj"
+  },
+  {
+    "word": "accumulate",
+    "pos": "v"
+  },
+  {
+    "word": "accumulation",
+    "pos": "n"
+  },
+  {
+    "word": "accusation",
+    "pos": "n"
+  },
+  {
+    "word": "accused",
+    "pos": "n"
+  },
+  {
+    "word": "acid",
+    "pos": "adj, n"
+  },
+  {
+    "word": "acquisition",
+    "pos": "n"
+  },
+  {
+    "word": "acre",
+    "pos": "n"
+  },
+  {
+    "word": "activation",
+    "pos": "n"
+  },
+  {
+    "word": "activist",
+    "pos": "n"
+  },
+  {
+    "word": "acute",
+    "pos": "adj"
+  },
+  {
+    "word": "adaptation",
+    "pos": "n"
+  },
+  {
+    "word": "adhere",
+    "pos": "v"
+  },
+  {
+    "word": "adjacent",
+    "pos": "adj"
+  },
+  {
+    "word": "adjustment",
+    "pos": "n"
+  },
+  {
+    "word": "administer",
+    "pos": "v"
+  },
+  {
+    "word": "administrative",
+    "pos": "adj"
+  },
+  {
+    "word": "administrator",
+    "pos": "n"
+  },
+  {
+    "word": "admission",
+    "pos": "n"
+  },
+  {
+    "word": "adolescent",
+    "pos": "n"
+  },
+  {
+    "word": "adoption",
+    "pos": "n"
+  },
+  {
+    "word": "adverse",
+    "pos": "adj"
+  },
+  {
+    "word": "advocate",
+    "pos": "n., v"
+  },
+  {
+    "word": "aesthetic",
+    "pos": "adj"
+  },
+  {
+    "word": "affection",
+    "pos": "n"
+  },
+  {
+    "word": "aftermath",
+    "pos": "n"
+  },
+  {
+    "word": "aggression",
+    "pos": "n"
+  },
+  {
+    "word": "agricultural",
+    "pos": "adj"
+  },
+  {
+    "word": "aide",
+    "pos": "n"
+  },
+  {
+    "word": "albeit",
+    "pos": "conj"
+  },
+  {
+    "word": "alert",
+    "pos": "v., n., adj"
+  },
+  {
+    "word": "alien",
+    "pos": "adj, n"
+  },
+  {
+    "word": "align",
+    "pos": "v"
+  },
+  {
+    "word": "alignment",
+    "pos": "n"
+  },
+  {
+    "word": "alike",
+    "pos": "adv., adj"
+  },
+  {
+    "word": "allegation",
+    "pos": "n"
+  },
+  {
+    "word": "allege",
+    "pos": "v"
+  },
+  {
+    "word": "allegedly",
+    "pos": "adv"
+  },
+  {
+    "word": "alliance",
+    "pos": "n"
+  },
+  {
+    "word": "allocate",
+    "pos": "v"
+  },
+  {
+    "word": "allocation",
+    "pos": "n"
+  },
+  {
+    "word": "allowance",
+    "pos": "n"
+  },
+  {
+    "word": "ally",
+    "pos": "n"
+  },
+  {
+    "word": "aluminium",
+    "pos": "n"
+  },
+  {
+    "word": "amateur",
+    "pos": "adj., n"
+  },
+  {
+    "word": "ambassador",
+    "pos": "n"
+  },
+  {
+    "word": "amend",
+    "pos": "v"
+  },
+  {
+    "word": "amendment",
+    "pos": "n"
+  },
+  {
+    "word": "amid",
+    "pos": "prep"
+  },
+  {
+    "word": "analogy",
+    "pos": "n"
+  },
+  {
+    "word": "anchor",
+    "pos": "n"
+  },
+  {
+    "word": "angel",
+    "pos": "n"
+  },
+  {
+    "word": "anonymous",
+    "pos": "adj"
+  },
+  {
+    "word": "apparatus",
+    "pos": "n"
+  },
+  {
+    "word": "appealing",
+    "pos": "adj"
+  },
+  {
+    "word": "appetite",
+    "pos": "n"
+  },
+  {
+    "word": "applaud",
+    "pos": "v"
+  },
+  {
+    "word": "applicable",
+    "pos": "adj"
+  },
+  {
+    "word": "appoint",
+    "pos": "v"
+  },
+  {
+    "word": "appreciation",
+    "pos": "n"
+  },
+  {
+    "word": "arbitrary",
+    "pos": "adj"
+  },
+  {
+    "word": "architectural",
+    "pos": "adj"
+  },
+  {
+    "word": "archive",
+    "pos": "n"
+  },
+  {
+    "word": "arena",
+    "pos": "n"
+  },
+  {
+    "word": "arguably",
+    "pos": "adv"
+  },
+  {
+    "word": "arm",
+    "pos": "n, v"
+  },
+  {
+    "word": "array",
+    "pos": "n"
+  },
+  {
+    "word": "articulate",
+    "pos": "v"
+  },
+  {
+    "word": "ash",
+    "pos": "n"
+  },
+  {
+    "word": "aspiration",
+    "pos": "n"
+  },
+  {
+    "word": "aspire",
+    "pos": "v"
+  },
+  {
+    "word": "assassination",
+    "pos": "n"
+  },
+  {
+    "word": "assault",
+    "pos": "n., v"
+  },
+  {
+    "word": "assemble",
+    "pos": "v"
+  },
+  {
+    "word": "assembly",
+    "pos": "n"
+  },
+  {
+    "word": "assert",
+    "pos": "v"
+  },
+  {
+    "word": "assertion",
+    "pos": "n"
+  },
+  {
+    "word": "assurance",
+    "pos": "n"
+  },
+  {
+    "word": "asylum",
+    "pos": "n"
+  },
+  {
+    "word": "atrocity",
+    "pos": "n"
+  },
+  {
+    "word": "attain",
+    "pos": "v"
+  },
+  {
+    "word": "attendance",
+    "pos": "n"
+  },
+  {
+    "word": "attorney",
+    "pos": "n"
+  },
+  {
+    "word": "attribute",
+    "pos": "v., n"
+  },
+  {
+    "word": "audit",
+    "pos": "n"
+  },
+  {
+    "word": "authentic",
+    "pos": "adj"
+  },
+  {
+    "word": "authorize",
+    "pos": "v"
+  },
+  {
+    "word": "auto",
+    "pos": "n"
+  },
+  {
+    "word": "autonomy",
+    "pos": "n"
+  },
+  {
+    "word": "availability",
+    "pos": "n"
+  },
+  {
+    "word": "await",
+    "pos": "v"
+  },
+  {
+    "word": "backdrop",
+    "pos": "n"
+  },
+  {
+    "word": "backing",
+    "pos": "n"
+  },
+  {
+    "word": "backup",
+    "pos": "n"
+  },
+  {
+    "word": "bail",
+    "pos": "n"
+  },
+  {
+    "word": "ballot",
+    "pos": "n"
+  },
+  {
+    "word": "banner",
+    "pos": "n"
+  },
+  {
+    "word": "bare",
+    "pos": "adj"
+  },
+  {
+    "word": "barrel",
+    "pos": "n"
+  },
+  {
+    "word": "bass",
+    "pos": "n"
+  },
+  {
+    "word": "bat",
+    "pos": "n, v"
+  },
+  {
+    "word": "battlefield",
+    "pos": "n"
+  },
+  {
+    "word": "bay",
+    "pos": "n"
+  },
+  {
+    "word": "beam",
+    "pos": "n"
+  },
+  {
+    "word": "beast",
+    "pos": "n"
+  },
+  {
+    "word": "behalf",
+    "pos": "n"
+  },
+  {
+    "word": "beloved",
+    "pos": "adj"
+  },
+  {
+    "word": "bench",
+    "pos": "n"
+  },
+  {
+    "word": "benchmark",
+    "pos": "n"
+  },
+  {
+    "word": "beneath",
+    "pos": "prep"
+  },
+  {
+    "word": "beneficiary",
+    "pos": "n"
+  },
+  {
+    "word": "betray",
+    "pos": "v"
+  },
+  {
+    "word": "bind",
+    "pos": "v"
+  },
+  {
+    "word": "biography",
+    "pos": "n"
+  },
+  {
+    "word": "bishop",
+    "pos": "n"
+  },
+  {
+    "word": "bizarre",
+    "pos": "adj"
+  },
+  {
+    "word": "blade",
+    "pos": "n"
+  },
+  {
+    "word": "blast",
+    "pos": "n., v"
+  },
+  {
+    "word": "bleed",
+    "pos": "v"
+  },
+  {
+    "word": "blend",
+    "pos": "v., n"
+  },
+  {
+    "word": "bless",
+    "pos": "v"
+  },
+  {
+    "word": "blessing",
+    "pos": "n"
+  },
+  {
+    "word": "boast",
+    "pos": "v"
+  },
+  {
+    "word": "bonus",
+    "pos": "n"
+  },
+  {
+    "word": "boom",
+    "pos": "n"
+  },
+  {
+    "word": "bounce",
+    "pos": "v"
+  },
+  {
+    "word": "boundary",
+    "pos": "n"
+  },
+  {
+    "word": "bow",
+    "pos": "v., n"
+  },
+  {
+    "word": "breach",
+    "pos": "n., v"
+  },
+  {
+    "word": "breakdown",
+    "pos": "n"
+  },
+  {
+    "word": "breakthrough",
+    "pos": "n"
+  },
+  {
+    "word": "breed",
+    "pos": "v., n"
+  },
+  {
+    "word": "broadband",
+    "pos": "n"
+  },
+  {
+    "word": "browser",
+    "pos": "n"
+  },
+  {
+    "word": "brutal",
+    "pos": "adj"
+  },
+  {
+    "word": "buck",
+    "pos": "n"
+  },
+  {
+    "word": "buddy",
+    "pos": "n"
+  },
+  {
+    "word": "buffer",
+    "pos": "n"
+  },
+  {
+    "word": "bulk",
+    "pos": "n"
+  },
+  {
+    "word": "burden",
+    "pos": "n"
+  },
+  {
+    "word": "bureaucracy",
+    "pos": "n"
+  },
+  {
+    "word": "burial",
+    "pos": "n"
+  },
+  {
+    "word": "burst",
+    "pos": "v"
+  },
+  {
+    "word": "cabinet",
+    "pos": "n"
+  },
+  {
+    "word": "calculation",
+    "pos": "n"
+  },
+  {
+    "word": "canvas",
+    "pos": "n"
+  },
+  {
+    "word": "capability",
+    "pos": "n"
+  },
+  {
+    "word": "capitalism",
+    "pos": "n"
+  },
+  {
+    "word": "capitalist",
+    "pos": "adj"
+  },
+  {
+    "word": "cargo",
+    "pos": "n"
+  },
+  {
+    "word": "carriage",
+    "pos": "n"
+  },
+  {
+    "word": "carve",
+    "pos": "v"
+  },
+  {
+    "word": "casino",
+    "pos": "n"
+  },
+  {
+    "word": "casualty",
+    "pos": "n"
+  },
+  {
+    "word": "catalogue",
+    "pos": "n"
+  },
+  {
+    "word": "cater",
+    "pos": "v"
+  },
+  {
+    "word": "cattle",
+    "pos": "n"
+  },
+  {
+    "word": "caution",
+    "pos": "n"
+  },
+  {
+    "word": "cautious",
+    "pos": "adj"
+  },
+  {
+    "word": "cease",
+    "pos": "v"
+  },
+  {
+    "word": "cemetery",
+    "pos": "n"
+  },
+  {
+    "word": "chamber",
+    "pos": "n"
+  },
+  {
+    "word": "chaos",
+    "pos": "n"
+  },
+  {
+    "word": "characterize",
+    "pos": "v"
+  },
+  {
+    "word": "charm",
+    "pos": "n"
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "word": "a",
+    "pos": "indefinite article"
+  },
+  {
+    "word": "about",
+    "pos": "prep., adv"
+  },
+  {
+    "word": "above",
+    "pos": "prep., adv"
+  },
+  {
+    "word": "across",
+    "pos": "prep., adv"
+  },
+  {
+    "word": "action",
+    "pos": "n"
+  },
+  {
+    "word": "activity",
+    "pos": "n"
+  },
+  {
+    "word": "actor",
+    "pos": "n"
+  },
+  {
+    "word": "actress",
+    "pos": "n"
+  },
+  {
+    "word": "add",
+    "pos": "v"
+  },
+  {
+    "word": "advice",
+    "pos": "n"
+  },
+  {
+    "word": "afraid",
+    "pos": "adj"
+  },
+  {
+    "word": "afternoon",
+    "pos": "n"
+  },
+  {
+    "word": "again",
+    "pos": "adv"
+  },
+  {
+    "word": "ago",
+    "pos": "adv"
+  },
+  {
+    "word": "agree",
+    "pos": "v"
+  },
+  {
+    "word": "air",
+    "pos": "n"
+  },
+  {
+    "word": "airport",
+    "pos": "n"
+  },
+  {
+    "word": "also",
+    "pos": "adv"
+  },
+  {
+    "word": "always",
+    "pos": "adv"
+  },
+  {
+    "word": "amazing",
+    "pos": "adj"
+  },
+  {
+    "word": "and",
+    "pos": "conj"
+  },
+  {
+    "word": "angry",
+    "pos": "adj"
+  },
+  {
+    "word": "animal",
+    "pos": "n"
+  },
+  {
+    "word": "another",
+    "pos": "det./pron"
+  },
+  {
+    "word": "answer",
+    "pos": "n., v"
+  },
+  {
+    "word": "anyone",
+    "pos": "pron"
+  },
+  {
+    "word": "anything",
+    "pos": "pron"
+  },
+  {
+    "word": "apartment",
+    "pos": "n"
+  },
+  {
+    "word": "apple",
+    "pos": "n"
+  },
+  {
+    "word": "april",
+    "pos": "n"
+  },
+  {
+    "word": "area",
+    "pos": "n"
+  },
+  {
+    "word": "around",
+    "pos": "prep., adv"
+  },
+  {
+    "word": "arrive",
+    "pos": "v"
+  },
+  {
+    "word": "art",
+    "pos": "n"
+  },
+  {
+    "word": "article",
+    "pos": "n"
+  },
+  {
+    "word": "artist",
+    "pos": "n"
+  },
+  {
+    "word": "ask",
+    "pos": "v"
+  },
+  {
+    "word": "at",
+    "pos": "prep"
+  },
+  {
+    "word": "august",
+    "pos": "n"
+  },
+  {
+    "word": "aunt",
+    "pos": "n"
+  },
+  {
+    "word": "autumn",
+    "pos": "n"
+  },
+  {
+    "word": "away",
+    "pos": "adv"
+  },
+  {
+    "word": "baby",
+    "pos": "n"
+  },
+  {
+    "word": "bad",
+    "pos": "adj"
+  },
+  {
+    "word": "bag",
+    "pos": "n"
+  },
+  {
+    "word": "ball",
+    "pos": "n"
+  },
+  {
+    "word": "banana",
+    "pos": "n"
+  },
+  {
+    "word": "band",
+    "pos": "n"
+  },
+  {
+    "word": "bank (money)",
+    "pos": "n"
+  },
+  {
+    "word": "bath",
+    "pos": "n"
+  },
+  {
+    "word": "bathroom",
+    "pos": "n"
+  },
+  {
+    "word": "be",
+    "pos": "v., auxiliary v"
+  },
+  {
+    "word": "beach",
+    "pos": "n"
+  },
+  {
+    "word": "beautiful",
+    "pos": "adj"
+  },
+  {
+    "word": "because",
+    "pos": "conj"
+  },
+  {
+    "word": "become",
+    "pos": "v"
+  },
+  {
+    "word": "bed",
+    "pos": "n"
+  },
+  {
+    "word": "bedroom",
+    "pos": "n"
+  },
+  {
+    "word": "beer",
+    "pos": "n"
+  },
+  {
+    "word": "begin",
+    "pos": "v"
+  },
+  {
+    "word": "beginning",
+    "pos": "n"
+  },
+  {
+    "word": "behind",
+    "pos": "prep., adv"
+  },
+  {
+    "word": "believe",
+    "pos": "v"
+  },
+  {
+    "word": "below",
+    "pos": "adv., prep"
+  },
+  {
+    "word": "bicycle",
+    "pos": "n"
+  },
+  {
+    "word": "big",
+    "pos": "adj"
+  },
+  {
+    "word": "bike",
+    "pos": "n"
+  },
+  {
+    "word": "bird",
+    "pos": "n"
+  },
+  {
+    "word": "birthday",
+    "pos": "n"
+  },
+  {
+    "word": "black",
+    "pos": "adj., n"
+  },
+  {
+    "word": "blog",
+    "pos": "n"
+  },
+  {
+    "word": "blonde",
+    "pos": "adj"
+  },
+  {
+    "word": "blue",
+    "pos": "adj., n"
+  },
+  {
+    "word": "boat",
+    "pos": "n"
+  },
+  {
+    "word": "body",
+    "pos": "n"
+  },
+  {
+    "word": "boot",
+    "pos": "n"
+  },
+  {
+    "word": "bored",
+    "pos": "adj"
+  },
+  {
+    "word": "boring",
+    "pos": "adj"
+  },
+  {
+    "word": "born",
+    "pos": "v"
+  },
+  {
+    "word": "both",
+    "pos": "det./pron"
+  },
+  {
+    "word": "bottle",
+    "pos": "n"
+  },
+  {
+    "word": "box",
+    "pos": "n"
+  },
+  {
+    "word": "boy",
+    "pos": "n"
+  },
+  {
+    "word": "boyfriend",
+    "pos": "n"
+  },
+  {
+    "word": "bread",
+    "pos": "n"
+  },
+  {
+    "word": "break",
+    "pos": "v., n"
+  },
+  {
+    "word": "breakfast",
+    "pos": "n"
+  },
+  {
+    "word": "bring",
+    "pos": "v"
+  },
+  {
+    "word": "brother",
+    "pos": "n"
+  },
+  {
+    "word": "brown",
+    "pos": "adj., n"
+  },
+  {
+    "word": "build",
+    "pos": "v"
+  },
+  {
+    "word": "building",
+    "pos": "n"
+  },
+  {
+    "word": "bus",
+    "pos": "n"
+  },
+  {
+    "word": "business",
+    "pos": "n"
+  },
+  {
+    "word": "busy",
+    "pos": "adj"
+  },
+  {
+    "word": "butter",
+    "pos": "n"
+  },
+  {
+    "word": "buy",
+    "pos": "v"
+  },
+  {
+    "word": "bye",
+    "pos": "exclam"
+  },
+  {
+    "word": "cafe",
+    "pos": "n"
+  },
+  {
+    "word": "cake",
+    "pos": "n"
+  },
+  {
+    "word": "call",
+    "pos": "v., n"
+  },
+  {
+    "word": "camera",
+    "pos": "n"
+  },
+  {
+    "word": "cannot",
+    "pos": "modal v"
+  },
+  {
+    "word": "capital",
+    "pos": "n., adj"
+  },
+  {
+    "word": "car",
+    "pos": "n"
+  },
+  {
+    "word": "card",
+    "pos": "n"
+  },
+  {
+    "word": "career",
+    "pos": "n"
+  },
+  {
+    "word": "carrot",
+    "pos": "n"
+  },
+  {
+    "word": "carry",
+    "pos": "v"
+  },
+  {
+    "word": "cat",
+    "pos": "n"
+  },
+  {
+    "word": "cd",
+    "pos": "n"
+  },
+  {
+    "word": "cent",
+    "pos": "n"
+  },
+  {
+    "word": "century",
+    "pos": "n"
+  },
+  {
+    "word": "change",
+    "pos": "v., n"
+  },
+  {
+    "word": "cheese",
+    "pos": "n"
+  },
+  {
+    "word": "chicken",
+    "pos": "n"
+  },
+  {
+    "word": "child",
+    "pos": "n"
+  },
+  {
+    "word": "chocolate",
+    "pos": "n"
+  },
+  {
+    "word": "choose",
+    "pos": "v"
+  },
+  {
+    "word": "cinema",
+    "pos": "n"
+  },
+  {
+    "word": "city",
+    "pos": "n"
+  },
+  {
+    "word": "class",
+    "pos": "n"
+  },
+  {
+    "word": "classroom",
+    "pos": "n"
+  },
+  {
+    "word": "clean",
+    "pos": "adj., v"
+  },
+  {
+    "word": "clock",
+    "pos": "n"
+  },
+  {
+    "word": "clothes",
+    "pos": "n"
+  },
+  {
+    "word": "club",
+    "pos": "n"
+  },
+  {
+    "word": "coat",
+    "pos": "n"
+  },
+  {
+    "word": "coffee",
+    "pos": "n"
+  },
+  {
+    "word": "cold",
+    "pos": "adj., n"
+  },
+  {
+    "word": "college",
+    "pos": "n"
+  },
+  {
+    "word": "colour",
+    "pos": "n"
+  },
+  {
+    "word": "come",
+    "pos": "v"
+  },
+  {
+    "word": "common",
+    "pos": "adj"
+  },
+  {
+    "word": "company",
+    "pos": "n"
+  },
+  {
+    "word": "compare",
+    "pos": "v"
+  },
+  {
+    "word": "complete",
+    "pos": "adj., v"
+  },
+  {
+    "word": "computer",
+    "pos": "n"
+  },
+  {
+    "word": "concert",
+    "pos": "n"
+  },
+  {
+    "word": "conversation",
+    "pos": "n"
+  },
+  {
+    "word": "cooking",
+    "pos": "n"
+  },
+  {
+    "word": "correct",
+    "pos": "adj., v"
+  },
+  {
+    "word": "cost",
+    "pos": "n., v"
+  },
+  {
+    "word": "could",
+    "pos": "modal v"
+  },
+  {
+    "word": "country",
+    "pos": "n"
+  },
+  {
+    "word": "course",
+    "pos": "n"
+  },
+  {
+    "word": "cousin",
+    "pos": "n"
+  },
+  {
+    "word": "cow",
+    "pos": "n"
+  },
+  {
+    "word": "create",
+    "pos": "v"
+  },
+  {
+    "word": "culture",
+    "pos": "n"
+  },
+  {
+    "word": "cup",
+    "pos": "n"
+  },
+  {
+    "word": "customer",
+    "pos": "n"
+  },
+  {
+    "word": "dad",
+    "pos": "n"
+  },
+  {
+    "word": "dance",
+    "pos": "n., v"
+  },
+  {
+    "word": "dancer",
+    "pos": "n"
+  },
+  {
+    "word": "dancing",
+    "pos": "n"
+  },
+  {
+    "word": "dangerous",
+    "pos": "adj"
+  },
+  {
+    "word": "daughter",
+    "pos": "n"
+  },
+  {
+    "word": "day",
+    "pos": "n"
+  },
+  {
+    "word": "december",
+    "pos": "n"
+  },
+  {
+    "word": "decide",
+    "pos": "v"
+  },
+  {
+    "word": "delicious",
+    "pos": "adj"
+  },
+  {
+    "word": "describe",
+    "pos": "v"
+  },
+  {
+    "word": "description",
+    "pos": "n"
+  },
+  {
+    "word": "design",
+    "pos": "n., v"
+  },
+  {
+    "word": "desk",
+    "pos": "n"
+  },
+  {
+    "word": "dialogue",
+    "pos": "n"
+  },
+  {
+    "word": "dictionary",
+    "pos": "n"
+  },
+  {
+    "word": "die",
+    "pos": "v"
+  },
+  {
+    "word": "diet",
+    "pos": "n"
+  },
+  {
+    "word": "difference",
+    "pos": "n"
+  },
+  {
+    "word": "different",
+    "pos": "adj"
+  },
+  {
+    "word": "difficult",
+    "pos": "adj"
+  },
+  {
+    "word": "dinner",
+    "pos": "n"
+  },
+  {
+    "word": "dirty",
+    "pos": "adj"
+  },
+  {
+    "word": "discuss",
+    "pos": "v"
+  },
+  {
+    "word": "dish",
+    "pos": "n"
+  },
+  {
+    "word": "do",
+    "pos": "v., auxiliary v"
+  },
+  {
+    "word": "doctor",
+    "pos": "n"
+  },
+  {
+    "word": "dog",
+    "pos": "n"
+  }
+]

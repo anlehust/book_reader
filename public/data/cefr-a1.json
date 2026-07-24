@@ -1,0 +1,2950 @@
+{
+  "a": {
+    "pos": "indefinite article",
+    "vi": "Một"
+  },
+  "about": {
+    "pos": "prep., adv",
+    "vi": "Về"
+  },
+  "above": {
+    "pos": "prep., adv",
+    "vi": "bên trên"
+  },
+  "across": {
+    "pos": "prep., adv",
+    "vi": "sang"
+  },
+  "action": {
+    "pos": "n",
+    "vi": "hoạt động"
+  },
+  "activity": {
+    "pos": "n",
+    "vi": "hoạt động"
+  },
+  "actor": {
+    "pos": "n",
+    "vi": "diễn viên"
+  },
+  "actress": {
+    "pos": "n",
+    "vi": "nữ diễn viên"
+  },
+  "add": {
+    "pos": "v",
+    "vi": "thêm vào"
+  },
+  "advice": {
+    "pos": "n",
+    "vi": "khuyên bảo"
+  },
+  "afraid": {
+    "pos": "adj",
+    "vi": "sợ"
+  },
+  "afternoon": {
+    "pos": "n",
+    "vi": "buổi chiều"
+  },
+  "again": {
+    "pos": "adv",
+    "vi": "lại"
+  },
+  "ago": {
+    "pos": "adv",
+    "vi": "trước kia"
+  },
+  "agree": {
+    "pos": "v",
+    "vi": "đồng ý"
+  },
+  "air": {
+    "pos": "n",
+    "vi": "không khí"
+  },
+  "airport": {
+    "pos": "n",
+    "vi": "sân bay"
+  },
+  "also": {
+    "pos": "adv",
+    "vi": "Mà còn"
+  },
+  "always": {
+    "pos": "adv",
+    "vi": "luôn luôn"
+  },
+  "amazing": {
+    "pos": "adj",
+    "vi": "tuyệt vời"
+  },
+  "and": {
+    "pos": "conj",
+    "vi": "Và"
+  },
+  "angry": {
+    "pos": "adj",
+    "vi": "tức giận"
+  },
+  "animal": {
+    "pos": "n",
+    "vi": "động vật"
+  },
+  "another": {
+    "pos": "det./pron",
+    "vi": "khác"
+  },
+  "answer": {
+    "pos": "n., v",
+    "vi": "trả lời"
+  },
+  "anyone": {
+    "pos": "pron",
+    "vi": "bất cứ ai"
+  },
+  "anything": {
+    "pos": "pron",
+    "vi": "bất cứ điều gì"
+  },
+  "apartment": {
+    "pos": "n",
+    "vi": "căn hộ"
+  },
+  "apple": {
+    "pos": "n",
+    "vi": "quả táo"
+  },
+  "april": {
+    "pos": "n",
+    "vi": "tháng tư"
+  },
+  "area": {
+    "pos": "n",
+    "vi": "khu vực"
+  },
+  "around": {
+    "pos": "prep., adv",
+    "vi": "xung quanh"
+  },
+  "arrive": {
+    "pos": "v",
+    "vi": "đến"
+  },
+  "art": {
+    "pos": "n",
+    "vi": "nghệ thuật"
+  },
+  "article": {
+    "pos": "n",
+    "vi": "bài báo"
+  },
+  "artist": {
+    "pos": "n",
+    "vi": "nghệ sĩ"
+  },
+  "ask": {
+    "pos": "v",
+    "vi": "hỏi"
+  },
+  "at": {
+    "pos": "prep",
+    "vi": "Tại"
+  },
+  "august": {
+    "pos": "n",
+    "vi": "tháng tám"
+  },
+  "aunt": {
+    "pos": "n",
+    "vi": "dì"
+  },
+  "autumn": {
+    "pos": "n",
+    "vi": "mùa thu"
+  },
+  "away": {
+    "pos": "adv",
+    "vi": "xa"
+  },
+  "baby": {
+    "pos": "n",
+    "vi": "Đứa bé"
+  },
+  "bad": {
+    "pos": "adj",
+    "vi": "xấu"
+  },
+  "bag": {
+    "pos": "n",
+    "vi": "cái túi"
+  },
+  "ball": {
+    "pos": "n",
+    "vi": "quả bóng"
+  },
+  "banana": {
+    "pos": "n",
+    "vi": "chuối"
+  },
+  "band": {
+    "pos": "n",
+    "vi": "ban nhạc"
+  },
+  "bank (money)": {
+    "pos": "n",
+    "vi": "ngân hàng (tiền)"
+  },
+  "bath": {
+    "pos": "n",
+    "vi": "bồn tắm"
+  },
+  "bathroom": {
+    "pos": "n",
+    "vi": "phòng tắm"
+  },
+  "be": {
+    "pos": "v., auxiliary v",
+    "vi": "là"
+  },
+  "beach": {
+    "pos": "n",
+    "vi": "bãi biển"
+  },
+  "beautiful": {
+    "pos": "adj",
+    "vi": "xinh đẹp"
+  },
+  "because": {
+    "pos": "conj",
+    "vi": "bởi vì"
+  },
+  "become": {
+    "pos": "v",
+    "vi": "trở nên"
+  },
+  "bed": {
+    "pos": "n",
+    "vi": "giường"
+  },
+  "bedroom": {
+    "pos": "n",
+    "vi": "phòng ngủ"
+  },
+  "beer": {
+    "pos": "n",
+    "vi": "bia"
+  },
+  "begin": {
+    "pos": "v",
+    "vi": "bắt đầu"
+  },
+  "beginning": {
+    "pos": "n",
+    "vi": "sự khởi đầu"
+  },
+  "behind": {
+    "pos": "prep., adv",
+    "vi": "phía sau"
+  },
+  "believe": {
+    "pos": "v",
+    "vi": "tin tưởng"
+  },
+  "below": {
+    "pos": "adv., prep",
+    "vi": "dưới"
+  },
+  "bicycle": {
+    "pos": "n",
+    "vi": "xe đạp"
+  },
+  "big": {
+    "pos": "adj",
+    "vi": "to lớn"
+  },
+  "bike": {
+    "pos": "n",
+    "vi": "xe đạp"
+  },
+  "bird": {
+    "pos": "n",
+    "vi": "chim"
+  },
+  "birthday": {
+    "pos": "n",
+    "vi": "sinh nhật"
+  },
+  "black": {
+    "pos": "adj., n",
+    "vi": "đen"
+  },
+  "blog": {
+    "pos": "n",
+    "vi": "blog"
+  },
+  "blonde": {
+    "pos": "adj",
+    "vi": "tóc vàng"
+  },
+  "blue": {
+    "pos": "adj., n",
+    "vi": "màu xanh da trời"
+  },
+  "boat": {
+    "pos": "n",
+    "vi": "thuyền"
+  },
+  "body": {
+    "pos": "n",
+    "vi": "thân hình"
+  },
+  "boot": {
+    "pos": "n",
+    "vi": "khởi động"
+  },
+  "bored": {
+    "pos": "adj",
+    "vi": "chán"
+  },
+  "boring": {
+    "pos": "adj",
+    "vi": "nhạt nhẽo"
+  },
+  "born": {
+    "pos": "v",
+    "vi": "sinh"
+  },
+  "both": {
+    "pos": "det./pron",
+    "vi": "cả hai"
+  },
+  "bottle": {
+    "pos": "n",
+    "vi": "cái chai"
+  },
+  "box": {
+    "pos": "n",
+    "vi": "hộp"
+  },
+  "boy": {
+    "pos": "n",
+    "vi": "con trai"
+  },
+  "boyfriend": {
+    "pos": "n",
+    "vi": "bạn trai"
+  },
+  "bread": {
+    "pos": "n",
+    "vi": "bánh mỳ"
+  },
+  "break": {
+    "pos": "v., n",
+    "vi": "phá vỡ"
+  },
+  "breakfast": {
+    "pos": "n",
+    "vi": "bữa sáng"
+  },
+  "bring": {
+    "pos": "v",
+    "vi": "mang đến"
+  },
+  "brother": {
+    "pos": "n",
+    "vi": "anh trai"
+  },
+  "brown": {
+    "pos": "adj., n",
+    "vi": "màu nâu"
+  },
+  "build": {
+    "pos": "v",
+    "vi": "xây dựng"
+  },
+  "building": {
+    "pos": "n",
+    "vi": "xây dựng"
+  },
+  "bus": {
+    "pos": "n",
+    "vi": "xe buýt"
+  },
+  "business": {
+    "pos": "n",
+    "vi": "việc kinh doanh"
+  },
+  "busy": {
+    "pos": "adj",
+    "vi": "bận"
+  },
+  "butter": {
+    "pos": "n",
+    "vi": "bơ"
+  },
+  "buy": {
+    "pos": "v",
+    "vi": "mua"
+  },
+  "bye": {
+    "pos": "exclam",
+    "vi": "tạm biệt"
+  },
+  "cafe": {
+    "pos": "n",
+    "vi": "quán cà phê"
+  },
+  "cake": {
+    "pos": "n",
+    "vi": "bánh ngọt"
+  },
+  "call": {
+    "pos": "v., n",
+    "vi": "gọi"
+  },
+  "camera": {
+    "pos": "n",
+    "vi": "máy ảnh"
+  },
+  "cannot": {
+    "pos": "modal v",
+    "vi": "không thể"
+  },
+  "capital": {
+    "pos": "n., adj",
+    "vi": "thủ đô"
+  },
+  "car": {
+    "pos": "n",
+    "vi": "xe hơi"
+  },
+  "card": {
+    "pos": "n",
+    "vi": "thẻ"
+  },
+  "career": {
+    "pos": "n",
+    "vi": "sự nghiệp"
+  },
+  "carrot": {
+    "pos": "n",
+    "vi": "cà rốt"
+  },
+  "carry": {
+    "pos": "v",
+    "vi": "mang"
+  },
+  "cat": {
+    "pos": "n",
+    "vi": "con mèo"
+  },
+  "cd": {
+    "pos": "n",
+    "vi": "đĩa CD"
+  },
+  "cent": {
+    "pos": "n",
+    "vi": "xu"
+  },
+  "century": {
+    "pos": "n",
+    "vi": "thế kỷ"
+  },
+  "change": {
+    "pos": "v., n",
+    "vi": "thay đổi"
+  },
+  "cheese": {
+    "pos": "n",
+    "vi": "phô mai"
+  },
+  "chicken": {
+    "pos": "n",
+    "vi": "thịt gà"
+  },
+  "child": {
+    "pos": "n",
+    "vi": "đứa trẻ"
+  },
+  "chocolate": {
+    "pos": "n",
+    "vi": "sôcôla"
+  },
+  "choose": {
+    "pos": "v",
+    "vi": "chọn"
+  },
+  "cinema": {
+    "pos": "n",
+    "vi": "rạp chiếu phim"
+  },
+  "city": {
+    "pos": "n",
+    "vi": "thành phố"
+  },
+  "class": {
+    "pos": "n",
+    "vi": "lớp học"
+  },
+  "classroom": {
+    "pos": "n",
+    "vi": "lớp học"
+  },
+  "clean": {
+    "pos": "adj., v",
+    "vi": "lau dọn"
+  },
+  "clock": {
+    "pos": "n",
+    "vi": "cái đồng hồ"
+  },
+  "clothes": {
+    "pos": "n",
+    "vi": "quần áo"
+  },
+  "club": {
+    "pos": "n",
+    "vi": "câu lạc bộ"
+  },
+  "coat": {
+    "pos": "n",
+    "vi": "áo choàng"
+  },
+  "coffee": {
+    "pos": "n",
+    "vi": "cà phê"
+  },
+  "cold": {
+    "pos": "adj., n",
+    "vi": "lạnh lẽo"
+  },
+  "college": {
+    "pos": "n",
+    "vi": "trường cao đẳng"
+  },
+  "colour": {
+    "pos": "n",
+    "vi": "màu sắc"
+  },
+  "come": {
+    "pos": "v",
+    "vi": "đến"
+  },
+  "common": {
+    "pos": "adj",
+    "vi": "chung"
+  },
+  "company": {
+    "pos": "n",
+    "vi": "công ty"
+  },
+  "compare": {
+    "pos": "v",
+    "vi": "so sánh"
+  },
+  "complete": {
+    "pos": "adj., v",
+    "vi": "hoàn thành"
+  },
+  "computer": {
+    "pos": "n",
+    "vi": "máy tính"
+  },
+  "concert": {
+    "pos": "n",
+    "vi": "buổi hòa nhạc"
+  },
+  "conversation": {
+    "pos": "n",
+    "vi": "cuộc hội thoại"
+  },
+  "cooking": {
+    "pos": "n",
+    "vi": "nấu nướng"
+  },
+  "correct": {
+    "pos": "adj., v",
+    "vi": "Chính xác"
+  },
+  "cost": {
+    "pos": "n., v",
+    "vi": "trị giá"
+  },
+  "could": {
+    "pos": "modal v",
+    "vi": "có thể"
+  },
+  "country": {
+    "pos": "n",
+    "vi": "quốc gia"
+  },
+  "course": {
+    "pos": "n",
+    "vi": "khóa học"
+  },
+  "cousin": {
+    "pos": "n",
+    "vi": "anh em họ"
+  },
+  "cow": {
+    "pos": "n",
+    "vi": "con bò"
+  },
+  "create": {
+    "pos": "v",
+    "vi": "tạo nên"
+  },
+  "culture": {
+    "pos": "n",
+    "vi": "văn hoá"
+  },
+  "cup": {
+    "pos": "n",
+    "vi": "tách"
+  },
+  "customer": {
+    "pos": "n",
+    "vi": "khách hàng"
+  },
+  "dad": {
+    "pos": "n",
+    "vi": "bố"
+  },
+  "dance": {
+    "pos": "n., v",
+    "vi": "nhảy"
+  },
+  "dancer": {
+    "pos": "n",
+    "vi": "vũ công"
+  },
+  "dancing": {
+    "pos": "n",
+    "vi": "khiêu vũ"
+  },
+  "dangerous": {
+    "pos": "adj",
+    "vi": "nguy hiểm"
+  },
+  "daughter": {
+    "pos": "n",
+    "vi": "con gái"
+  },
+  "day": {
+    "pos": "n",
+    "vi": "ngày"
+  },
+  "december": {
+    "pos": "n",
+    "vi": "tháng 12"
+  },
+  "decide": {
+    "pos": "v",
+    "vi": "quyết định"
+  },
+  "delicious": {
+    "pos": "adj",
+    "vi": "thơm ngon"
+  },
+  "describe": {
+    "pos": "v",
+    "vi": "mô tả"
+  },
+  "description": {
+    "pos": "n",
+    "vi": "Sự miêu tả"
+  },
+  "design": {
+    "pos": "n., v",
+    "vi": "thiết kế"
+  },
+  "desk": {
+    "pos": "n",
+    "vi": "bàn làm việc"
+  },
+  "dialogue": {
+    "pos": "n",
+    "vi": "đối thoại"
+  },
+  "dictionary": {
+    "pos": "n",
+    "vi": "từ điển"
+  },
+  "die": {
+    "pos": "v",
+    "vi": "chết"
+  },
+  "diet": {
+    "pos": "n",
+    "vi": "ăn kiêng"
+  },
+  "difference": {
+    "pos": "n",
+    "vi": "sự khác biệt"
+  },
+  "different": {
+    "pos": "adj",
+    "vi": "khác biệt"
+  },
+  "difficult": {
+    "pos": "adj",
+    "vi": "khó"
+  },
+  "dinner": {
+    "pos": "n",
+    "vi": "bữa tối"
+  },
+  "dirty": {
+    "pos": "adj",
+    "vi": "bẩn thỉu"
+  },
+  "discuss": {
+    "pos": "v",
+    "vi": "bàn luận"
+  },
+  "dish": {
+    "pos": "n",
+    "vi": "món ăn"
+  },
+  "do": {
+    "pos": "v., auxiliary v",
+    "vi": "LÀM"
+  },
+  "doctor": {
+    "pos": "n",
+    "vi": "bác sĩ"
+  },
+  "dog": {
+    "pos": "n",
+    "vi": "chó"
+  },
+  "dollar": {
+    "pos": "n",
+    "vi": "đô la"
+  },
+  "door": {
+    "pos": "n",
+    "vi": "cửa"
+  },
+  "down": {
+    "pos": "adv., prep",
+    "vi": "xuống"
+  },
+  "draw": {
+    "pos": "v",
+    "vi": "vẽ tranh"
+  },
+  "dress": {
+    "pos": "n., v",
+    "vi": "đầm"
+  },
+  "drink": {
+    "pos": "n., v",
+    "vi": "uống"
+  },
+  "driver": {
+    "pos": "n",
+    "vi": "tài xế"
+  },
+  "during": {
+    "pos": "prep",
+    "vi": "trong lúc"
+  },
+  "dvd": {
+    "pos": "n",
+    "vi": "DVD"
+  },
+  "each": {
+    "pos": "det./pron./adv",
+    "vi": "mỗi"
+  },
+  "ear": {
+    "pos": "n",
+    "vi": "tai"
+  },
+  "early": {
+    "pos": "adj., adv",
+    "vi": "sớm"
+  },
+  "east": {
+    "pos": "n., adj., adv",
+    "vi": "phía đông"
+  },
+  "easy": {
+    "pos": "adj",
+    "vi": "dễ"
+  },
+  "eat": {
+    "pos": "v",
+    "vi": "ăn"
+  },
+  "egg": {
+    "pos": "n",
+    "vi": "trứng"
+  },
+  "eight": {
+    "pos": "number",
+    "vi": "tám"
+  },
+  "eighteen": {
+    "pos": "number",
+    "vi": "mười tám"
+  },
+  "eighty": {
+    "pos": "number",
+    "vi": "tám mươi"
+  },
+  "elephant": {
+    "pos": "n",
+    "vi": "con voi"
+  },
+  "eleven": {
+    "pos": "number",
+    "vi": "mười một"
+  },
+  "else": {
+    "pos": "adv",
+    "vi": "khác"
+  },
+  "email": {
+    "pos": "n., v",
+    "vi": "e-mail"
+  },
+  "end": {
+    "pos": "n., v",
+    "vi": "kết thúc"
+  },
+  "enjoy": {
+    "pos": "v",
+    "vi": "thưởng thức"
+  },
+  "enough": {
+    "pos": "det., pron., adv",
+    "vi": "đủ"
+  },
+  "euro": {
+    "pos": "n",
+    "vi": "euro"
+  },
+  "evening": {
+    "pos": "n",
+    "vi": "buổi tối"
+  },
+  "event": {
+    "pos": "n",
+    "vi": "sự kiện"
+  },
+  "ever": {
+    "pos": "adv",
+    "vi": "bao giờ"
+  },
+  "every": {
+    "pos": "det",
+    "vi": "mọi"
+  },
+  "everybody": {
+    "pos": "pron",
+    "vi": "mọi người"
+  },
+  "everyone": {
+    "pos": "pron",
+    "vi": "mọi người"
+  },
+  "everything": {
+    "pos": "pron",
+    "vi": "mọi thứ"
+  },
+  "exam": {
+    "pos": "n",
+    "vi": "bài thi"
+  },
+  "example": {
+    "pos": "n",
+    "vi": "ví dụ"
+  },
+  "excited": {
+    "pos": "adj",
+    "vi": "hào hứng"
+  },
+  "exciting": {
+    "pos": "adj",
+    "vi": "thú vị"
+  },
+  "exercise": {
+    "pos": "n., v",
+    "vi": "bài tập"
+  },
+  "expensive": {
+    "pos": "adj",
+    "vi": "đắt"
+  },
+  "explain": {
+    "pos": "v",
+    "vi": "giải thích"
+  },
+  "eye": {
+    "pos": "n",
+    "vi": "mắt"
+  },
+  "fact": {
+    "pos": "n",
+    "vi": "sự thật"
+  },
+  "false": {
+    "pos": "adj",
+    "vi": "SAI"
+  },
+  "family": {
+    "pos": "n., adj",
+    "vi": "gia đình"
+  },
+  "famous": {
+    "pos": "adj",
+    "vi": "nổi tiếng"
+  },
+  "fantastic": {
+    "pos": "adj",
+    "vi": "tuyệt vời"
+  },
+  "farmer": {
+    "pos": "n",
+    "vi": "nông dân"
+  },
+  "fast": {
+    "pos": "adj., adv",
+    "vi": "nhanh"
+  },
+  "father": {
+    "pos": "n",
+    "vi": "bố"
+  },
+  "favourite": {
+    "pos": "adj., n",
+    "vi": "yêu thích"
+  },
+  "february": {
+    "pos": "n",
+    "vi": "tháng 2"
+  },
+  "feeling": {
+    "pos": "n",
+    "vi": "cảm giác"
+  },
+  "festival": {
+    "pos": "n",
+    "vi": "lễ hội"
+  },
+  "few": {
+    "pos": "det./adj., pron",
+    "vi": "một vài"
+  },
+  "fifteen": {
+    "pos": "number",
+    "vi": "mười lăm"
+  },
+  "fifth": {
+    "pos": "number",
+    "vi": "thứ năm"
+  },
+  "fifty": {
+    "pos": "number",
+    "vi": "năm mươi"
+  },
+  "fill": {
+    "pos": "v",
+    "vi": "đổ đầy"
+  },
+  "find": {
+    "pos": "v",
+    "vi": "tìm thấy"
+  },
+  "five": {
+    "pos": "number",
+    "vi": "năm"
+  },
+  "flight": {
+    "pos": "n",
+    "vi": "chuyến bay"
+  },
+  "floor": {
+    "pos": "n",
+    "vi": "sàn nhà"
+  },
+  "flower": {
+    "pos": "n",
+    "vi": "hoa"
+  },
+  "follow": {
+    "pos": "v",
+    "vi": "theo"
+  },
+  "food": {
+    "pos": "n",
+    "vi": "đồ ăn"
+  },
+  "foot": {
+    "pos": "n",
+    "vi": "chân"
+  },
+  "football": {
+    "pos": "n",
+    "vi": "bóng đá"
+  },
+  "for": {
+    "pos": "prep",
+    "vi": "vì"
+  },
+  "forget": {
+    "pos": "v",
+    "vi": "quên"
+  },
+  "form": {
+    "pos": "n., v",
+    "vi": "hình thức"
+  },
+  "forty": {
+    "pos": "number",
+    "vi": "bốn mươi"
+  },
+  "four": {
+    "pos": "number",
+    "vi": "bốn"
+  },
+  "fourteen": {
+    "pos": "number",
+    "vi": "mười bốn"
+  },
+  "fourth": {
+    "pos": "number",
+    "vi": "thứ tư"
+  },
+  "friday": {
+    "pos": "n",
+    "vi": "Thứ sáu"
+  },
+  "friend": {
+    "pos": "n",
+    "vi": "người bạn"
+  },
+  "friendly": {
+    "pos": "adj",
+    "vi": "thân thiện"
+  },
+  "from": {
+    "pos": "prep",
+    "vi": "từ"
+  },
+  "front": {
+    "pos": "n., adj",
+    "vi": "đằng trước"
+  },
+  "fruit": {
+    "pos": "n",
+    "vi": "hoa quả"
+  },
+  "full": {
+    "pos": "adj",
+    "vi": "đầy"
+  },
+  "funny": {
+    "pos": "adj",
+    "vi": "buồn cười"
+  },
+  "game": {
+    "pos": "n",
+    "vi": "trò chơi"
+  },
+  "garden": {
+    "pos": "n",
+    "vi": "vườn"
+  },
+  "geography": {
+    "pos": "n",
+    "vi": "địa lý"
+  },
+  "get": {
+    "pos": "v",
+    "vi": "lấy"
+  },
+  "girl": {
+    "pos": "n",
+    "vi": "con gái"
+  },
+  "girlfriend": {
+    "pos": "n",
+    "vi": "bạn gái"
+  },
+  "give": {
+    "pos": "v",
+    "vi": "đưa cho"
+  },
+  "glass": {
+    "pos": "n",
+    "vi": "thủy tinh"
+  },
+  "goodbye": {
+    "pos": "exclam./n",
+    "vi": "tạm biệt"
+  },
+  "grandfather": {
+    "pos": "n",
+    "vi": "ông nội"
+  },
+  "grandmother": {
+    "pos": "n",
+    "vi": "bà ngoại"
+  },
+  "grandparent": {
+    "pos": "n",
+    "vi": "ông bà"
+  },
+  "great": {
+    "pos": "adj",
+    "vi": "Tuyệt"
+  },
+  "green": {
+    "pos": "adj., n",
+    "vi": "màu xanh lá"
+  },
+  "grey": {
+    "pos": "adj., n",
+    "vi": "xám"
+  },
+  "group": {
+    "pos": "n",
+    "vi": "nhóm"
+  },
+  "grow": {
+    "pos": "v",
+    "vi": "phát triển"
+  },
+  "guess": {
+    "pos": "v., n",
+    "vi": "đoán"
+  },
+  "guitar": {
+    "pos": "n",
+    "vi": "đàn ghi-ta"
+  },
+  "gym": {
+    "pos": "n",
+    "vi": "phòng tập thể dục"
+  },
+  "hair": {
+    "pos": "n",
+    "vi": "tóc"
+  },
+  "happen": {
+    "pos": "v",
+    "vi": "xảy ra"
+  },
+  "happy": {
+    "pos": "adj",
+    "vi": "vui mừng"
+  },
+  "hard": {
+    "pos": "adj., adv",
+    "vi": "cứng"
+  },
+  "hat": {
+    "pos": "n",
+    "vi": "mũ"
+  },
+  "have to": {
+    "pos": "modal v",
+    "vi": "phải"
+  },
+  "he": {
+    "pos": "pron",
+    "vi": "Anh ta"
+  },
+  "health": {
+    "pos": "n",
+    "vi": "sức khỏe"
+  },
+  "healthy": {
+    "pos": "adj",
+    "vi": "khỏe mạnh"
+  },
+  "hear": {
+    "pos": "v",
+    "vi": "nghe"
+  },
+  "hello": {
+    "pos": "exclam./n",
+    "vi": "Xin chào"
+  },
+  "help": {
+    "pos": "v., n",
+    "vi": "giúp đỡ"
+  },
+  "her": {
+    "pos": "pron., det",
+    "vi": "cô ấy"
+  },
+  "here": {
+    "pos": "adv",
+    "vi": "đây"
+  },
+  "hey": {
+    "pos": "exclam",
+    "vi": "Chào"
+  },
+  "hi": {
+    "pos": "exclam",
+    "vi": "CHÀO"
+  },
+  "him": {
+    "pos": "pron",
+    "vi": "anh ta"
+  },
+  "history": {
+    "pos": "n",
+    "vi": "lịch sử"
+  },
+  "hobby": {
+    "pos": "n",
+    "vi": "sở thích"
+  },
+  "holiday": {
+    "pos": "n",
+    "vi": "ngày lễ"
+  },
+  "homework": {
+    "pos": "n",
+    "vi": "bài tập về nhà"
+  },
+  "horse": {
+    "pos": "n",
+    "vi": "ngựa"
+  },
+  "hospital": {
+    "pos": "n",
+    "vi": "bệnh viện"
+  },
+  "hot": {
+    "pos": "adj",
+    "vi": "nóng"
+  },
+  "hotel": {
+    "pos": "n",
+    "vi": "khách sạn"
+  },
+  "hour": {
+    "pos": "n",
+    "vi": "giờ"
+  },
+  "how": {
+    "pos": "adv",
+    "vi": "Làm sao"
+  },
+  "however": {
+    "pos": "adv",
+    "vi": "Tuy nhiên"
+  },
+  "hundred": {
+    "pos": "number",
+    "vi": "trăm"
+  },
+  "hungry": {
+    "pos": "adj",
+    "vi": "đói bụng"
+  },
+  "husband": {
+    "pos": "n",
+    "vi": "chồng"
+  },
+  "i": {
+    "pos": "pron",
+    "vi": "Tôi"
+  },
+  "ice": {
+    "pos": "n",
+    "vi": "đá"
+  },
+  "ice cream": {
+    "pos": "n",
+    "vi": "kem"
+  },
+  "idea": {
+    "pos": "n",
+    "vi": "ý tưởng"
+  },
+  "if": {
+    "pos": "conj",
+    "vi": "nếu như"
+  },
+  "imagine": {
+    "pos": "v",
+    "vi": "tưởng tượng"
+  },
+  "important": {
+    "pos": "adj",
+    "vi": "quan trọng"
+  },
+  "improve": {
+    "pos": "v",
+    "vi": "cải thiện"
+  },
+  "in": {
+    "pos": "prep., adv",
+    "vi": "TRONG"
+  },
+  "include": {
+    "pos": "v",
+    "vi": "bao gồm"
+  },
+  "information": {
+    "pos": "n",
+    "vi": "thông tin"
+  },
+  "interest": {
+    "pos": "n., v",
+    "vi": "quan tâm"
+  },
+  "interested": {
+    "pos": "adj",
+    "vi": "thú vị"
+  },
+  "interesting": {
+    "pos": "adj",
+    "vi": "hấp dẫn"
+  },
+  "internet": {
+    "pos": "n",
+    "vi": "internet"
+  },
+  "interview": {
+    "pos": "n., v",
+    "vi": "phỏng vấn"
+  },
+  "into": {
+    "pos": "prep",
+    "vi": "vào trong"
+  },
+  "introduce": {
+    "pos": "v",
+    "vi": "giới thiệu"
+  },
+  "island": {
+    "pos": "n",
+    "vi": "hòn đảo"
+  },
+  "its": {
+    "pos": "det",
+    "vi": "của nó"
+  },
+  "jacket": {
+    "pos": "n",
+    "vi": "áo khoác"
+  },
+  "january": {
+    "pos": "n",
+    "vi": "tháng Giêng"
+  },
+  "jeans": {
+    "pos": "n",
+    "vi": "quần jean"
+  },
+  "job": {
+    "pos": "n",
+    "vi": "công việc"
+  },
+  "join": {
+    "pos": "v",
+    "vi": "tham gia"
+  },
+  "journey": {
+    "pos": "n",
+    "vi": "hành trình"
+  },
+  "juice": {
+    "pos": "n",
+    "vi": "nước ép"
+  },
+  "july": {
+    "pos": "n",
+    "vi": "tháng bảy"
+  },
+  "june": {
+    "pos": "n",
+    "vi": "tháng sáu"
+  },
+  "keep": {
+    "pos": "v",
+    "vi": "giữ"
+  },
+  "kilometre": {
+    "pos": "n",
+    "vi": "cây số"
+  },
+  "kind (type)": {
+    "pos": "n",
+    "vi": "loại (loại)"
+  },
+  "kitchen": {
+    "pos": "n",
+    "vi": "phòng bếp"
+  },
+  "know": {
+    "pos": "v",
+    "vi": "biết"
+  },
+  "language": {
+    "pos": "n",
+    "vi": "ngôn ngữ"
+  },
+  "large": {
+    "pos": "adj",
+    "vi": "lớn"
+  },
+  "late": {
+    "pos": "adj., adv",
+    "vi": "muộn"
+  },
+  "laugh": {
+    "pos": "v., n",
+    "vi": "cười"
+  },
+  "learn": {
+    "pos": "v",
+    "vi": "học hỏi"
+  },
+  "left": {
+    "pos": "adj., adv., n",
+    "vi": "bên trái"
+  },
+  "leg": {
+    "pos": "n",
+    "vi": "chân"
+  },
+  "lesson": {
+    "pos": "n",
+    "vi": "bài học"
+  },
+  "let": {
+    "pos": "v",
+    "vi": "cho phép"
+  },
+  "letter": {
+    "pos": "n",
+    "vi": "thư"
+  },
+  "library": {
+    "pos": "n",
+    "vi": "thư viện"
+  },
+  "lie": {
+    "pos": "v",
+    "vi": "nói dối"
+  },
+  "life": {
+    "pos": "n",
+    "vi": "mạng sống"
+  },
+  "like (similar)": {
+    "pos": "prep",
+    "vi": "thích (tương tự)"
+  },
+  "lion": {
+    "pos": "n",
+    "vi": "con sư tử"
+  },
+  "list": {
+    "pos": "n., v",
+    "vi": "danh sách"
+  },
+  "listen": {
+    "pos": "v",
+    "vi": "Nghe"
+  },
+  "long": {
+    "pos": "adj., adv",
+    "vi": "dài"
+  },
+  "lose": {
+    "pos": "v",
+    "vi": "thua"
+  },
+  "lot": {
+    "pos": "pron., det., adv",
+    "vi": "nhiều"
+  },
+  "love": {
+    "pos": "n., v",
+    "vi": "yêu"
+  },
+  "lunch": {
+    "pos": "n",
+    "vi": "bữa trưa"
+  },
+  "machine": {
+    "pos": "n",
+    "vi": "máy móc"
+  },
+  "magazine": {
+    "pos": "n",
+    "vi": "tạp chí"
+  },
+  "main": {
+    "pos": "adj",
+    "vi": "chủ yếu"
+  },
+  "man": {
+    "pos": "n",
+    "vi": "người đàn ông"
+  },
+  "many": {
+    "pos": "det./pron",
+    "vi": "nhiều"
+  },
+  "married": {
+    "pos": "adj",
+    "vi": "đã cưới"
+  },
+  "match (contest/correspond)": {
+    "pos": "n., v",
+    "vi": "trận đấu (cuộc thi/tương ứng)"
+  },
+  "maybe": {
+    "pos": "adv",
+    "vi": "Có lẽ"
+  },
+  "me": {
+    "pos": "pron",
+    "vi": "Tôi"
+  },
+  "meal": {
+    "pos": "n",
+    "vi": "bữa ăn"
+  },
+  "mean": {
+    "pos": "v",
+    "vi": "nghĩa là"
+  },
+  "meaning": {
+    "pos": "n",
+    "vi": "nghĩa"
+  },
+  "meat": {
+    "pos": "n",
+    "vi": "thịt"
+  },
+  "meet": {
+    "pos": "v",
+    "vi": "gặp"
+  },
+  "meeting": {
+    "pos": "n",
+    "vi": "cuộc họp"
+  },
+  "member": {
+    "pos": "n",
+    "vi": "thành viên"
+  },
+  "menu": {
+    "pos": "n",
+    "vi": "thực đơn"
+  },
+  "message": {
+    "pos": "n",
+    "vi": "tin nhắn"
+  },
+  "metre": {
+    "pos": "n",
+    "vi": "mét"
+  },
+  "midnight": {
+    "pos": "n",
+    "vi": "nửa đêm"
+  },
+  "mile": {
+    "pos": "n",
+    "vi": "dặm"
+  },
+  "milk": {
+    "pos": "n",
+    "vi": "sữa"
+  },
+  "million": {
+    "pos": "number",
+    "vi": "triệu"
+  },
+  "miss": {
+    "pos": "v",
+    "vi": "cô"
+  },
+  "modern": {
+    "pos": "adj",
+    "vi": "hiện đại"
+  },
+  "moment": {
+    "pos": "n",
+    "vi": "chốc lát"
+  },
+  "monday": {
+    "pos": "n",
+    "vi": "Thứ hai"
+  },
+  "money": {
+    "pos": "n",
+    "vi": "tiền bạc"
+  },
+  "month": {
+    "pos": "n",
+    "vi": "tháng"
+  },
+  "more": {
+    "pos": "det./pron., adv",
+    "vi": "hơn"
+  },
+  "morning": {
+    "pos": "n",
+    "vi": "buổi sáng"
+  },
+  "most": {
+    "pos": "det./pron., adv",
+    "vi": "hầu hết"
+  },
+  "mother": {
+    "pos": "n",
+    "vi": "mẹ"
+  },
+  "mountain": {
+    "pos": "n",
+    "vi": "núi"
+  },
+  "mouse": {
+    "pos": "n",
+    "vi": "chuột"
+  },
+  "mouth": {
+    "pos": "n",
+    "vi": "miệng"
+  },
+  "movie": {
+    "pos": "n",
+    "vi": "bộ phim"
+  },
+  "much": {
+    "pos": "det./pron., adv",
+    "vi": "nhiều"
+  },
+  "mum": {
+    "pos": "n",
+    "vi": "mẹ"
+  },
+  "museum": {
+    "pos": "n",
+    "vi": "bảo tàng"
+  },
+  "music": {
+    "pos": "n",
+    "vi": "âm nhạc"
+  },
+  "must": {
+    "pos": "modal v",
+    "vi": "phải"
+  },
+  "my": {
+    "pos": "det",
+    "vi": "Của tôi"
+  },
+  "name": {
+    "pos": "n., v",
+    "vi": "tên"
+  },
+  "natural": {
+    "pos": "adj",
+    "vi": "tự nhiên"
+  },
+  "near": {
+    "pos": "prep., adj., adv",
+    "vi": "gần"
+  },
+  "neighbour": {
+    "pos": "n",
+    "vi": "hàng xóm"
+  },
+  "never": {
+    "pos": "adv",
+    "vi": "không bao giờ"
+  },
+  "new": {
+    "pos": "adj",
+    "vi": "mới"
+  },
+  "news": {
+    "pos": "n",
+    "vi": "tin tức"
+  },
+  "newspaper": {
+    "pos": "n",
+    "vi": "báo"
+  },
+  "next to": {
+    "pos": "prep",
+    "vi": "ở cạnh"
+  },
+  "nice": {
+    "pos": "adj",
+    "vi": "Đẹp"
+  },
+  "night": {
+    "pos": "n",
+    "vi": "đêm"
+  },
+  "nine": {
+    "pos": "number",
+    "vi": "chín"
+  },
+  "nineteen": {
+    "pos": "number",
+    "vi": "mười chín"
+  },
+  "ninety": {
+    "pos": "number",
+    "vi": "chín mươi"
+  },
+  "no": {
+    "pos": "exclam., det",
+    "vi": "KHÔNG"
+  },
+  "no one": {
+    "pos": "pron",
+    "vi": "không ai"
+  },
+  "nobody": {
+    "pos": "pron",
+    "vi": "không ai"
+  },
+  "north": {
+    "pos": "n., adj., adv",
+    "vi": "phía bắc"
+  },
+  "nose": {
+    "pos": "n",
+    "vi": "mũi"
+  },
+  "not": {
+    "pos": "adv",
+    "vi": "không"
+  },
+  "nothing": {
+    "pos": "pron",
+    "vi": "Không có gì"
+  },
+  "november": {
+    "pos": "n",
+    "vi": "tháng mười một"
+  },
+  "nurse": {
+    "pos": "n",
+    "vi": "y tá"
+  },
+  "o'clock": {
+    "pos": "adv",
+    "vi": "giờ"
+  },
+  "october": {
+    "pos": "n",
+    "vi": "tháng mười"
+  },
+  "of": {
+    "pos": "prep",
+    "vi": "của"
+  },
+  "off": {
+    "pos": "adv., prep",
+    "vi": "tắt"
+  },
+  "office": {
+    "pos": "n",
+    "vi": "văn phòng"
+  },
+  "often": {
+    "pos": "adv",
+    "vi": "thường"
+  },
+  "oh": {
+    "pos": "exclam",
+    "vi": "Ồ"
+  },
+  "old": {
+    "pos": "adj",
+    "vi": "cũ"
+  },
+  "on": {
+    "pos": "prep., adv",
+    "vi": "TRÊN"
+  },
+  "one": {
+    "pos": "number/det., pron",
+    "vi": "một"
+  },
+  "onion": {
+    "pos": "n",
+    "vi": "củ hành"
+  },
+  "online": {
+    "pos": "adj., adv",
+    "vi": "trực tuyến"
+  },
+  "only": {
+    "pos": "adj., adv",
+    "vi": "chỉ một"
+  },
+  "open": {
+    "pos": "adj., v",
+    "vi": "mở"
+  },
+  "opinion": {
+    "pos": "n",
+    "vi": "ý kiến"
+  },
+  "opposite": {
+    "pos": "adj., n., prep., adv",
+    "vi": "đối diện"
+  },
+  "or": {
+    "pos": "conj",
+    "vi": "hoặc"
+  },
+  "orange": {
+    "pos": "n., adj",
+    "vi": "quả cam"
+  },
+  "order": {
+    "pos": "n., v",
+    "vi": "đặt hàng"
+  },
+  "other": {
+    "pos": "adj./pron",
+    "vi": "khác"
+  },
+  "our": {
+    "pos": "det",
+    "vi": "của chúng tôi"
+  },
+  "out": {
+    "pos": "adv./prep",
+    "vi": "ngoài"
+  },
+  "over": {
+    "pos": "prep., adv",
+    "vi": "qua"
+  },
+  "page": {
+    "pos": "n",
+    "vi": "trang"
+  },
+  "paint": {
+    "pos": "v., n",
+    "vi": "sơn"
+  },
+  "painting": {
+    "pos": "n",
+    "vi": "bức vẽ"
+  },
+  "pair": {
+    "pos": "n",
+    "vi": "đôi"
+  },
+  "paper": {
+    "pos": "n",
+    "vi": "giấy"
+  },
+  "paragraph": {
+    "pos": "n",
+    "vi": "đoạn văn"
+  },
+  "parent": {
+    "pos": "n",
+    "vi": "cha mẹ"
+  },
+  "park": {
+    "pos": "n., v",
+    "vi": "công viên"
+  },
+  "part": {
+    "pos": "n",
+    "vi": "phần"
+  },
+  "partner": {
+    "pos": "n",
+    "vi": "cộng sự"
+  },
+  "party": {
+    "pos": "n",
+    "vi": "buổi tiệc"
+  },
+  "passport": {
+    "pos": "n",
+    "vi": "hộ chiếu"
+  },
+  "pen": {
+    "pos": "n",
+    "vi": "cái bút"
+  },
+  "pencil": {
+    "pos": "n",
+    "vi": "bút chì"
+  },
+  "people": {
+    "pos": "n",
+    "vi": "mọi người"
+  },
+  "pepper": {
+    "pos": "n",
+    "vi": "hạt tiêu"
+  },
+  "perfect": {
+    "pos": "adj",
+    "vi": "hoàn hảo"
+  },
+  "period": {
+    "pos": "n",
+    "vi": "Giai đoạn"
+  },
+  "person": {
+    "pos": "n",
+    "vi": "người"
+  },
+  "personal": {
+    "pos": "adj",
+    "vi": "riêng tư"
+  },
+  "phone": {
+    "pos": "n., v",
+    "vi": "điện thoại"
+  },
+  "photo": {
+    "pos": "n",
+    "vi": "bức ảnh"
+  },
+  "phrase": {
+    "pos": "n",
+    "vi": "cụm từ"
+  },
+  "piano": {
+    "pos": "n",
+    "vi": "đàn piano"
+  },
+  "piece": {
+    "pos": "n",
+    "vi": "cái"
+  },
+  "pig": {
+    "pos": "n",
+    "vi": "con lợn"
+  },
+  "pink": {
+    "pos": "adj., n",
+    "vi": "hồng"
+  },
+  "plan": {
+    "pos": "n., v",
+    "vi": "kế hoạch"
+  },
+  "plane": {
+    "pos": "n",
+    "vi": "máy bay"
+  },
+  "play": {
+    "pos": "v., n",
+    "vi": "chơi"
+  },
+  "player": {
+    "pos": "n",
+    "vi": "người chơi"
+  },
+  "police": {
+    "pos": "n",
+    "vi": "cảnh sát"
+  },
+  "policeman": {
+    "pos": "n",
+    "vi": "cảnh sát"
+  },
+  "pool": {
+    "pos": "n",
+    "vi": "hồ bơi"
+  },
+  "poor": {
+    "pos": "adj",
+    "vi": "nghèo"
+  },
+  "popular": {
+    "pos": "adj",
+    "vi": "phổ biến"
+  },
+  "possible": {
+    "pos": "adj",
+    "vi": "khả thi"
+  },
+  "post": {
+    "pos": "n., v",
+    "vi": "bưu kiện"
+  },
+  "potato": {
+    "pos": "n",
+    "vi": "khoai tây"
+  },
+  "pound": {
+    "pos": "n",
+    "vi": "pao"
+  },
+  "practice": {
+    "pos": "n",
+    "vi": "luyện tập"
+  },
+  "practise": {
+    "pos": "v",
+    "vi": "luyện tập"
+  },
+  "prefer": {
+    "pos": "v",
+    "vi": "thích hơn"
+  },
+  "prepare": {
+    "pos": "v",
+    "vi": "chuẩn bị"
+  },
+  "pretty": {
+    "pos": "adj., adv",
+    "vi": "đẹp"
+  },
+  "probably": {
+    "pos": "adv",
+    "vi": "có lẽ"
+  },
+  "problem": {
+    "pos": "n",
+    "vi": "vấn đề"
+  },
+  "product": {
+    "pos": "n",
+    "vi": "sản phẩm"
+  },
+  "programme": {
+    "pos": "n",
+    "vi": "chương trình"
+  },
+  "purple": {
+    "pos": "adj., n",
+    "vi": "màu tím"
+  },
+  "put": {
+    "pos": "v",
+    "vi": "đặt"
+  },
+  "quarter": {
+    "pos": "n",
+    "vi": "một phần tư"
+  },
+  "quick": {
+    "pos": "adj",
+    "vi": "nhanh"
+  },
+  "quickly": {
+    "pos": "adv",
+    "vi": "nhanh"
+  },
+  "quiet": {
+    "pos": "adj",
+    "vi": "im lặng"
+  },
+  "quite": {
+    "pos": "adv",
+    "vi": "khá"
+  },
+  "radio": {
+    "pos": "n",
+    "vi": "radio"
+  },
+  "rain": {
+    "pos": "n., v",
+    "vi": "cơn mưa"
+  },
+  "read": {
+    "pos": "v",
+    "vi": "đọc"
+  },
+  "reader": {
+    "pos": "n",
+    "vi": "người đọc"
+  },
+  "reading": {
+    "pos": "n",
+    "vi": "đọc"
+  },
+  "ready": {
+    "pos": "adj",
+    "vi": "sẵn sàng"
+  },
+  "real": {
+    "pos": "adj",
+    "vi": "thực tế"
+  },
+  "really": {
+    "pos": "adv",
+    "vi": "Thực ra"
+  },
+  "reason": {
+    "pos": "n",
+    "vi": "lý do"
+  },
+  "red": {
+    "pos": "adj., n",
+    "vi": "màu đỏ"
+  },
+  "relax": {
+    "pos": "v",
+    "vi": "thư giãn"
+  },
+  "remember": {
+    "pos": "v",
+    "vi": "nhớ"
+  },
+  "restaurant": {
+    "pos": "n",
+    "vi": "nhà hàng"
+  },
+  "return": {
+    "pos": "v., n",
+    "vi": "trở lại"
+  },
+  "rice": {
+    "pos": "n",
+    "vi": "cơm"
+  },
+  "rich": {
+    "pos": "adj",
+    "vi": "giàu có"
+  },
+  "right": {
+    "pos": "adj., adv., n",
+    "vi": "Phải"
+  },
+  "river": {
+    "pos": "n",
+    "vi": "dòng sông"
+  },
+  "road": {
+    "pos": "n",
+    "vi": "đường"
+  },
+  "room": {
+    "pos": "n",
+    "vi": "phòng"
+  },
+  "sad": {
+    "pos": "adj",
+    "vi": "buồn"
+  },
+  "salad": {
+    "pos": "n",
+    "vi": "xa lát"
+  },
+  "salt": {
+    "pos": "n",
+    "vi": "muối"
+  },
+  "same": {
+    "pos": "adj., pron., adv",
+    "vi": "như nhau"
+  },
+  "sandwich": {
+    "pos": "n",
+    "vi": "sandwich"
+  },
+  "saturday": {
+    "pos": "n",
+    "vi": "Thứ bảy"
+  },
+  "school": {
+    "pos": "n",
+    "vi": "trường học"
+  },
+  "science": {
+    "pos": "n",
+    "vi": "khoa học"
+  },
+  "scientist": {
+    "pos": "n",
+    "vi": "nhà khoa học"
+  },
+  "sea": {
+    "pos": "n",
+    "vi": "biển"
+  },
+  "second (unit of time)": {
+    "pos": "n",
+    "vi": "giây (đơn vị thời gian)"
+  },
+  "section": {
+    "pos": "n",
+    "vi": "phần"
+  },
+  "see": {
+    "pos": "v",
+    "vi": "nhìn thấy"
+  },
+  "sell": {
+    "pos": "v",
+    "vi": "bán"
+  },
+  "send": {
+    "pos": "v",
+    "vi": "gửi"
+  },
+  "september": {
+    "pos": "n",
+    "vi": "tháng 9"
+  },
+  "seven": {
+    "pos": "number",
+    "vi": "bảy"
+  },
+  "seventeen": {
+    "pos": "number",
+    "vi": "mười bảy"
+  },
+  "seventy": {
+    "pos": "number",
+    "vi": "bảy mươi"
+  },
+  "she": {
+    "pos": "pron",
+    "vi": "cô ấy"
+  },
+  "sheep": {
+    "pos": "n",
+    "vi": "con cừu"
+  },
+  "shirt": {
+    "pos": "n",
+    "vi": "áo sơ mi"
+  },
+  "shoe": {
+    "pos": "n",
+    "vi": "giày"
+  },
+  "shop": {
+    "pos": "n., v",
+    "vi": "cửa hàng"
+  },
+  "shopping": {
+    "pos": "n",
+    "vi": "mua sắm"
+  },
+  "short": {
+    "pos": "adj",
+    "vi": "ngắn"
+  },
+  "should": {
+    "pos": "modal v",
+    "vi": "nên"
+  },
+  "show": {
+    "pos": "v., n",
+    "vi": "trình diễn"
+  },
+  "shower": {
+    "pos": "n",
+    "vi": "vòi sen"
+  },
+  "sick": {
+    "pos": "adj",
+    "vi": "đau ốm"
+  },
+  "similar": {
+    "pos": "adj",
+    "vi": "tương tự"
+  },
+  "sing": {
+    "pos": "v",
+    "vi": "hát"
+  },
+  "singer": {
+    "pos": "n",
+    "vi": "ca sĩ"
+  },
+  "sister": {
+    "pos": "n",
+    "vi": "em gái"
+  },
+  "sit": {
+    "pos": "v",
+    "vi": "ngồi"
+  },
+  "situation": {
+    "pos": "n",
+    "vi": "tình huống"
+  },
+  "six": {
+    "pos": "number",
+    "vi": "sáu"
+  },
+  "sixteen": {
+    "pos": "number",
+    "vi": "mười sáu"
+  },
+  "sixty": {
+    "pos": "number",
+    "vi": "sáu mươi"
+  },
+  "skill": {
+    "pos": "n",
+    "vi": "kỹ năng"
+  },
+  "skirt": {
+    "pos": "n",
+    "vi": "váy ngắn"
+  },
+  "small": {
+    "pos": "adj",
+    "vi": "bé nhỏ"
+  },
+  "snake": {
+    "pos": "n",
+    "vi": "rắn"
+  },
+  "snow": {
+    "pos": "n., v",
+    "vi": "tuyết"
+  },
+  "so": {
+    "pos": "adv., conj",
+    "vi": "Vì thế"
+  },
+  "some": {
+    "pos": "det., pron",
+    "vi": "một số"
+  },
+  "somebody": {
+    "pos": "pron",
+    "vi": "ai đó"
+  },
+  "someone": {
+    "pos": "pron",
+    "vi": "người nào đó"
+  },
+  "something": {
+    "pos": "pron",
+    "vi": "thứ gì đó"
+  },
+  "sometimes": {
+    "pos": "adv",
+    "vi": "Thỉnh thoảng"
+  },
+  "son": {
+    "pos": "n",
+    "vi": "con trai"
+  },
+  "song": {
+    "pos": "n",
+    "vi": "bài hát"
+  },
+  "soon": {
+    "pos": "adv",
+    "vi": "sớm"
+  },
+  "sorry": {
+    "pos": "adj., exclam",
+    "vi": "Xin lỗi"
+  },
+  "soup": {
+    "pos": "n",
+    "vi": "canh"
+  },
+  "south": {
+    "pos": "n., adj., adv",
+    "vi": "phía nam"
+  },
+  "space": {
+    "pos": "n",
+    "vi": "không gian"
+  },
+  "speak": {
+    "pos": "v",
+    "vi": "nói chuyện"
+  },
+  "special": {
+    "pos": "adj",
+    "vi": "đặc biệt"
+  },
+  "spelling": {
+    "pos": "n",
+    "vi": "đánh vần"
+  },
+  "spend": {
+    "pos": "v",
+    "vi": "tiêu"
+  },
+  "sport": {
+    "pos": "n",
+    "vi": "thể thao"
+  },
+  "statement": {
+    "pos": "n",
+    "vi": "tuyên bố"
+  },
+  "station": {
+    "pos": "n",
+    "vi": "ga tàu"
+  },
+  "stop": {
+    "pos": "v., n",
+    "vi": "dừng lại"
+  },
+  "story": {
+    "pos": "n",
+    "vi": "câu chuyện"
+  },
+  "street": {
+    "pos": "n",
+    "vi": "đường phố"
+  },
+  "strong": {
+    "pos": "adj",
+    "vi": "mạnh"
+  },
+  "student": {
+    "pos": "n",
+    "vi": "học sinh"
+  },
+  "study": {
+    "pos": "n., v",
+    "vi": "học"
+  },
+  "style": {
+    "pos": "n",
+    "vi": "phong cách"
+  },
+  "success": {
+    "pos": "n",
+    "vi": "thành công"
+  },
+  "sugar": {
+    "pos": "n",
+    "vi": "đường"
+  },
+  "summer": {
+    "pos": "n",
+    "vi": "mùa hè"
+  },
+  "sun": {
+    "pos": "n",
+    "vi": "mặt trời"
+  },
+  "sunday": {
+    "pos": "n",
+    "vi": "chủ nhật"
+  },
+  "supermarket": {
+    "pos": "n",
+    "vi": "siêu thị"
+  },
+  "sweater": {
+    "pos": "n",
+    "vi": "áo len"
+  },
+  "swimming": {
+    "pos": "n",
+    "vi": "bơi lội"
+  },
+  "t-shirt": {
+    "pos": "n",
+    "vi": "áo thun"
+  },
+  "table": {
+    "pos": "n",
+    "vi": "bàn"
+  },
+  "take": {
+    "pos": "v",
+    "vi": "lấy"
+  },
+  "tall": {
+    "pos": "adj",
+    "vi": "cao"
+  },
+  "taxi": {
+    "pos": "n",
+    "vi": "Taxi"
+  },
+  "tea": {
+    "pos": "n",
+    "vi": "trà"
+  },
+  "teach": {
+    "pos": "v",
+    "vi": "dạy bảo"
+  },
+  "teacher": {
+    "pos": "n",
+    "vi": "giáo viên"
+  },
+  "team": {
+    "pos": "n",
+    "vi": "đội"
+  },
+  "teenager": {
+    "pos": "n",
+    "vi": "thiếu niên"
+  },
+  "telephone": {
+    "pos": "n., v",
+    "vi": "điện thoại"
+  },
+  "television": {
+    "pos": "n",
+    "vi": "tivi"
+  },
+  "tell": {
+    "pos": "v",
+    "vi": "kể"
+  },
+  "ten": {
+    "pos": "number",
+    "vi": "mười"
+  },
+  "tennis": {
+    "pos": "n",
+    "vi": "quần vợt"
+  },
+  "terrible": {
+    "pos": "adj",
+    "vi": "kinh khủng"
+  },
+  "test": {
+    "pos": "n., v",
+    "vi": "Bài kiểm tra"
+  },
+  "than": {
+    "pos": "conj",
+    "vi": "hơn"
+  },
+  "thank": {
+    "pos": "v",
+    "vi": "cám ơn"
+  },
+  "thanks": {
+    "pos": "exclam., n",
+    "vi": "Cảm ơn"
+  },
+  "the": {
+    "pos": "definite article",
+    "vi": "cái"
+  },
+  "theatre": {
+    "pos": "n",
+    "vi": "nhà hát"
+  },
+  "their": {
+    "pos": "det",
+    "vi": "của họ"
+  },
+  "them": {
+    "pos": "pron",
+    "vi": "họ"
+  },
+  "then": {
+    "pos": "adv",
+    "vi": "sau đó"
+  },
+  "there": {
+    "pos": "adv",
+    "vi": "ở đó"
+  },
+  "they": {
+    "pos": "pron",
+    "vi": "họ"
+  },
+  "thing": {
+    "pos": "n",
+    "vi": "điều"
+  },
+  "think": {
+    "pos": "v",
+    "vi": "nghĩ"
+  },
+  "thirsty": {
+    "pos": "adj",
+    "vi": "khát"
+  },
+  "thirteen": {
+    "pos": "number",
+    "vi": "mười ba"
+  },
+  "thirty": {
+    "pos": "number",
+    "vi": "ba mươi"
+  },
+  "thousand": {
+    "pos": "number",
+    "vi": "nghìn"
+  },
+  "three": {
+    "pos": "number",
+    "vi": "ba"
+  },
+  "through": {
+    "pos": "prep., adv",
+    "vi": "bởi vì"
+  },
+  "thursday": {
+    "pos": "n",
+    "vi": "thứ năm"
+  },
+  "ticket": {
+    "pos": "n",
+    "vi": "vé"
+  },
+  "tired": {
+    "pos": "adj",
+    "vi": "mệt"
+  },
+  "to": {
+    "pos": "prep., infinitive marker",
+    "vi": "ĐẾN"
+  },
+  "today": {
+    "pos": "adv., n",
+    "vi": "Hôm nay"
+  },
+  "together": {
+    "pos": "adv",
+    "vi": "cùng nhau"
+  },
+  "toilet": {
+    "pos": "n",
+    "vi": "nhà vệ sinh"
+  },
+  "tomato": {
+    "pos": "n",
+    "vi": "cà chua"
+  },
+  "tomorrow": {
+    "pos": "adv., n",
+    "vi": "Ngày mai"
+  },
+  "tonight": {
+    "pos": "adv., n",
+    "vi": "tối nay"
+  },
+  "too": {
+    "pos": "adv",
+    "vi": "cũng vậy"
+  },
+  "tooth": {
+    "pos": "n",
+    "vi": "răng"
+  },
+  "topic": {
+    "pos": "n",
+    "vi": "đề tài"
+  },
+  "tourist": {
+    "pos": "n",
+    "vi": "du khách"
+  },
+  "town": {
+    "pos": "n",
+    "vi": "thị trấn"
+  },
+  "traffic": {
+    "pos": "n",
+    "vi": "giao thông"
+  },
+  "travel": {
+    "pos": "v., n",
+    "vi": "du lịch"
+  },
+  "tree": {
+    "pos": "n",
+    "vi": "cây"
+  },
+  "trousers": {
+    "pos": "n",
+    "vi": "quần dài"
+  },
+  "true": {
+    "pos": "adj",
+    "vi": "ĐÚNG VẬY"
+  },
+  "tuesday": {
+    "pos": "n",
+    "vi": "Thứ ba"
+  },
+  "turn": {
+    "pos": "v., n",
+    "vi": "xoay"
+  },
+  "tv": {
+    "pos": "n",
+    "vi": "TV"
+  },
+  "twelve": {
+    "pos": "number",
+    "vi": "mười hai"
+  },
+  "twenty": {
+    "pos": "number",
+    "vi": "hai mươi"
+  },
+  "twice": {
+    "pos": "adv",
+    "vi": "hai lần"
+  },
+  "two": {
+    "pos": "number",
+    "vi": "hai"
+  },
+  "umbrella": {
+    "pos": "n",
+    "vi": "Chiếc ô"
+  },
+  "uncle": {
+    "pos": "n",
+    "vi": "chú"
+  },
+  "under": {
+    "pos": "prep., adv",
+    "vi": "dưới"
+  },
+  "understand": {
+    "pos": "v",
+    "vi": "hiểu"
+  },
+  "university": {
+    "pos": "n",
+    "vi": "trường đại học"
+  },
+  "until": {
+    "pos": "conj./prep",
+    "vi": "cho đến khi"
+  },
+  "up": {
+    "pos": "adv., prep",
+    "vi": "hướng lên"
+  },
+  "us": {
+    "pos": "pron",
+    "vi": "chúng ta"
+  },
+  "useful": {
+    "pos": "adj",
+    "vi": "hữu ích"
+  },
+  "usually": {
+    "pos": "adv",
+    "vi": "thường xuyên"
+  },
+  "vacation": {
+    "pos": "n",
+    "vi": "kì nghỉ"
+  },
+  "vegetable": {
+    "pos": "n",
+    "vi": "rau quả"
+  },
+  "video": {
+    "pos": "n",
+    "vi": "băng hình"
+  },
+  "village": {
+    "pos": "n",
+    "vi": "làng bản"
+  },
+  "visit": {
+    "pos": "v., n",
+    "vi": "thăm nom"
+  },
+  "visitor": {
+    "pos": "n",
+    "vi": "du khách"
+  },
+  "waiter": {
+    "pos": "n",
+    "vi": "phục vụ nam"
+  },
+  "wake": {
+    "pos": "v",
+    "vi": "thức dậy"
+  },
+  "walk": {
+    "pos": "v., n",
+    "vi": "đi bộ"
+  },
+  "wall": {
+    "pos": "n",
+    "vi": "tường"
+  },
+  "want": {
+    "pos": "v",
+    "vi": "muốn"
+  },
+  "watch": {
+    "pos": "v., n",
+    "vi": "đồng hồ"
+  },
+  "we": {
+    "pos": "pron",
+    "vi": "chúng tôi"
+  },
+  "wear": {
+    "pos": "v",
+    "vi": "mặc"
+  },
+  "weather": {
+    "pos": "n",
+    "vi": "thời tiết"
+  },
+  "website": {
+    "pos": "n",
+    "vi": "trang web"
+  },
+  "wednesday": {
+    "pos": "n",
+    "vi": "Thứ Tư"
+  },
+  "week": {
+    "pos": "n",
+    "vi": "tuần"
+  },
+  "weekend": {
+    "pos": "n",
+    "vi": "ngày cuối tuần"
+  },
+  "west": {
+    "pos": "n., adj., adv",
+    "vi": "hướng tây"
+  },
+  "what": {
+    "pos": "pron./det",
+    "vi": "Gì"
+  },
+  "when": {
+    "pos": "adv., pron., conj",
+    "vi": "khi"
+  },
+  "where": {
+    "pos": "adv., conj",
+    "vi": "Ở đâu"
+  },
+  "which": {
+    "pos": "pron./det",
+    "vi": "cái mà"
+  },
+  "white": {
+    "pos": "adj., n",
+    "vi": "trắng"
+  },
+  "who": {
+    "pos": "pron",
+    "vi": "Ai"
+  },
+  "why": {
+    "pos": "adv",
+    "vi": "Tại sao"
+  },
+  "wife": {
+    "pos": "n",
+    "vi": "vợ"
+  },
+  "window": {
+    "pos": "n",
+    "vi": "cửa sổ"
+  },
+  "wine": {
+    "pos": "n",
+    "vi": "rượu"
+  },
+  "winter": {
+    "pos": "n",
+    "vi": "mùa đông"
+  },
+  "with": {
+    "pos": "prep",
+    "vi": "với"
+  },
+  "without": {
+    "pos": "prep",
+    "vi": "không có"
+  },
+  "woman": {
+    "pos": "n",
+    "vi": "đàn bà"
+  },
+  "wonderful": {
+    "pos": "adj",
+    "vi": "tuyệt vời"
+  },
+  "word": {
+    "pos": "n",
+    "vi": "từ"
+  },
+  "work": {
+    "pos": "v., n",
+    "vi": "công việc"
+  },
+  "worker": {
+    "pos": "n",
+    "vi": "công nhân"
+  },
+  "world": {
+    "pos": "n",
+    "vi": "thế giới"
+  },
+  "would": {
+    "pos": "modal v",
+    "vi": "sẽ"
+  },
+  "write": {
+    "pos": "v",
+    "vi": "viết"
+  },
+  "writer": {
+    "pos": "n",
+    "vi": "nhà văn"
+  },
+  "writing": {
+    "pos": "n",
+    "vi": "viết"
+  },
+  "yeah": {
+    "pos": "exclam",
+    "vi": "vâng"
+  },
+  "year": {
+    "pos": "n",
+    "vi": "năm"
+  },
+  "yellow": {
+    "pos": "adj., n",
+    "vi": "màu vàng"
+  },
+  "yes": {
+    "pos": "exclam",
+    "vi": "Đúng"
+  },
+  "yesterday": {
+    "pos": "adv., n",
+    "vi": "Hôm qua"
+  },
+  "you": {
+    "pos": "pron",
+    "vi": "Bạn"
+  },
+  "your": {
+    "pos": "det",
+    "vi": "của bạn"
+  },
+  "yourself": {
+    "pos": "pron",
+    "vi": "bản thân bạn"
+  }
+}

@@ -1,0 +1,722 @@
+[
+  {
+    "word": "presently",
+    "pos": "adv"
+  },
+  {
+    "word": "preservation",
+    "pos": "n"
+  },
+  {
+    "word": "preside",
+    "pos": "v"
+  },
+  {
+    "word": "presidency",
+    "pos": "n"
+  },
+  {
+    "word": "presidential",
+    "pos": "adj"
+  },
+  {
+    "word": "prestigious",
+    "pos": "adj"
+  },
+  {
+    "word": "presumably",
+    "pos": "adv"
+  },
+  {
+    "word": "presume",
+    "pos": "v"
+  },
+  {
+    "word": "prevail",
+    "pos": "v"
+  },
+  {
+    "word": "prevalence",
+    "pos": "n"
+  },
+  {
+    "word": "prevention",
+    "pos": "n"
+  },
+  {
+    "word": "prey",
+    "pos": "n"
+  },
+  {
+    "word": "principal",
+    "pos": "adj, n"
+  },
+  {
+    "word": "privatization",
+    "pos": "n"
+  },
+  {
+    "word": "privilege",
+    "pos": "n"
+  },
+  {
+    "word": "probe",
+    "pos": "n., v"
+  },
+  {
+    "word": "problematic",
+    "pos": "adj"
+  },
+  {
+    "word": "proceedings",
+    "pos": "n"
+  },
+  {
+    "word": "proceeds",
+    "pos": "n"
+  },
+  {
+    "word": "processing",
+    "pos": "n"
+  },
+  {
+    "word": "processor",
+    "pos": "n"
+  },
+  {
+    "word": "proclaim",
+    "pos": "v"
+  },
+  {
+    "word": "productive",
+    "pos": "adj"
+  },
+  {
+    "word": "productivity",
+    "pos": "n"
+  },
+  {
+    "word": "profitable",
+    "pos": "adj"
+  },
+  {
+    "word": "profound",
+    "pos": "adj"
+  },
+  {
+    "word": "projection",
+    "pos": "n"
+  },
+  {
+    "word": "prominent",
+    "pos": "adj"
+  },
+  {
+    "word": "pronounced",
+    "pos": "adj"
+  },
+  {
+    "word": "propaganda",
+    "pos": "n"
+  },
+  {
+    "word": "proposition",
+    "pos": "n"
+  },
+  {
+    "word": "prosecute",
+    "pos": "v"
+  },
+  {
+    "word": "prosecution",
+    "pos": "n"
+  },
+  {
+    "word": "prosecutor",
+    "pos": "n"
+  },
+  {
+    "word": "prospective",
+    "pos": "adj"
+  },
+  {
+    "word": "prosperity",
+    "pos": "n"
+  },
+  {
+    "word": "protective",
+    "pos": "adj"
+  },
+  {
+    "word": "protocol",
+    "pos": "n"
+  },
+  {
+    "word": "province",
+    "pos": "n"
+  },
+  {
+    "word": "provincial",
+    "pos": "adj"
+  },
+  {
+    "word": "provision",
+    "pos": "n"
+  },
+  {
+    "word": "provoke",
+    "pos": "v"
+  },
+  {
+    "word": "psychiatric",
+    "pos": "adj"
+  },
+  {
+    "word": "pulse",
+    "pos": "n"
+  },
+  {
+    "word": "pump",
+    "pos": "v., n"
+  },
+  {
+    "word": "punch",
+    "pos": "n., v"
+  },
+  {
+    "word": "query",
+    "pos": "n"
+  },
+  {
+    "word": "quest",
+    "pos": "n"
+  },
+  {
+    "word": "quota",
+    "pos": "n"
+  },
+  {
+    "word": "radar",
+    "pos": "n"
+  },
+  {
+    "word": "radical",
+    "pos": "adj"
+  },
+  {
+    "word": "rage",
+    "pos": "n"
+  },
+  {
+    "word": "raid",
+    "pos": "n., v"
+  },
+  {
+    "word": "rally",
+    "pos": "n., v"
+  },
+  {
+    "word": "ranking",
+    "pos": "n"
+  },
+  {
+    "word": "rape",
+    "pos": "n., v"
+  },
+  {
+    "word": "ratio",
+    "pos": "n"
+  },
+  {
+    "word": "rational",
+    "pos": "adj"
+  },
+  {
+    "word": "ray",
+    "pos": "n"
+  },
+  {
+    "word": "readily",
+    "pos": "adv"
+  },
+  {
+    "word": "realization",
+    "pos": "n"
+  },
+  {
+    "word": "realm",
+    "pos": "n"
+  },
+  {
+    "word": "rear",
+    "pos": "adj., n"
+  },
+  {
+    "word": "reasoning",
+    "pos": "n"
+  },
+  {
+    "word": "reassure",
+    "pos": "v"
+  },
+  {
+    "word": "rebel",
+    "pos": "n"
+  },
+  {
+    "word": "rebellion",
+    "pos": "n"
+  },
+  {
+    "word": "recipient",
+    "pos": "n"
+  },
+  {
+    "word": "reconstruction",
+    "pos": "n"
+  },
+  {
+    "word": "recount",
+    "pos": "v"
+  },
+  {
+    "word": "referendum",
+    "pos": "n"
+  },
+  {
+    "word": "reflection",
+    "pos": "n"
+  },
+  {
+    "word": "reform",
+    "pos": "n., v"
+  },
+  {
+    "word": "refuge",
+    "pos": "n"
+  },
+  {
+    "word": "refusal",
+    "pos": "n"
+  },
+  {
+    "word": "regain",
+    "pos": "v"
+  },
+  {
+    "word": "regardless",
+    "pos": "adv"
+  },
+  {
+    "word": "regime",
+    "pos": "n"
+  },
+  {
+    "word": "regulator",
+    "pos": "n"
+  },
+  {
+    "word": "regulatory",
+    "pos": "adj"
+  },
+  {
+    "word": "rehabilitation",
+    "pos": "n"
+  },
+  {
+    "word": "reign",
+    "pos": "n., v"
+  },
+  {
+    "word": "rejection",
+    "pos": "n"
+  },
+  {
+    "word": "relevance",
+    "pos": "n"
+  },
+  {
+    "word": "reliability",
+    "pos": "n"
+  },
+  {
+    "word": "reluctant",
+    "pos": "adj"
+  },
+  {
+    "word": "remainder",
+    "pos": "n"
+  },
+  {
+    "word": "remains",
+    "pos": "n"
+  },
+  {
+    "word": "remedy",
+    "pos": "n"
+  },
+  {
+    "word": "reminder",
+    "pos": "n"
+  },
+  {
+    "word": "removal",
+    "pos": "n"
+  },
+  {
+    "word": "render",
+    "pos": "v"
+  },
+  {
+    "word": "renew",
+    "pos": "v"
+  },
+  {
+    "word": "renowned",
+    "pos": "adj"
+  },
+  {
+    "word": "rental",
+    "pos": "n"
+  },
+  {
+    "word": "replacement",
+    "pos": "n"
+  },
+  {
+    "word": "reportedly",
+    "pos": "adv"
+  },
+  {
+    "word": "representation",
+    "pos": "n"
+  },
+  {
+    "word": "reproduce",
+    "pos": "v"
+  },
+  {
+    "word": "reproduction",
+    "pos": "n"
+  },
+  {
+    "word": "republic",
+    "pos": "n"
+  },
+  {
+    "word": "resemble",
+    "pos": "v"
+  },
+  {
+    "word": "reside",
+    "pos": "v"
+  },
+  {
+    "word": "residence",
+    "pos": "n"
+  },
+  {
+    "word": "residential",
+    "pos": "adj"
+  },
+  {
+    "word": "residue",
+    "pos": "n"
+  },
+  {
+    "word": "resignation",
+    "pos": "n"
+  },
+  {
+    "word": "resistance",
+    "pos": "n"
+  },
+  {
+    "word": "respective",
+    "pos": "adj"
+  },
+  {
+    "word": "respectively",
+    "pos": "adv"
+  },
+  {
+    "word": "restoration",
+    "pos": "n"
+  },
+  {
+    "word": "restraint",
+    "pos": "n"
+  },
+  {
+    "word": "resume",
+    "pos": "v"
+  },
+  {
+    "word": "retreat",
+    "pos": "n., v"
+  },
+  {
+    "word": "retrieve",
+    "pos": "v"
+  },
+  {
+    "word": "revelation",
+    "pos": "n"
+  },
+  {
+    "word": "revenge",
+    "pos": "n"
+  },
+  {
+    "word": "reverse",
+    "pos": "v., n., adj"
+  },
+  {
+    "word": "revival",
+    "pos": "n"
+  },
+  {
+    "word": "revive",
+    "pos": "v"
+  },
+  {
+    "word": "revolutionary",
+    "pos": "adj"
+  },
+  {
+    "word": "rhetoric",
+    "pos": "n"
+  },
+  {
+    "word": "rifle",
+    "pos": "n"
+  },
+  {
+    "word": "riot",
+    "pos": "n"
+  },
+  {
+    "word": "rip",
+    "pos": "v"
+  },
+  {
+    "word": "ritual",
+    "pos": "n"
+  },
+  {
+    "word": "robust",
+    "pos": "adj"
+  },
+  {
+    "word": "rock",
+    "pos": "v"
+  },
+  {
+    "word": "rod",
+    "pos": "n"
+  },
+  {
+    "word": "rotate",
+    "pos": "v"
+  },
+  {
+    "word": "rotation",
+    "pos": "n"
+  },
+  {
+    "word": "ruling",
+    "pos": "n"
+  },
+  {
+    "word": "rumour",
+    "pos": "n"
+  },
+  {
+    "word": "sack",
+    "pos": "v"
+  },
+  {
+    "word": "sacred",
+    "pos": "adj"
+  },
+  {
+    "word": "sacrifice",
+    "pos": "n., v"
+  },
+  {
+    "word": "saint",
+    "pos": "n"
+  },
+  {
+    "word": "sake",
+    "pos": "n"
+  },
+  {
+    "word": "sanction",
+    "pos": "n"
+  },
+  {
+    "word": "say",
+    "pos": "n, v"
+  },
+  {
+    "word": "scattered",
+    "pos": "adj"
+  },
+  {
+    "word": "sceptical",
+    "pos": "adj"
+  },
+  {
+    "word": "scope",
+    "pos": "n"
+  },
+  {
+    "word": "screw",
+    "pos": "v., n"
+  },
+  {
+    "word": "scrutiny",
+    "pos": "n"
+  },
+  {
+    "word": "seal",
+    "pos": "v., n"
+  },
+  {
+    "word": "secular",
+    "pos": "adj"
+  },
+  {
+    "word": "seemingly",
+    "pos": "adv"
+  },
+  {
+    "word": "segment",
+    "pos": "n"
+  },
+  {
+    "word": "seize",
+    "pos": "v"
+  },
+  {
+    "word": "seldom",
+    "pos": "adv"
+  },
+  {
+    "word": "selective",
+    "pos": "adj"
+  },
+  {
+    "word": "senator",
+    "pos": "n"
+  },
+  {
+    "word": "sensation",
+    "pos": "n"
+  },
+  {
+    "word": "sensitivity",
+    "pos": "n"
+  },
+  {
+    "word": "sentiment",
+    "pos": "n"
+  },
+  {
+    "word": "separation",
+    "pos": "n"
+  },
+  {
+    "word": "serial",
+    "pos": "adj"
+  },
+  {
+    "word": "set-up",
+    "pos": "n"
+  },
+  {
+    "word": "settlement",
+    "pos": "n"
+  },
+  {
+    "word": "sexuality",
+    "pos": "n"
+  },
+  {
+    "word": "shareholder",
+    "pos": "n"
+  },
+  {
+    "word": "shatter",
+    "pos": "v"
+  },
+  {
+    "word": "shed",
+    "pos": "v"
+  },
+  {
+    "word": "sheer",
+    "pos": "adj"
+  },
+  {
+    "word": "shipping",
+    "pos": "n"
+  },
+  {
+    "word": "shoot",
+    "pos": "n, v"
+  },
+  {
+    "word": "shrink",
+    "pos": "v"
+  },
+  {
+    "word": "shrug",
+    "pos": "v"
+  },
+  {
+    "word": "sigh",
+    "pos": "v., n"
+  },
+  {
+    "word": "simulate",
+    "pos": "v"
+  },
+  {
+    "word": "simulation",
+    "pos": "n"
+  },
+  {
+    "word": "simultaneously",
+    "pos": "adv"
+  },
+  {
+    "word": "sin",
+    "pos": "n"
+  },
+  {
+    "word": "situated",
+    "pos": "adj"
+  },
+  {
+    "word": "sketch",
+    "pos": "n"
+  },
+  {
+    "word": "skip",
+    "pos": "v"
+  },
+  {
+    "word": "slam",
+    "pos": "v"
+  },
+  {
+    "word": "slap",
+    "pos": "v"
+  },
+  {
+    "word": "slash",
+    "pos": "v"
+  }
+]
